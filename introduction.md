@@ -33,7 +33,3 @@ Zitt 本冊所使用 ew 書寫系統是參考各種台語界前輩 ew 設計所�
 # 版本
 
 working draft
-
-# LICENSE
-CC BY-NC-ND 4.0.
-https://creativecommons.org/licenses/by-nc-nd/4.0/
