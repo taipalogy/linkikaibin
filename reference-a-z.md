@@ -208,7 +208,7 @@
 * 多義語. [https://ko.wikipedia.org/wiki/다의어](https://ko.wikipedia.org/wiki/다의어)
 * polysemy. [https://en.wikipedia.org/wiki/Polysemy](https://en.wikipedia.org/wiki/Polysemy)
 
-### 斷語 duanygiy/duanyguy
+### 斷語 duanwgiy/duanwguy
 
 * [http://ejje.weblio.jp/content/日本語単語分割](http://ejje.weblio.jp/content/日本語単語分割)
 * [http://ejje.weblio.jp/content/単語の分割点](http://ejje.weblio.jp/content/単語の分割点)
@@ -254,7 +254,7 @@
 
 ### 語形成 gisshingzssingx
 
-* word formation: 《文法》語形成, 造語法. [https://kotobank.jp/ejword/word%20formation](https://kotobank.jp/ejword/word formation)
+* word formation: 語形成, 造語法. [https://ejje.weblio.jp/content/word%E2%80%90formation](https://ejje.weblio.jp/content/word%E2%80%90formation)
 * 語形成. [https://ko.wikipedia.org/wiki/어형성](https://ko.wikipedia.org/wiki/어형성)
 * 造語法. [https://ja.wikipedia.org/wiki/造語法](https://ja.wikipedia.org/wiki/造語法)
 
