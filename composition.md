@@ -4,8 +4,6 @@
 
 組一 ezs 漢字組 ew 組字, diurff 是 qaw 一 ezs 漢字序列組成一 ezs 漢字組. 組一 ezs 漢字 ew 組字, diurff 是 qaw 一 ezs 部件序列組成一 ezs 漢字. Ze 兩種組字 so iongzs ew 方法是 qangw 欵 ew.
 
-廈英大辭典內底 uw dingygiw 字母 diurff 是一个 word ew radical, diurff 是 alphabet ew letter.
-
 ## 品詞
 
 一句 "kau vauzs kauy" diurff ewdangy 用頭一 ezs 口 qaw 第二 ezs 口包 kifflaih. 其中兩 ezs 口 long 是名詞, ahh 包 siw 動詞. 頭一 ezs 口 siw 名詞 zury 主語, 第二 ezs 口 siw 名詞 zury 目的語. 一般 lan so qongy ew 電腦語言 vingw burzs 品詞 ew 概念. 品詞 ewdangy 用 enumeration laizs 設定, 譬喻 qong 動詞 siw`1`, 名詞 siw`2`.
