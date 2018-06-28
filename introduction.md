@@ -4,7 +4,7 @@
 
 Diw 電腦語言發明進前, diurw 已經有人用手寫出程式 aw. 英國人 Ada Lovelace diw 1840 年代頭一擺寫出程式了後, qokk 愛經過差不多一百冬, diw 1950年代, 頭一个 ewdangy 用 compiler qaw 根源碼 compile 做機器碼 ew 電腦語言 ziahh diw Manchester 大學開發 cuddlaih. 紲落來 1960 年代到 gimzxmay, 各種無仝功能 ew 電腦語言是一直創造 cuddlaih.
 
-雖然講有自然語言 qahh 電腦語言 zitt 種 ew 區別存在, 但是美國人 diw 美國用英語 ew 思維創造出電腦語言, 所以英語 qahh 電腦語言 ew 概念是相通 ezs, long 是抽象化 ew 語言. 譬喻講, codes, coded, coding, qahh coder long 是對 code 屈折 cuddlaih ew. 所以 code zitt 字著是 codes, coded, coding, qahh coder ew 抽象型式. 各種 ew 自然語言 long 有無仝型式 ew 抽象化, 咱 long ewdangy qaw 提來利用.
+雖然講有自然語言 qahh 電腦語言 zitt 種 ew 區別存在, 但是美國人 diw 美國用英語 ew 思維創造出電腦語言, 所以英語 qahh 電腦語言 ew 概念是相通 ezs, long 是抽象化 ew 語言. 譬喻講, codes, coded, coding, qahh coders long 是 duiy code 屈折或者是衍生 cuddlaih ew. 所以 code zitt 字著是 codes, coded, coding, qahh coder ew 抽象型式. 各種 ew 自然語言 long 有無仝型式 ew 抽象化, 咱 long ewdangy qaw 提來利用.
 
 台語 qahh 電腦語言 ew 結合著是利用台語 ew 造語機制來運作. 台語造語是利用變調來造語. 譬喻講, 若是 qaw 兩个單音節單語 dauw kifflaih 變做一个雙音節單語, 頭前 hittle 音節著愛變調. 變調 ew 意思我 qaw 號做 enabling, diurff 是作動. Ahh 是啥物愛作動 neh? 著是愛 iongw double dispatch 執行. 若是兩个單語 long 是本調無變調, diurff 表示 disabling, 著是無作動. 無作動 diurff buew 去執行 double dispatch. 若是多音節單語, 設計 ew 原理 maw 是仝款.
 
