@@ -23,11 +23,6 @@
 
 * 長澤 規矩也
 
-### code
-
-* [https://github.com/sotronx/xmas-tree](https://github.com/sotronx/xmas-tree)
-* [https://github.com/sotronx/kasi](https://github.com/sotronx/kasi)
-
 ### 臺日大辭典
 
 * 小川尚義
@@ -117,11 +112,6 @@
 
 ### **Random House Webster's Dictionary of American English**
 
-### SDJ OPEN November 2014
-
-* The Latest Innovative Methods in Programming
-* [http://sdjournal.org/download/sdj-open/](http://sdjournal.org/download/sdj-open/)
-
 ### 新訂日臺大辭典
 
 * 小川尚義
@@ -141,5 +131,3 @@
 * [http://ejje.weblio.jp/](http://ejje.weblio.jp/)
 
 ### Wikipedia
-
-
