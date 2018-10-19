@@ -58,7 +58,7 @@ Qaw `printToPdf();` 文設定做印 ew 頭一个定義, `printToPaper();` 設定
 // siwinw
 //
 def notify
-printToPdf
+  printToPdf
 end
 ```
 

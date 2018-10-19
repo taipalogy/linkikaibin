@@ -58,7 +58,7 @@ context.add([_di, _in, 2])
 //
 
 def inform
-printToPaper
+  printToPaper
 end
 ```
 
@@ -81,7 +81,7 @@ def setUpPrinterCore
 end
 
 def notify
-printToPdf
+  printToPdf
 end
 ```
 
@@ -96,7 +96,7 @@ def setUpPrinterCore
 end
 
 def inform
-printToPaper
+  printToPaper
 end
 ```
 
@@ -160,7 +160,7 @@ void setUpPrinterCore()
 
 void inform()
 {
-printToPaper();
+  printToPaper();
 }
 ```
 
@@ -191,7 +191,7 @@ func setUpPrinterCore()
 
 func inform()
 {
-printToPaper()
+  printToPaper()
 }
 ```
 
@@ -259,7 +259,7 @@ void setUpPrinterCore()
 
 void inform(PrintingObject prnObj)
 {
-prnObj.printToPaper();
+  prnObj.printToPaper();
 }
 ```
 
@@ -290,7 +290,7 @@ function setUpPrinterCore()
 
 function inform()
 {
-printToPaper();
+  printToPaper();
 }
 ```
 
@@ -345,13 +345,11 @@ Ze 是 `siat dizsinw` ew declarative code snippet:
 //
 #setUpPrinterCore
 {
-transition-duration: 1s;
+  transition-duration: 1s;
 }
 
 #piecesOfInformation
 {
-background-color: #ffffff
+  background-color: #ffffff
 }
 ```
-
-
