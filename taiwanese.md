@@ -16,7 +16,7 @@
 | **slot 0** | dua7 |
 | **slot 1** | dua3 |
 
-一个 hanjiz, 也著是一个匹配 ew 漢字, 若 mw 是 diw 系列內底 diurff 是 diw 漢字組內底. 伊若是 diw 系列內底, 伊 diurff 是系列成員. 伊若是 diw 組內, 伊 diurff 是組成員. 一个 hanjiz 若是 diw 系列內底或者是 diw 組內上尾溜, 伊是用儲存 diw 聲調 array 索引零 ew 原調來確認伊 ew 匹配:
+一个 hanjiz, 也着是一个匹配 ew 漢字, 若 mw 是 diw 系列內底 diurff 是 diw 漢字組內底. 伊若是 diw 系列內底, 伊 diurff 是系列成員. 伊若是 diw 組內, 伊 diurff 是組成員. 一个 hanjiz 若是 diw 系列內底或者是 diw 組內上尾溜, 伊是用儲存 diw 聲調 array 索引零 ew 原調來確認伊 ew 匹配:
 
 | | **大** |
 | :--- | :--- |

@@ -2,7 +2,7 @@
 
 多義性 ew 英文是 ambiguity. 另外有一个單語號做 polysemy 是專門指語言上有多義性. 另外 ambiguity qurhh 有曖昧, 含糊 ew 意思, ze 是 ambiguity qahh polysemy siongw 大 ew 差別.
 
-譬喻講 table zitt 字, 伊 ewdangy 指桌仔, maw ewdangy 指表格. ze 是 table ew 多義性. qurhh 看 book zitt 字, 若做名詞用著是「冊」ew 意思. 若做動詞著有預訂 ew 意思. ze 是「冊」ew 多義性.
+譬喻講 table zitt 字, 伊 ewdangy 指桌仔, maw ewdangy 指表格. ze 是 table ew 多義性. qurhh 看 book zitt 字, 若做名詞用着是「冊」ew 意思. 若做動詞着有預訂 ew 意思. ze 是「冊」ew 多義性.
 
 下腳是一个有曖昧性, 有 ambiguity ew 文:
 
@@ -18,7 +18,7 @@ Zitt 句話 ew 意思是用鎖匙或者是摃槌仔 qaw 箱仔扑開. 所以 kaw
 | unlock | unlock it | unlockIt |
 | break | break it into pieces | breakIt |
 
-對頂 quanx ew 表格 ewdangy 看 cuddlaih, 單語 open 有二个隱含 ew 意思, 一个是 unlock, 另外一个是 break. 若 beh unlock 是愛用鎖匙, 若 behh break 是愛用摃槌仔. Ze 二个隱含 ew 意思著是 zitt 个文 ew 曖昧性.
+對頂 quanx ew 表格 ewdangy 看 cuddlaih, 單語 open 有二个隱含 ew 意思, 一个是 unlock, 另外一个是 break. 若 beh unlock 是愛用鎖匙, 若 behh break 是愛用摃槌仔. Ze 二个隱含 ew 意思着是 zitt 个文 ew 曖昧性.
 
 Gimzx'may diw ze 表格每一行頭前填寫對應 ew 台語:
 

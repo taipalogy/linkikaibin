@@ -1,6 +1,6 @@
 # 對組字來看
 
-組字著是 qaw 幾若 ezs 漢字部件組成一 ezs 漢字. 譬喻 qong "口包口" ew 組成 "回", "口併口" ew 組成 "吅", "口疊口" ew 組成 "吕", "口併口托口" ew 組成 "品" 等等.
+組字着是 qaw 幾若 ezs 漢字部件組成一 ezs 漢字. 譬喻 qong "口包口" ew 組成 "回", "口併口" ew 組成 "吅", "口疊口" ew 組成 "吕", "口併口托口" ew 組成 "品" 等等.
 
 組一 ezs 漢字組 ew 組字, diurff 是 qaw 一 ezs 漢字序列組成一 ezs 漢字組. 組一 ezs 漢字 ew 組字, diurff 是 qaw 一 ezs 部件序列組成一 ezs 漢字. Ze 兩種組字 so iongzs ew 方法是 qangw 欵 ew.
 

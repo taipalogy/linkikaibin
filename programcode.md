@@ -2,7 +2,7 @@
 
 ## 組成 qahh 組合
 
-任何一个字字對, 字組對, qahh 組組對 ew 中間 long ew 發生組合. 字著是漢字, 組著是漢字組. 咱 ewdangy 用組合 operator qaw 漢字 qahh 漢字組組合 kifflaih. Hanja, Hanji, qahh Kanji long 仝款.
+任何一个字字對, 字組對, qahh 組組對 ew 中間 long ew 發生組合. 字着是漢字, 組着是漢字組. 咱 ewdangy 用組合 operator qaw 漢字 qahh 漢字組組合 kifflaih. Hanja, Hanji, qahh Kanji long 仝欵.
 
 以下腳 ew 例來講, 「畫」,「烏」, 「馬」是三个分別 ew 漢字物件, 無成組. 「烏」qahh「馬」是用 And operator 組合 kifflaih. 「畫」qahh「烏馬」是用 Or operator 組合 kifflaih. 所以 matcher 會產生一个已匹配 ew 系列`畫|烏&馬`. 像下腳 ew 聲調表格:
 
@@ -43,7 +43,7 @@ m = Matcher.new("uezs | ozs & bey").match([_ue, _o, _be])
 m = Matcher.new("uew | ozs & bey").match([_ue, _o, _be])
 ```
 
-若無製組或者是選用 ew 時陣, 漢字著是親像印 diw 紙面或者是螢幕頂 quanx ew 一个符號或者是表意文字:
+若無製組或者是選用 ew 時陣, 漢字着是親像印 diw 紙面或者是螢幕頂 quanx ew 一个符號或者是表意文字:
 
 | | **畫** |
 | :--- | :--- |
@@ -67,7 +67,7 @@ ue.statement = ["function draw() {}"]
 
 ## Associativity
 
-I 台語 laizs 講, mw 管是 diw 組內或者是括號內, 一个系列物件 ew evaluation 結合規則 ewdangy 採用對正爿到倒爿 ew 結合, 也著是右結合. 以各種語言 ew 特性, ewdangy 採用左結合或者是右結合.
+I 台語 laizs 講, mw 管是 diw 組內或者是括號內, 一个系列物件 ew evaluation 結合規則 ewdangy 採用對正爿到倒爿 ew 結合, 也着是右結合. 以各種語言 ew 特性, ewdangy 採用左結合或者是右結合.
 
 Maw ewdangy 用大寫 qahh 標點符號 laizs 取代括號. 譬喻 qong, qaw 左括號正 vingx hitt 字 qahh 右括號倒 vingx hitt 字 ew 首字母寫做大寫. 或者是 qaw 右括號用句點`.`代替.
 
@@ -91,19 +91,19 @@ diw evaluate 一个漢字組物件 ew 時陣, ewdangy 對 global ew context 內�
 
 ## Context ew 設定
 
-上基本 ew context 設定有兩種. 一種著是直接指定 behh「提」, 或者是講「選」dohh 一个定義. diw zia 咱選用「印」ew 頭一个定義:
+上基本 ew context 設定有兩種. 一種着是直接指定 behh「提」, 或者是講「選」dohh 一个定義. diw zia 咱選用「印」ew 頭一个定義:
 
 ```
 context.add([_in, 1]);
 ```
 
-另外一種著是設定頭一字 behh 選第二字 ew dohh 一个定義:
+另外一種着是設定頭一字 behh 選第二字 ew dohh 一个定義:
 
 ```
 context.add([_si, _in, 1]);
 ```
 
-若 behh 移除設定, 著用`removeFromeContext();`. 像咱若無 behh 選「印」ew 頭一个定義, ewdangy anssne 做:
+若 behh 移除設定, 着用`removeFromeContext();`. 像咱若無 behh 選「印」ew 頭一个定義, ewdangy anssne 做:
 
 ```
 context.remove(_in, 1);
@@ -117,7 +117,7 @@ context.remove(_si, _in, 1);
 
 ## 組合 Operator
 
-組合是發生 diw 任何兩个相倚 ew 系列成員或者是漢字組成員之間. 兩種 siongw 基本 ew 組合著是嵌入 qahh 並列. 並列組合比嵌入組合 qurhh kahh 好 implement, qaw 文一个接一个循序顯示 cuttlaih diurff 好. 若是嵌入組合咱 ewdangy qaw 倒手爿 ew 文合集拆開, 了後用倒手爿 ezs qaw 正手爿 ew 文合集包 kifflaih.
+組合是發生 diw 任何兩个相倚 ew 系列成員或者是漢字組成員之間. 兩種 siongw 基本 ew 組合着是嵌入 qahh 並列. 並列組合比嵌入組合 qurhh kahh 好 implement, qaw 文一个接一个循序顯示 cuttlaih diurff 好. 若是嵌入組合咱 ewdangy qaw 倒手爿 ew 文合集拆開, 了後用倒手爿 ezs qaw 正手爿 ew 文合集包 kifflaih.
 
 ## 根源碼 ew Breakdown
 
@@ -167,9 +167,9 @@ qahh:
 @lexer.shift
 ```
 
-咱總是 behh 用韓語語形去匹配一个 hanja, 用日語語形去匹配一个 kanji, 用台語聲調去匹配一个 hanji, qahh 用英語單語去匹配一个表意文字. Matcher 是負責用表達式去匹配一序列 ew Hanja 物件, hanji 物件, kanji 物件, 或者是表意文字物件. 若是有揣著匹配, matcher 著用韓語語形 qaw Hanja 物件鑄型, 用日語語形 qaw kanji 物件鑄型, 用台語聲調 qaw hanji 物件鑄型, qahh 用英語單語 qaw Ideogram 物件鑄型. Hanja 物件 ew 語形, hanji 物件 ew 聲調, 表意文字 ew 單語, qahh kanji 物件 ew 語形著是對型鑄得著確認.
+咱總是 behh 用韓語語形去匹配一个 hanja, 用日語語形去匹配一个 kanji, 用台語聲調去匹配一个 hanji, qahh 用英語單語去匹配一个表意文字. Matcher 是負責用表達式去匹配一序列 ew Hanja 物件, hanji 物件, kanji 物件, 或者是表意文字物件. 若是有揣着匹配, matcher 着用韓語語形 qaw Hanja 物件鑄型, 用日語語形 qaw kanji 物件鑄型, 用台語聲調 qaw hanji 物件鑄型, qahh 用英語單語 qaw Ideogram 物件鑄型. Hanja 物件 ew 語形, hanji 物件 ew 聲調, 表意文字 ew 單語, qahh kanji 物件 ew 語形着是對型鑄得着確認.
 
-逐个 token long 會去 how 匹配著一个 Hanja, hanji, Ideogram, 或者是 kanji 物件, 若無著是 how 提去創造 And 表達物件, 或者是 Or 表達物件. 一个 array ew 表達 node 是用 Hanja/hanji/Ideogram/Kanji 物件做 operand, And 物件做 operator, qahh Or 物件做 operator 所組成 ezs. 表達 node ew array 會 how matcher 當做 match data 回傳.
+逐个 token long 會去 how 匹配着一个 Hanja, hanji, Ideogram, 或者是 kanji 物件, 若無着是 how 提去創造 And 表達物件, 或者是 Or 表達物件. 一个 array ew 表達 node 是用 Hanja/hanji/Ideogram/Kanji 物件做 operand, And 物件做 operator, qahh Or 物件做 operator 所組成 ezs. 表達 node ew array 會 how matcher 當做 match data 回傳.
 
 ### 剖文
 
@@ -183,4 +183,4 @@ end
 
 Shunt 過 ew match data 其實是一个抽象構文樹. 一个抽象構文樹是準備好 behh how evaluate/compile/interprete 做目標語言碼. Ewdangy 加入 visitor pattern 來對一个抽象構文樹做各種 ew 操作.
 
-逐種語言 long 有伊 qazsqizs ew 功能 qahh 限制. 咱所 behh 做 ew 著是 how inzs siongw 大 ew 發揮空間.
+逐種語言 long 有伊 qazsqizs ew 功能 qahh 限制. 咱所 behh 做 ew 着是 how inzs siongw 大 ew 發揮空間.
