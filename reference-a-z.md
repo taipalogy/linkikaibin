@@ -6,9 +6,8 @@
 
 ### array
 
-* 排陣. _英廈辭典_
-* \(陣伍\[陣勢\]\) n. Battle-array. _A Chinese-English Dictionary Taiwan Dialect_
-* \(戰陣\) battle array. _A Chinese-English Dictionary Taiwan Dialect_
+* (陣伍[陣勢]) n. Battle-array. _A Chinese-English Dictionary Taiwan Dialect_
+* (戰陣) battle array. _A Chinese-English Dictionary Taiwan Dialect_
 * order, arrangement. to put in order, to place in order. [http://www.etymonline.com/index.php?allowed\\_in\\_frame=0&search=array](http://www.etymonline.com/index.php?allowed_in_frame=0&search=array)
 
 ### associate
@@ -40,18 +39,18 @@
 
 ### 文 bunx
 
-* 1. \(文\) sentence; writing. _A Chinese-English Dictionary Taiwan Dialect_
+* 1. (文) sentence; writing. _A Chinese-English Dictionary Taiwan Dialect_
 * sentence. statement. [http://ejje.weblio.jp/content/文](http://ejje.weblio.jp/content/文)
 * sentence: 《文法》文. [https://kotobank.jp/ejword/sentence](https://kotobank.jp/ejword/sentence)
 * statement: it is analogous to the simple sentence of a natural language. _McGraw-Hill Dictionary of Computers_
 * 文章, statement, sentence. [http://kin.naver.com/openkr/detail.nhn?docId=23827](http://kin.naver.com/openkr/detail.nhn?docId=23827)
-* statement \(Swift\): [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift\_Programming\_Language/Statements.html](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Statements.html)
-* statement \(C++\): \[[https://msdn.microsoft.com/en-us/library/aa664731\(v=vs.71\).aspx\]\(https://msdn.microsoft.com/en-us/library/aa664731\(v=vs.71\).aspx\](https://msdn.microsoft.com/en-us/library/aa664731%28v=vs.71%29.aspx]%28https://msdn.microsoft.com/en-us/library/aa664731%28v=vs.71%29.aspx%29\)
-* compound statement \(C\): [https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx](https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx)
-* simple statement \(Python\): [https://docs.python.org/3/reference/simple\_stmts.html](https://docs.python.org/3/reference/simple_stmts.html)
-* compound statement \(Python\): [https://docs.python.org/3/reference/compound\_stmts.html](https://docs.python.org/3/reference/compound_stmts.html)
+* statement (Swift): [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift\_Programming\_Language/Statements.html](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Statements.html)
+* statement (C++): [https://en.cppreference.com/w/cpp/language/statements](https://en.cppreference.com/w/cpp/language/statements)
+* compound statement (C): [https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx](https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx)
+* simple statement (Python): [https://docs.python.org/3/reference/simple\_stmts.html](https://docs.python.org/3/reference/simple_stmts.html)
+* compound statement (Python): [https://docs.python.org/3/reference/compound\_stmts.html](https://docs.python.org/3/reference/compound_stmts.html)
 * Ruby Syntax: [http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html)
-* statements \(D\): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
+* statements (D): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
 
 ### 文合集 bunzshabbzib
 
@@ -63,15 +62,6 @@
 * grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semantics. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
 * grammar: 文法；文法学［研究, 論］；（個人の）文法的知識, 語法, 言葉づかい. [https://kotobank.jp/ejword/grammar](https://kotobank.jp/ejword/grammar)
 * D Grammar: [https://dlang.org/spec/grammar.html](https://dlang.org/spec/grammar.html)
-* woordvoeging, syntaxis. _廈荷詞典_
-* syntaxis \(woordvoeging\). _荷華文語類參_
-
-### 文節 bunzszat
-
-* clause
-* [https://kotobank.jp/ejword/clause](https://kotobank.jp/ejword/clause)
-* \[[https://ja.wikipedia.org/wiki/節\_\(文法\]\(https://ja.wikipedia.org/wiki/節\_\(文法\)\](https://ja.wikipedia.org/wiki/節_%28文法]%28https://ja.wikipedia.org/wiki/節_%28文法%29%29\)
-* \[[https://ko.wikipedia.org/wiki/절\_\(언어학\]\(https://ko.wikipedia.org/wiki/절\_\(언어학\)\](https://ko.wikipedia.org/wiki/절_%28언어학]%28https://ko.wikipedia.org/wiki/절_%28언어학%29%29\)
 
 ### character
 
@@ -82,7 +72,7 @@
 * [http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=%EA%B8%80%EC%9E%90](http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=글자)
 * [http://dic.daum.net/word/view.do?wordid=kew000010678](http://dic.daum.net/word/view.do?wordid=kew000010678)
 
-### 棧 ciany
+### 棧 cieny
 
 * 拾棧, 糕仔棧. 三棧. _台日大辭典_
 
@@ -109,13 +99,11 @@
 * 替代. _台日大辭典_
 * 改換, 替換. 替. _甘為霖台語字典_
 * 交替也. _台語四用漢字字源_
-* to change, to come instead of, to substitute. _福建方言字典_
 
 ### 單語 danzsgiy/danzsguy
 
 * word
 * a word. [https://kotobank.jp/jeword/単語](https://kotobank.jp/jeword/単語)
-* [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64633&dbname=dic&graph=2](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64633&dbname=dic&graph=2)
 
 ### 單語系列 danzsgiy hewliad
 
@@ -127,15 +115,11 @@
 
 ### 單句 danzsquw
 
-* [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64647&dbname=dic&graph=2](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64647&dbname=dic&graph=2)
-
 ### 單句話 danzsquyuezx
-
-* [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64649&dbname=dic&graph=2](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=64649&dbname=dic&graph=2)
 
 ### dauw
 
-* 連結 lianzsqiat
+* 連結 lienzsqiat
 
 * concate, concatenation
 
@@ -146,32 +130,21 @@
 
 ### design pattern
 
-### 電腦語言 dianwnauy gissgianx
+### 電腦語言 dinwnauy gissgienx
 
 * computer language
 
 ### 迭 diad
 
-* to exchange. _增補廈英大辭典_
-
-* 迭次
-* time after time
-
 * 相替換, 變換, 輪流, 車轉. _甘為霖台語字典_
-
-* To exchange, to substitute, to repeat, to change, alternately. _福建方言字典_
-
-* 四國迭興
-
-* four states rising up in succession.
 
 * 迭用
 
-* the alternate use of.
+  * the alternate use of.
 
-* 三代迭用之. _A Chinese-English Dictionary Taiwan Dialect_
+  * 三代迭用之. _A Chinese-English Dictionary Taiwan Dialect_
 
-* the 3 dynasties used them alternately.
+  * the 3 dynasties used them alternately.
 
 ### 朝 diaux
 
@@ -184,7 +157,7 @@
 
 ### 同形異音語 dongzshingx iwimzsgiy
 
-* heteronym. \[[https://en.wikipedia.org/wiki/Heteronym\_\(linguistics\]\(https://en.wikipedia.org/wiki/Heteronym\_\(linguistics\)\](https://en.wikipedia.org/wiki/Heteronym_%28linguistics]%28https://en.wikipedia.org/wiki/Heteronym_%28linguistics%29%29\)
+* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
 * heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
 * 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
 * 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
@@ -222,10 +195,6 @@
 
 ### dynamic binding
 
-### EBNF
-
-* [https://en.wikipedia.org/wiki/Extended\_Backus–Naur\_Form](https://en.wikipedia.org/wiki/Extended_Backus–Naur_Form)
-
 ### embed
 
 ### enumerate
@@ -244,7 +213,7 @@
 
 ### 語法 gisshuat
 
-### 語形變化 gisshingx vianyhuaw
+### 語形變化 gisshingx vienyhuaw
 
 * 語形変化: [https://ja.wikipedia.org/wiki/語形変化](https://ja.wikipedia.org/wiki/語形変化)
 * infelction vs. derivation: [https://en.wikipedia.org/wiki/Inflection\#Inflection\_vs.\_derivation](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
@@ -266,7 +235,7 @@
 
 ### 語根 gissqin/gussqun
 
-* root. \[[https://en.wikipedia.org/wiki/Root\_\(linguistics\]\(https://en.wikipedia.org/wiki/Root\_\(linguistics\)\](https://en.wikipedia.org/wiki/Root_%28linguistics]%28https://en.wikipedia.org/wiki/Root_%28linguistics%29%29\)
+* root. https://en.wikipedia.org/wiki/Root_(linguistics)
 * 語根. [https://ja.wikipedia.org/wiki/語根](https://ja.wikipedia.org/wiki/語根)
 * 語根. [https://ko.wikipedia.org/wiki/어근](https://ko.wikipedia.org/wiki/어근)
 * 語根. _台日大辭典_
@@ -279,15 +248,13 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon](http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon)
 * [http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon](http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon)
 
-### 語邊界 gissvianzxqaiw
+### 語邊界 gissvienzxqaiw
 
 ### glyph
 
 ### 元 guanx
 
-* great; the origin, the principal, the chief. _福建方言字典_
 * 元素
-* the chemical elements. _增補廈英大辭典_
 
 ### 原 guanx
 
@@ -339,13 +306,9 @@
 
 ### 形 hingx
 
-* form. _福建方言字典_
 * form, shape. _Maryknoll Taiwanese English Dictionary_
-* 形體, form and substances. _福建方言字典_
 
 ### 型 hingx
-
-* a mould for casting metal, all moulds made of earth. _福建方言字典_
 
 ### 形成 hingzssingx
 
@@ -378,7 +341,7 @@
 
 ### 分組 hunzszo
 
-### 衍生 iansssing
+### 衍生 iensssing
 
 * derivation. derive.
 * \[日\]派生
@@ -402,7 +365,6 @@
 ### 字 jizs/lizs
 
 * n. a letter; a character. 2. a word. _A Chinese-English Dictionary Taiwan Dialect_
-* a word. _增補廈英大辭典_
 * 單語
 * 漢字
 * 表意文字
@@ -412,14 +374,10 @@
 
 * 〔語〕a word. [https://kotobank.jp/jeword/字](https://kotobank.jp/jeword/字)
 
-* karakter \(schriftteeken\). dzū. _荷華文語類參_
-
 ### 字母 jiwbuy/jiwbury
 
 * n. alphabet. _A Chinese-English Dictionary Taiwan Dialect_
-* \(oa̍h-jī-ê\) matrix, the letters of the alphabet. _A Chinese-English Dictionary Taiwan Dialect_
-* the radical of a word; a letter of alphabet. _廈英大辭典_
-* letters of the alphabet; radicals; the 50 sounds of the Japanese alphabet. _增補廈英大辭典_
+* (oa̍h-jī-ê) matrix, the letters of the alphabet. _A Chinese-English Dictionary Taiwan Dialect_
 
 ### 字母組合 jiwbury zozshab
 
@@ -433,17 +391,11 @@
 
 ### 字頭 jiwtaux
 
-* the initial sound of a syllable; initials. _增補廈英大辭典_
-
 ### 字尾 jiwbuey
-
-* the second half of a syllable; finals. _增補廈英大辭典_
 
 ### 字字對 jiwjiwduiw
 
 ### 字部 jiwvozs
-
-* a radical. _增補廈英大辭典_
 
 ### 字爿 jiwvingx
 
@@ -484,13 +436,13 @@
 * 算 siauw.
 * 列挙. _ジーニアス英和大辞典_
 
-### 連音 lianzsim
+### 連音 lienzsim
 
 * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 * [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
 * [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
 
-### 連結 lianzsqiat
+### 連結 lienzsqiat
 
 * concatenate, concatenation
 * [https://kotobank.jp/ejword/concatenate](https://kotobank.jp/ejword/concatenate)
@@ -499,7 +451,7 @@
 
 * [http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=concatenate](http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=concatenate)
 
-### 連聲 lianzssiann
+### 連聲 lienzssiann
 
 * [https://ja.wikipedia.org/wiki/連声](https://ja.wikipedia.org/wiki/連声)
 
@@ -570,7 +522,7 @@
 
 ### parameter
 
-* Parameter. \[[https://en.wikipedia.org/wiki/Parameter\_\(computer\_programming\]\(https://en.wikipedia.org/wiki/Parameter\_\(computer\_programming\)\](https://en.wikipedia.org/wiki/Parameter_%28computer_programming]%28https://en.wikipedia.org/wiki/Parameter_%28computer_programming%29%29\)
+* Parameter. https://en.wikipedia.org/wiki/Parameter_(computer_programming)
 
 ### 片語 pinnygiy
 
@@ -633,7 +585,6 @@
 
 * verse; phrase. _A Chinese-English Dictionary Taiwan Dialect_
 * phrase. [https://kotobank.jp/ejword/phrase](https://kotobank.jp/ejword/phrase)
-* phrase. _英廈辭典_
 * phrase. [http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase](http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase)
 
 ###
@@ -743,8 +694,6 @@
 
 ### 素 sow
 
-* an element. _增補廈英大辭典_
-
 ### 宣告文 suanzsqurybunx
 
 * declaration statement
@@ -772,7 +721,7 @@
 * [https://ko.wikipedia.org/wiki/음절](https://ko.wikipedia.org/wiki/음절)
 * [https://ko.wikipedia.org/wiki/블록](https://ko.wikipedia.org/wiki/블록)
 * [https://ja.wikipedia.org/wiki/音節](https://ja.wikipedia.org/wiki/音節)
-* \[[https://ja.wikipedia.org/wiki/ブロック\_\(曖昧さ回避\]\(https://ja.wikipedia.org/wiki/ブロック\_\(曖昧さ回避\)\](https://ja.wikipedia.org/wiki/ブロック_%28曖昧さ回避]%28https://ja.wikipedia.org/wiki/ブロック_%28曖昧さ回避%29%29\)
+* https://ja.wikipedia.org/wiki/ブロック_(曖昧さ回避)
 
 ### target language
 
@@ -785,9 +734,6 @@
 * pattern. _Maryknoll Taiwanese English Dictionary_
 * 議程: program. _Maryknoll Taiwanese English Dictionary_
 * 法式「程式, 章程」. _明解漢和辭典_
-* 章程: programme. _增補廈英大辭典_
-* 工程: programme of day's labour. _增補廈英大辭典_
-* 課程: programme of day's work. _增補廈英大辭典_
 
 ### 程式 tingzssik
 
@@ -796,7 +742,7 @@
 * 電腦程式規定的步驟. _通用台語字典_
 * 固定的格式. _台華雙語辭典_
 
-### 程式語言 tingzssik gissgianx
+### 程式語言 tingzssik gissgienx
 
 * programming language
 
@@ -822,13 +768,9 @@
 
 ### 鐵馬 tihybey
 
-* [http://twblg.dict.edu.tw/holodict\_new/result\_detail.jsp?n\_no=13183&curpage=1&sample=鐵馬&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=1](http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no=13183&curpage=1&sample=鐵馬&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=1)
-* [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=60440&dbname=dic&graph=2](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=60440&dbname=dic&graph=2)
-
 ### 託中 tokkdiong
 
 * intermediate
-* 委託中介者. [http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=61198&dbname=dic&graph=2](http://minhakka.ling.sinica.edu.tw/taijittian/search.php?DETAIL=1&LIMIT=id=61198&dbname=dic&graph=2)
 
 ### transcribe
 
@@ -852,17 +794,17 @@
 
 ### 包 vau
 
-### 變調組 vianydiauwzo
+### 變調組 vienydiauwzo
 
-### 變調 vianydiauzs
+### 變調 vienydiauzs
 
 * Tone Sandhi. [https://en.wikipedia.org/wiki/Tone\_sandhi](https://en.wikipedia.org/wiki/Tone_sandhi)
 * 連續變調. [https://ja.wikipedia.org/wiki/連続変調](https://ja.wikipedia.org/wiki/連続変調)
 * [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
 
-### 變調造語 vianydiauzs zurwgiy
+### 變調造語 vienydiauzs zurwgiy
 
-### 表現 viausshianzs
+### 表現 viausshienzs
 
 * 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
 * 表達 viaussdad
@@ -873,13 +815,13 @@
 * [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
 * [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
 
-### 賓語 vingzsgiy/vingzsguy
+### 目的語 boggdigggiy
 
-* \[[https://en.wikipedia.org/wiki/Object\_\(grammar\]\(https://en.wikipedia.org/wiki/Object\_\(grammar\)\](https://en.wikipedia.org/wiki/Object_%28grammar]%28https://en.wikipedia.org/wiki/Object_%28grammar%29%29\)
+* https://en.wikipedia.org/wiki/Object_(grammar)
 * [https://ja.wikipedia.org/wiki/目的語](https://ja.wikipedia.org/wiki/目的語)
 * [https://ko.wikipedia.org/wiki/목적어](https://ko.wikipedia.org/wiki/목적어)
 
-### 部件 vowqianzx
+### 部件 vowqiannzx
 
 * component
 
@@ -890,6 +832,13 @@
 ### 倍語 vuewgiy
 
 * double word
+
+### 節 zat
+
+* clause
+* [https://kotobank.jp/ejword/clause](https://kotobank.jp/ejword/clause)
+* https://ja.wikipedia.org/wiki/節_(文法)
+* https://ko.wikipedia.org/wiki/절_(언어학)
 
 ### 齊頭並列 zezstaux vingyliad
 
@@ -958,7 +907,7 @@
 * compose a series of components
 * compose a series of ideograms
 
-### 組邊界 zozsvianzsqaiw
+### 組邊界 zozsvienzsqaiw
 
 ### 組成 zozssingx
 
@@ -973,11 +922,11 @@
 ### 轉寫 zuansssiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
-* 轉寫: \[[https://ja.wikipedia.org/wiki/転写\_\(言語学\]\(https://ja.wikipedia.org/wiki/転写\_\(言語学\)\](https://ja.wikipedia.org/wiki/転写_%28言語学]%28https://ja.wikipedia.org/wiki/転写_%28言語学%29%29\)
-* 轉寫: \[[https://ko.wikipedia.org/wiki/전사\_\(언어학\]\(https://ko.wikipedia.org/wiki/전사\_\(언어학\)\](https://ko.wikipedia.org/wiki/전사_%28언어학]%28https://ko.wikipedia.org/wiki/전사_%28언어학%29%29\)
+* 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
+* 轉寫: https://ko.wikipedia.org/wiki/전사_(언어학)
 * transliteration: [https://en.wikipedia.org/wiki/Transliteration](https://en.wikipedia.org/wiki/Transliteration)
 * 翻字: [https://ja.wikipedia.org/wiki/翻字](https://ja.wikipedia.org/wiki/翻字)
-* 轉字: \[[https://ko.wikipedia.org/wiki/전자\_\(언어학\]\(https://ko.wikipedia.org/wiki/전자\_\(언어학\)\](https://ko.wikipedia.org/wiki/전자_%28언어학]%28https://ko.wikipedia.org/wiki/전자_%28언어학%29%29\)
+* 轉字: https://ko.wikipedia.org/wiki/전자_(언어학)
 
 ### 造語 zurwgiy
 
@@ -994,7 +943,7 @@
 
 ### 主語 zussgiy
 
-* \[[https://en.wikipedia.org/wiki/Subject\_\(grammar\]\(https://en.wikipedia.org/wiki/Subject\_\(grammar\)\](https://en.wikipedia.org/wiki/Subject_%28grammar]%28https://en.wikipedia.org/wiki/Subject_%28grammar%29%29\)
+* https://en.wikipedia.org/wiki/Subject_(grammar)
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
 * [https://ko.wikipedia.org/wiki/주어](https://ko.wikipedia.org/wiki/주어)
 

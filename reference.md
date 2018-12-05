@@ -5,11 +5,6 @@
 * K.T. Tân
 * 南天書局
 
-### A dictionary of the Hok-këèn dialect of the Chinese language
-
-* 福建方言字典
-* Walter henry Medhurst
-
 ### A Natural Programming Method - Programming with Natural Language
 
 * [http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu](http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu)
@@ -61,36 +56,9 @@
 
 * Taishukan's Unabridged Genius English–Japanese Dictionary
 
-### 廈荷詞典
-
-* Chineesch-Hollandsch Woordenboek van het Emoi Dialekt
-* J.J.C. Francken, C.F.M. de Grijs
-* 1882
-
-### 廈英大辭典
-
-* Chinese-English dictionary of the vernacular or spoken language of Amoy
-* [https://archive.org/details/chineseenglishdict00doug](https://archive.org/details/chineseenglishdict00doug)
-* Chinese-English dictionary of the vernacular or spoken language of Amoy : with the principal variations of the Chang-Chew and Chin-Chew dialects
-* [https://archive.org/details/chineseenglishdi00doug](https://archive.org/details/chineseenglishdi00doug)
-* [https://archive.org/details/chineseenglish00doug](https://archive.org/details/chineseenglish00doug)
-* Carstairs Douglas
-
-### 荷華文語類參
-
-* Nederlandsch-Chineesch Woordenboek Met de Transcriptie der Chineesche Karakters in het Tsiang-tsiu Dialekt
-* Gustare Schlegel Leiden, E.J. Brill
-* Batavia, Landsdrukkeri
-* 1887
-
 ### Implementation of Natural Programming Method
 
 * [http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method](http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method)
-
-### 英廈辭典
-
-* English and Chinese Dictionary of the Amoy Dialect by Rev. J. MacGowan
-* [https://archive.org/details/cu31924023550878](https://archive.org/details/cu31924023550878)
 
 ### Kotobank
 
