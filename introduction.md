@@ -26,7 +26,7 @@ Ahh 台語 diw 資訊科學 ew 領域內底, 是扮演啥物欵 ew 角色 neh? �
 
 Zitt 本冊所使用 ew 書寫系統是參考各種台語界前輩 ew 設計所創作 cuddlaih ew, 漢字 ew 輸入是使用信望愛台語客語輸入法. 台語音 ansszuann 發音, 着 ansszuann 寫.
 
-因為台羅是一種 qaw 漢字羅馬化 ew 系統, mw 是正港 ew 拼音系統, 所以 qaw 台羅當做拼音系統來書寫其實是無適當 ezs. 尤其是對變調 ew 標示會產生真大 ew 困擾. Ia qurhh 拼音系統 qahh 書寫系統 maw 是兩个無仝欵 ew 概念.
+因為台羅是一種羅馬化 ew 漢字, iaw diurff siw qaw 漢字羅馬化 ew 系統, 伊 qahh 漢字 仝款 guanzszuanzs burzs 形態 ew 變化, mw 是正港 ew 拼音系統, 所以 qaw 台羅當做拼音系統來書寫其實是無適當 ezs. 尤其是對聲調 ew 標示會產生真大 ew 困擾. Ia qurhh 拼音系統 qahh 書寫系統 maw 是兩个無仝欵 ew 概念.
 
 因為 ia buezs qaw 外來語 qahh 台語書寫系統 ew 轉換規則建立好勢, 濫 diurff 英語部份 diurff 是寫英語.
 
