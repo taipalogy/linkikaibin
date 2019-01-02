@@ -86,9 +86,9 @@ jibbkiff ew 連體形.
 
 ### qahh
 
-### qannzsnannzs
+### qanzsnazs
 
-原形 qannzsnann. qannzsdannzs. qannzsnazs.
+原形 qanzsna.
 
 ### qapp
 

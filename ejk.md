@@ -118,6 +118,6 @@ Buewdangy 設定超過漢字組邊界 ew 選用規則. 台語是利用聲調來�
 
 變調 ew 英文是 tone sandhi. 根據 Oxforddictionaries.com, sandhi 是指因為發聲位置 ew 改變所造成 ew 語形變化.
 
-若用台語來讀漢字, 任何一个漢字 long ewdangy 有超過一个聲調. 漢字 ew 原調 ewdangy 儲存 diw array 索引零 ew 所在. 非原調 ewdangy 儲存 diw array 索引一, 兩, 三等所在. 原調是用來 diw 字典內底查漢字 ew 聲調. 一个漢字若是讀原調, 伊一定是 diw 系列內底或者是漢字組 ew siongw 尾溜. 若 mw 是讀原調, 伊一定是 diw 漢字組內底除了上尾溜以外 ew 所在. 其實台語 ew 變調規則真濟, 咱diw zia qannzsnannzs 用 zitt 條 siongw 通用 ew 規則來做例.
+若用台語來讀漢字, 任何一个漢字 long ewdangy 有超過一个聲調. 漢字 ew 原調 ewdangy 儲存 diw array 索引零 ew 所在. 非原調 ewdangy 儲存 diw array 索引一, 兩, 三等所在. 原調是用來 diw 字典內底查漢字 ew 聲調. 一个漢字若是讀原調, 伊一定是 diw 系列內底或者是漢字組 ew siongw 尾溜. 若 mw 是讀原調, 伊一定是 diw 漢字組內底除了上尾溜以外 ew 所在. 其實台語 ew 變調規則真濟, 咱diw zia qanzsnazs 用 zitt 條 siongw 通用 ew 規則來做例.
 
 語言學所講 ew 屈折性有 qahh 變調仝欵 ew 功能. 伊 maw ewdangy 用來 how 表達式去匹配一个表意文字系列. 英語 ew 屈折性, 也 diurff 是語形變化, ewdangy 利用單語 ew 語幹, 接頭語, 接尾語變化. 韓語 qahh 日語 ew 屈折性 ewdangy 利用基於原形或者是語幹 ew 語尾變化. Mw 管屈折機制是有 guaw 大 ew 差別, 只要利用原形 qahh 非原形 ew 變換 diurff ewdangy 製組. 所有變調 ewdangy 做 ew daiwziw, 語形變化 maw 做會到. 因為 inzs long ewdangy 對原形衍生出非原形.

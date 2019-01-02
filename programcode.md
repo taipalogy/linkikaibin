@@ -155,7 +155,7 @@ Context 是一个 Ruby Set 物件.
 
 ### 匹配
 
-Matcher 類別 implementation ew 重點是匹配. Zitt 个 implementation 是 qaw 掃瞄 qahh 剖語 long 縮短到 qannzsnannzs 一行:
+Matcher 類別 implementation ew 重點是匹配. Zitt 个 implementation 是 qaw 掃瞄 qahh 剖語 long 縮短到 qanzsnazs 一行:
 
 ```
 @lexer = expression.scan(/[[:alnum:]]+|\&|\|/)

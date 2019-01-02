@@ -14,13 +14,13 @@ Zitt ezs 方法 mw 是 behh 取代電腦語言. 事實上, 伊是 how 咱用另�
 
 對另外一个觀點來看根源碼, 咱 ewdangy qaw 程式碼拆開做一个一个 ew 文. 每一个文 long 會 qahh 伊頭前 ia 是後壁 ew 文形成嵌入或者是並列 ew 關係. 每一个文 long ewdangy 用一个單語來表示. 雖然講每一个文 long ewdangy 用一个多音節 ew 單語來表示, 咱 diw zia 猶原是用單音節單語來做例, anssne 看 kifflaih 卡好瞭解, maw 卡好操作. 最後咱 qaw ze 一序列 ew 單語連結做一句或者是一个文.
 
-## Mw 是 qannzsnannzs 翻譯
+## Mw 是 qanzsnazs 翻譯
 
 一个電腦語言是用一組固定 ew keyword qahh 標點符號所組合成 ezs. 現子時主流 ew 電腦語言 ew keyword long 是使用英文單語. Maw 有真濟人 dehh 設想 behh 開發非英文 ew 電腦語言, 但是使用 ew 人無算濟. 非英文 ew 電腦語言是用非英文 ew keyword, 相當適合母語 mw 是英語 ew 人.
 
-以英文做基礎 ew 電腦語言 qahh 以非英文做基礎 ew 電腦語言, inzs qam 有共同點? Inzs long 是邏輯語言. Inzs 其中有一 qua qannzsnannzs 是對英文 qaw keyword 翻譯過去 niawniazs. Diw zia 我所講 ew 翻譯是指 qaw 以英文做基礎 ew 電腦語言內底 ew keyword 翻 queffkih.
+以英文做基礎 ew 電腦語言 qahh 以非英文做基礎 ew 電腦語言, inzs qam 有共同點? Inzs long 是邏輯語言. Inzs 其中有一 qua qanzsnazs 是對英文 qaw keyword 翻譯過去 niawniazs. Diw zia 我所講 ew 翻譯是指 qaw 以英文做基礎 ew 電腦語言內底 ew keyword 翻 queffkih.
 
-Zitt 个方法 mw 是 qannzsnannzs 對電腦語言 qaw keyword 翻譯 queffkih niawniazs. 咱 dehh 強調用台語文寫程式是一種方法, 方法必須是 tangzs 操作 ew, zia ewdangy 號做方法. Diurff 是講咱是用 zitt 个方法來寫程式.
+Zitt 个方法 mw 是 qanzsnazs 對電腦語言 qaw keyword 翻譯 queffkih niawniazs. 咱 dehh 強調用台語文寫程式是一種方法, 方法必須是 tangzs 操作 ew, zia ewdangy 號做方法. Diurff 是講咱是用 zitt 个方法來寫程式.
 
 Zitt 个寫程式 ew 方法 maw mw 是輸入法. 輸入法是咱用來扑字產生一个單語序列 ew 軟體家私. 咱 ew 方法 diurff 是愛用 diurff zitt 个軟體家私所產生 ew 單語序列. Zitt 个方法當然 maw ewdangy qahh 以非英文做基礎 ew 電腦語言協作.
 
