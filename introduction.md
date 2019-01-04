@@ -1,35 +1,37 @@
 # 紹介
 
-一般人 long 認為講自然語言是人 qahh 人之間互動 dehh 使用 ezs, ahh 電腦語言是用來下指令 how 電腦 ew. 當然人 maw 是 ewdangy 看有 qahh 理解電腦語言.
+一般人 long jimwuizs qong 自然語言 siw 人 qahf 人之間互動 dehf 使用 ezs, ahf 電腦語言 siw iongw laizs haw 指令 how 電腦 ew. 當然人 maw siw ewdangy kuanny 有 qahf lisfqai 電腦語言.
 
-Diw 電腦語言發明進前, diurw 已經有人用手寫出程式 aw. 英國人 Ada Lovelace diw 1840 年代頭一擺寫出程式了後, qokk 愛經過差不多一百冬, diw 1950年代, 頭一个 ewdangy 用 compiler qaw 根源碼 compile 做機器碼 ew 電腦語言 ziahh diw Manchester 大學開發 cuddlaih. 紲落來 1960 年代到 gimzxmay, 各種無仝功能 ew 電腦語言是一直創造 cuddlaih.
+Diw 電腦語言發明進前, diurhhw isfqingzs uw 人 iongw 手 sia cutf 程式 aw. 英國人 Ada Lovelace diw 1840 年代頭一 vaiy sia cutf 程式了後, qurhf aiy qingzsquey 差不多一百冬, diw 1950年代, 頭一个 ewdangy 用 compiler qaw 根源碼 compile zury 機器碼 ew 電腦語言 ziahf diw Manchester 大學開發 cuttwlaih. 紲落來 1960 年代 qauy zimsfmay, qokfziong burzsqangzs 功能 ew 電腦語言是 itfdittw 創造 cuttwlaih.
 
-雖然講有自然語言 qahh 電腦語言 zitt 種 ew 區別存在, 但是美國人 diw 美國用英語 ew 思維創造出電腦語言, 所以英語 qahh 電腦語言 ew 概念是相通 ezs, long 是抽象化 ew 語言. 譬喻講, codes, coded, coding, qahh coders long 是 duiy code 屈折或者是衍生 cuddlaih ew. 所以 code zitt 字着是 codes, coded, coding, qahh coder ew 抽象型式. 各種 ew 自然語言 long 有無仝型式 ew 抽象化, 咱 long ewdangy qaw 提來利用.
+Suizsjienzs qong uw 自然語言 qahf 電腦語言 zitf 種 ew 區別存在, danwsiw 美國人 diw 美國 iongw 英語 ew 思維 congyzurw cutf 電腦語言, sosfi 英語 qahf 電腦語言 ew 概念 siw 相通 e, long siw 抽象化 ew 語言. 譬喻 qong, codes, coded, coding, qahf coders long siw duiy code 屈折 hikkwziasfsiw 衍生 cuttwlaih ew. Sosfi code zitf 字 diurhhw siw codes, coded, coding, qahf coder ew 抽象型式. 各種 ew 自然語言 long uw burzsqangzs 型式 ew 抽象化, lan long ewdangy qazs tehhw laizs 利用.
 
-台語 qahh 電腦語言 ew 結合着是利用台語 ew 造語機制來運作. 台語造語是利用變調來造語. 譬喻講, 若是 qaw 兩个單音節單語 dauw kifflaih 變做一个雙音節單語, 頭前 hittle 音節着愛變調. 變調 ew 意思我 qaw 號做 enabling, diurff 是作動. Ahh 是啥物愛作動 neh? 着是愛 iongw double dispatch 執行. 若是兩个單語 long 是本調無變調, diurff 表示 disabling, 着是無作動. 無作動 diurff buew 去執行 double dispatch. 若是多音節單語, 設計 ew 原理 maw 是仝欵.
+台語 qahf 電腦語言 ew 結合 diurhhw siw liwiongw 台語 ew 造語機制 laizs 運作. 台語造語 siw liwiongw 變調 laizs 造語. 譬喻 qong, naw siw qaw 兩 ezs 單音節單語 dauw kihhwlaih vienyzury 一 ezs 雙音節單語, 頭前 hitfle 音節 diurhhw aiy 變調. 變調 ew 意思 gua qazs hurwzury enabling, diurhhw siw 作動.Naw siw 兩 ezs 單語 long siw 本調 burzs 變調, diurhhw viausfsiw disabling, diurhhw siw 無作動. Naw siw 多音節單語, 原理 maw 是仝欵.
 
-長老教會 ew 巴克禮牧師 diw 1885 年創辦臺灣府城教會報. Diw 教會報創辦進前, 一般 ew 台灣人是 mw batt 字 ezx. 所以 hitt 當陣 diw 一般人 mw batt 字 ew 情形下, 台語是以口頭語 ew 方式傳承. 若是有讀冊 bat 字 ew 人, inzs 手所寫 ew 是文言文. 所以巴克禮 daiw 先創辦教會報對台語文 ew 發展是有真大 ew 意義, 雖然講伊是有傳教 ew 目的.
+長老教會 ew 巴克禮牧師 diw 1885 年 congyvanw 臺灣府城教會報. Diw 教會報創辦進前, 一般 ew 台灣人 siw mw batf 字 ezs. Sosfi hitf 當拵 diw 一般人 mw batf 字 ew 情形下, 台語 siw i 口頭語 ew 方式 laizs 傳承. Naw siw 讀冊 batf 字 ew 人, inzs 手 so 寫 ew siw 文言文. Sosfi 巴克禮 daiw 先 congyvanw 教會報 duiy 台語文 ew 發展 siw uw 真大 ew 意義, suizsjienzs qong 伊 siw uw 傳教 ew 目的.
 
-台語雖然 mw 是屈折語, maw mw 是膠着語, 但是 dehh 設計輸入法, 書寫系統, 或者是拼音系統 ew 時陣, maw 是 ewdangy 借屈折語 qahh 膠着語 ew 概念來做設計. 新港文 qapp Favorlang 字典 maw 是真好 ew 書寫範例, tingyhur 參考.
+台語 suizsjienzs mw siw 屈折語, maw mw siw 膠着語, danwsiw dehf 設計輸入法, 書寫系統, hikkwziasfsiw 拼音系統 ew 時拵, maw siw ewdangy ziurhy 屈折語 qahf 膠着語 ew 概念 laizs zury 設計. 新港文 qapf Favorlang 字典 maw siw 真好 ew 書寫範例, tingyhur 參考.
 
-台語文 qahh 電腦語言結做伙來用, mw 知影講英語 ew 巴克禮 dongzxcuezs 時 qam 有想着 neh.
+台語文 qahf 電腦語言 qatf zury 伙 laizs 用, mw zaizsiann qong 英語 ew 巴克禮 dongzscuezs 時 qam uw 想 diurh neh.
 
-# 台語文 qahh 電腦語言
+## 台語文 qahf 電腦語言
 
-電腦語言是有百百種, 逐種電腦語言 long 有伊 qazsqizs ew 特性. 有 siongw 低階卡倚機器 ew assembly 語言, maw 有 siongw 高階卡倚程式員 ew 物件朝向語言, 甚至是完全用英文寫作 ew, 用來創作互動式小說 ew 語言. 其他 ezs qurhh 有特別適合做數學運算 ew 語言, 專門用來做 data mining ew 語言等等, 花樣真濟.
+電腦語言 siw uw 百百種, dakkwziong 電腦語言 long uw 伊 qazsqizs ew 特性. uw siongw 低階 kahf ua 機器 ew assembly 語言, maw uw siongw 高階 kahf ua 程式員 ew 物件朝向語言, simwziy siw uanzszuanzs iong 英文寫作 ew, iongw laizs congyzokf 互動式小說 ew 語言. 其他 ezs qurhf uw diettwviet sikfhappw zury 數學運算 ew 語言, zuanzsmngzs iongw laizs zury data mining ew 語言等等, 出頭真 zuezs.
 
-大部份電腦語言 ew 設計者 diw 設計 ew 時陣 diurff 已經大概知影伊所 behh 解決 ew 問題是啥, maw 大概知影伊設計 ew 方向愛對 dohh 位去. 所以 ziahh ewdangy diw 設計 ew 時陣着 qaw ze 語言所需要 ew 元素, qeyword, 構文, 語義 long 設計好勢.
+Daiwvowhunw 電腦語言 ew 設計者 diw 設計 ew 時拵 diurhhw isfqingzs 大概 zaizsiann izs so behf 解決 ew 問題 siw siannw, maw 大概 zaizsiann izs 設計 ew 方向 aiy duiy durhf 位去. Sosfi ziahh ewdangy diw 設計 ew 時拵 diurhhw qaw ze 語言 so 需要 ew 元素, keyword, 構文, 語義 long sietfqey 好勢.
 
-Ahh 台語 diw 資訊科學 ew 領域內底, 是扮演啥物欵 ew 角色 neh? 台語是扮演人 qahh 電腦溝通 ew 中介. 以上是對人 qahh 電腦 ew 關係來看. 若是對電腦語言 ew 角度來看, 台語文 ew 造語機制 qahh ewdangy 任意排列組合 ew 特性, 替現有 ew 電腦語言提供一个新 ezs 抽象化 ew 門路.
+Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannsfmihf 欵 ew 角色 neh? 台語 siw vanwien 人 qahh 電腦溝通 ew 中介. 以上 siw duiy 人 qahf 電腦 ew 關係 laizs 看. Naw siw duiy 電腦語言 ew 角度來看, 台語文 ew 造語機制 qahf ewdangy jimwiy 排列組合 ew 特性, tey 現有 ew 電腦語言 tezsqiong 一 ezs 新 ezs 抽象化 ew 手路.
 
-# 書寫方式
+## 書寫方式
 
-Zitt 本冊所使用 ew 書寫系統是參考各種台語界前輩 ew 設計所創作 cuddlaih ew, 漢字 ew 輸入是使用信望愛台語客語輸入法. 台語音 ansszuann 發音, 着 ansszuann 寫.
+Zitf vun 冊 so susfiongw ew 書寫系統 siw camzskur qokfziong 台語界前輩 ew 設計 so 創作 cuttwlaih ew. 漢字 ew 輸入 siw susfiongw 信望愛台語客語輸入法. 台語音 ansfzuann 發音, diurhhw ansfzuann 寫.
 
-因為台羅是一種羅馬化 ew 漢字, iaw diurff siw qaw 漢字羅馬化 ew 系統, 伊 qahh 漢字 仝款 guanzszuanzs burzs 形態 ew 變化, mw 是正港 ew 拼音系統, 所以 qaw 台羅當做拼音系統來書寫其實是無適當 ezs. 尤其是對聲調 ew 標示會產生真大 ew 困擾. Ia qurhh 拼音系統 qahh 書寫系統 maw 是兩个無仝欵 ew 概念.
+Inzsuiw 台羅 siw zittwziong 羅馬化 ew 漢字, iaw diurhhw siw zittwziong qaw 漢字羅馬化 ew 系統, izs qahf 漢字仝款 uanzszuanzs burzs 形態 ew 變化, mw siw 正港 ew 拼音系統, sosfi qaw 台羅 dongy zury 拼音系統 laizs 書寫 qizssittw siw 無適當 e. Iuzsqizs siw duiy 聲調 ew 標示 ew sansfsingzs 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 兩 ezs 無仝欵 ew 概念.
 
-因為 ia buezs qaw 外來語 qahh 台語書寫系統 ew 轉換規則建立好勢, 濫 diurff 英語部份 diurff 是寫英語.
+Inzsuiw ia buezs qaw 外來語 camzs 台語書寫系統 ew 轉換規則 kienylippw 好勢, lamw diurhhw 英語 ew 部份 diurhhw siw sia 英語.
 
-# 版本
+I qokfziongy 無仝款 ew 場合 laizs quatfdingw behf sia kahf zuezs 漢字 a siw kahf zuezs 羅馬字.
+
+## 版本
 
 working draft
