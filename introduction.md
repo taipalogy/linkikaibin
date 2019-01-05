@@ -20,7 +20,7 @@ Suizsjienzs qong uw 自然語言 qahf 電腦語言 zitf 種 ew 區別存在, dan
 
 Daiwvowhunw 電腦語言 ew 設計者 diw 設計 ew 時拵 diurhhw isfqingzs 大概 zaizsiann izs so behf 解決 ew 問題 siw siannw, maw 大概 zaizsiann izs 設計 ew 方向 aiy duiy durhf 位去. Sosfi ziahh ewdangy diw 設計 ew 時拵 diurhhw qaw ze 語言 so 需要 ew 元素, keyword, 構文, 語義 long sietfqey 好勢.
 
-Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannsfmihf 欵 ew 角色 neh? 台語 siw vanwien 人 qahh 電腦溝通 ew 中介. 以上 siw duiy 人 qahf 電腦 ew 關係 laizs 看. Naw siw duiy 電腦語言 ew 角度來看, 台語文 ew 造語機制 qahf ewdangy jimwiy 排列組合 ew 特性, tey 現有 ew 電腦語言 tezsqiong 一 ezs 新 ezs 抽象化 ew 手路.
+Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannsfmihf 欵 ew 角色 neh? 台語 siw vanwien 人 qahh 電腦溝通 ew 中介. 以上 siw duiy 人 qahf 電腦 ew 關係 laizs 看. Naw siw duiy 電腦語言 ew 角度來看, 台語文 ew 造語機制 qahf ewdangy jimwiy 排列組合 ew 特性, tey 現有 ew 電腦語言 tezsqiong 一 ezs 新 ezs 抽象化 ew 門路.
 
 ## 書寫方式
 

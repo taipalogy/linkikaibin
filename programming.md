@@ -1,57 +1,57 @@
-# 用台語文寫程式 ew 方法
+# Iongw 台語文 Sia 程式 Ew 方法
 
-電腦語言 ew 分類方式有真濟欵, 有用世代來分 ezx, 有用 paradigm 來分 ezs, 有用 quanzxqezx 來分 ezs, qahh 其他各種分類. 所謂 ezs 程式語言, 是電腦語言 ew 其中一種. Diw zia 所講 ew「用台語文寫程式」並無侷限 diw 程式語言內底. 因為所有 ew 電腦語言, 包括程式語言, script 語言, markup 語言等等, long 有一个共同 ew 特性, 一个共同抽象化 ew 方式. Zitt 个共同抽象化 ew 方式拄仔好 ewdangy qahh 台語 ew 造語機制結合. 所以下腳會舉一 qua 無仝欵 ew 電腦語言來做例, 來看 inzs 共同 ew 特性.
+電腦語言 ew 分類方式 uw zinzs zew 欵, uw iongw 世代 laizs 分 e, uw iongw paradigm laizs 分 e, uw iongw quanzsqezs laizs 分 e, qahf 其他 qokfziong 分類. Sosfuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw zia so qongy ew iongw 台語文 sia 程式 vingw burzs qiokkwhanw diw 程式語言內底. Inzsuiw 所有 ew 電腦語言, vauzskuatf 程式語言, script 語言, markup 語言等等, long uw 一 ezs 共同 ezs 特性, 一 ezs 共同抽象化 ew 方式. Zitf ezs 共同抽象化 ew 方式 dusfuasfhury ewdangy camzs 台語 ew 造語機制結合. Sosfi 下脚 ew qi 一 qua 無仝欵 ew 電腦語言 laizs zury 例, laizs kuanny inzs uw siannsfmihf 共同 ew 特性.
 
-Diw 語言學內底有所謂 ezs 同形異音語, 英語號做 heteronym. 同形異音語 maw ewdangy 叫做同形異音異義語. 譬喻講, bow 若讀做`/boʊ/`着是指`弓`, 若讀做`/baʊ/`是指`船頭`. 仝一个 bow 有兩个無仝欵 ew 發音, 兩个無仝欵 ew 發音 qurhh 表示兩个無仝欵 ew 意思:
+Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. Vi 同形異音語 qurhf kahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 qongy, 英語 bow naw thakkw zury `/boʊ/` diurhhw siw zi `弓`, naw takkw zury `/baʊ/` siw zi `船頭`. 仝一 ezs bow uw 兩 ezs 無仝欵 ew 發音, 兩 ezs 無仝欵 ew 發音 qurhf viausfsiw 兩 ezs 無仝欵 ew 意思:
 
-| | **bow** | |
+| | bow | |
 | :--- | :--- | :--- |
 | 1 | /boʊ/ | 弓 |
 | 2 | /baʊ/ | 船頭, 鞠躬 |
 
-英語內底 ew 同形異音異義語 qurhh 有 lead 若讀做`/liːd/`是`引𤆬` ew 意思, 若讀做`/lɛd/`是指`鉛`; Row 若讀做`/roʊ/`qahh 讀做`/raʊ/`maw 是無仝欵 ew 意思.
+英語內底 ew 同形異音異義語 qurhf 有 lead 若讀做`/liːd/`siw`引𤆬` ew 意思, naw takkw zury`/lɛd/`siw zi`鉛`; Row 若讀做`/roʊ/`qahf 讀做`/raʊ/`maw 是無仝欵 ew 意思.
 
-台語仝欵 maw 有同形異音語, 譬喻講加若是讀做 `qa`, 着是`時間增加` ew 加, zitt 句加 diw 英語內底 ew 意思是 `increase`. 加若讀做 `qe`, 着是`加一點鐘` ew 加, zitt 句加 diw 英語內底 ew 意思是 `add`:
+台語 qanwkuan maw uw 同形異音語, 譬喻 qong 加 naw siw takkw zury `qa`, diurhhw siw `時間增加` ew 加, zitf 句 qa diw 英語內底 ew 意思 siw `increase`. 加 naw takkw zury `qe`, diurhhw siw `加一點鐘` ew qe, zitf 句 qe diw 英語內底 ew 意思是 `add`:
 
-| | **加** | |
+| | 加 | |
 | :--- | :--- | :--- |
 | 1 | qa | increase |
 | 2 | qe | add |
 
-Diw zia 愛特別注意 ew 是, qa mw 是永遠 long 翻譯做 increase, qe maw mw 是永遠 long 翻譯做 add. 翻譯是另外一門學問, mw 是 zit 本冊 ew 主題. 我 diw 頂 quanx 表格內底所舉 ew 例, 着是限定 diw 時間增加 qahh 加一點鐘 zitt 兩句內底 ziahh 成立. 時間增加 qahh 加一點鐘 diurff 是我 behh 使用 ew context.
+Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw 另外一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanx 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 兩句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
 
-像 bow 即字有兩个意思 - 一个是弓, 一个是船頭, diurff 是有兩个定義, diurff 是有兩个 definition. Diurff 親像一粒 suanw 石 ew 兩个 facet ew 意思仝欵.
+Ciunnw bow zitf 字 uw 兩 ezs 意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 兩 ezs 定義, diurhhw siw uw 兩 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 兩 ezs facet ew 意思仝欵.
 
-若 anssne 咱 qaw 程式語言內底 ew 文當做是 加 ew 一个定義, `increase()` zitt 个文 diurff ewdangy 囥入去表格內底頭一行, qahh `increase` 仝欵做加 ew 一个定義. `add()` maw 是 ewdangy 囥入去表格內底第二行做加 ew 第二个定義:
+Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一 ezs 定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二 ezs 定義:
 
-| | **加** | | |
+| | 加 | | |
 | :--- | :--- | :--- | :--- |
 | 1 | qa | increase | def increase end |
 | 2 | qe | add | add |
 
-咱若是 qurhh qaw 文分做 function-block qahh function-call ze 兩種來看, `increase();` 着是 function-call, `increase(){}` 着是 function-block:
+Lan naw siw qurhf qaw 文 hunzs zury function-block qahf function-call ze 兩種 laizs 看, `increase();` diurhhw siw function-call, `increase(){}` diurhhw siw function-block:
 
-| | **加** | |
+| | 加 | |
 | :--- | :--- | :--- |
 | 1 | qa | increase |
 | 2 | | def increase end |
 
 ## 有用台語文寫程式
 
-咱 qurhh 來看下腳 ew 表格. 單語 notify 是告示, 通知 ew 意思, 咱提告示 ew 示 zitt 字來用. Ahh print 是印 ew 意思. 咱 qaw `notify(){}` 文設定做示ew 頭一个定義:
+Lan qurhf laizs kuanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意思, lan tehhw 告示 ew 示 zitf 字 laizs 用. Ahf print siw 印 ew 意思. Lan qaw `notify(){}` 文 sietfdingw zury 示 ew 頭一 ezs 定義:
 
-| | **示** | |
+| | 示 | |
 | :--- | :--- | :--- |
 | 1 | sizx | def notify end |
 
-Qaw `printToPdf();` 文設定做印 ew 頭一个定義, `printToPaper();` 設定做第二个定義. 所以印有兩个定義:
+Qaw `printToPdf();` 文 sietfdingw zury 印 ew 頭一 ezs 定義, `printToPaper();` sietfdingw zury 第二 ezs 定義. Sosfi 印 uw 兩 ezs 定義:
 
-| | **印** | |
+| | 印 | |
 | :--- | :--- | :--- |
 | 1 | inw | printToPdf |
 | 2 | | printToPaper |
 
-紲落來咱 ewdangy qaw 示 qahh 印 dauhy 做一字, diurff 是 siwinw:
+紲 lurhhwlaih lan ewdangy qaw 示 camzs 印 dauhy zury 一字, diurhhw siw siwinw:
 
 ```ruby
 //
@@ -62,19 +62,19 @@ def notify
 end
 ```
 
-為啥物 `notify(){}` 是 qaw 印 ew 頭一个定義 `printToPdf();` 嵌 leff, mw 是 qaw 第二个 neh? 因為咱 ewdangy diw context 內底設定 behh 取用 durh 一个定義來 how `notify(){}` 嵌 leff:
+為啥乜 `notify(){}` siw qaw 印 ew 頭一 ezs 定義 `printToPdf();` 嵌 lippwkih, mw siw qaw 第二个 neh? Inzsuiw lan ewdangy diw context 內底設定 behf cusfiongw durh 一 ezs 定義 laizs how `notify(){}` 嵌 leh:
 
 ```ruby
 context.add([_si, _in, 1])
 ```
 
-頂 quanx ew 函數表示示 behh 提印 ew 頭一个定義來 qaw 嵌 leff. `context.add()` 表示 diw context 內底增加一項, 或者是增加一項選用規則 ew 意思.
+頂 quanx ew 函數 viausfsiw 示 behf tehhw 印 ew 頭一 ezs 定義 laizs qazs 嵌 leh. `context.add()` viausfsiw diw context 內底 zingzsqazs 一項, hikkwziasfsiw zingzsqazs 一 hangw 選用規則 ew 意思.
 
-為啥物 `notify()` ewdangy qaw `printToPdf()` 嵌 jibbkih? 因為示印若寫做 siwinw, 表示 sizs qahh inw 是用變調造語連結做一个單語. 示印若寫做 sizs inw, 表示 sizs qahh inw 是二个分別 ew 單語. 所以寫做 sizs inw ew 示印, 表示 `notify(){}` qahh `printToPdf();` 是並列 ew 關係:
+為啥乜 `notify()` ewdangy qaw `printToPdf()` 嵌 lippwkih? Inzsuiw 示印 naw sia zury siwinw, viausfsiw sizs qahf inw siw iongw 變調造語 lienzsqietf zury 一 ezs 單語. 示印 naw sia zury sizs inw, viausfsiw sizs qahf inw siw 二 ezs 分別 ew 單語. Sosfi sia zury sizs inw ew 示印, viausfsiw `notify(){}` qahf `printToPdf();` siw 並列 ew 關係:
 
 ```ruby
 //
-// sizx inw
+// sizs inw
 //
 def notify
 end
@@ -82,4 +82,4 @@ end
 printToPdf
 ```
 
-Diw 台語文程式設計內底, 任何二个文 ew 組合若 mw 是嵌入 diurff 是並列.
+Diw 台語文程式設計內底, jimwhurzs 二 ezs 文 ew 組合 naw mw siw 嵌入 diurhhw siw 並列.
