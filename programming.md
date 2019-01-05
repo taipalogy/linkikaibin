@@ -1,6 +1,6 @@
 # Iongw 台語文 Sia 程式 Ew 方法
 
-電腦語言 ew 分類方式 uw zinzs zew 欵, uw iongw 世代 laizs 分 e, uw iongw paradigm laizs 分 e, uw iongw quanzsqezs laizs 分 e, qahf 其他 qokfziong 分類. Sosfuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw zia so qongy ew iongw 台語文 sia 程式 vingw burzs qiokkwhanw diw 程式語言內底. Inzsuiw 所有 ew 電腦語言, vauzskuatf 程式語言, script 語言, markup 語言等等, long uw 一 ezs 共同 ezs 特性, 一 ezs 共同抽象化 ew 方式. Zitf ezs 共同抽象化 ew 方式 dusfuasfhury ewdangy camzs 台語 ew 造語機制結合. Sosfi 下脚 ew qi 一 qua 無仝欵 ew 電腦語言 laizs zury 例, laizs kuanny inzs uw siannsfmihf 共同 ew 特性.
+電腦語言 ew 分類方式 uw zinzs zew 欵, uw iongw 世代 laizs 分 e, uw iongw paradigm laizs 分 e, uw iongw quanzsqezs laizs 分 e, qahf 其他 qokfziong 分類. Sosfuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw zia so qongy ew iongw 台語文 sia 程式 vingw burzs qiokkwhanw diw 程式語言內底. Inzsuiw 所有 ew 電腦語言, vauzskuatf 程式語言, script 語言, markup 語言等等, long uw 一 ezs 共同 ezs 特性, 一 ezs 共同抽象化 ew 方式. Zitf ezs 共同抽象化 ew 方式 dusfuasfhury ewdangy camzs 台語 ew 造語機制結合. Sosfi 下脚 ew qi zittwqua 無仝欵 ew 電腦語言 laizs zury 例, laizs kuanny inzs uw siannsfmihf 共同 ew 特性.
 
 Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. Vi 同形異音語 qurhf kahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 qongy, 英語 bow naw thakkw zury `/boʊ/` diurhhw siw zi `弓`, naw takkw zury `/baʊ/` siw zi `船頭`. 仝一 ezs bow uw 兩 ezs 無仝欵 ew 發音, 兩 ezs 無仝欵 ew 發音 qurhf viausfsiw 兩 ezs 無仝欵 ew 意思:
 
@@ -22,7 +22,7 @@ Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury
 
 Ciunnw bow zitf 字 uw 兩 ezs 意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 兩 ezs 定義, diurhhw siw uw 兩 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 兩 ezs facet ew 意思仝欵.
 
-Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一 ezs 定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二 ezs 定義:
+Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一 ezs 定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一 ezs 定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二 ezs 定義:
 
 | | 加 | | |
 | :--- | :--- | :--- | :--- |
