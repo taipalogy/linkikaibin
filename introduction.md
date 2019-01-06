@@ -6,7 +6,7 @@ Diw 電腦語言發明進前, diurhhw isfqingzs uw 人 iongw 手 sia cutf 程式
 
 Suizsjienzs qong uw 自然語言 qahf 電腦語言 zitf 種 ew 區別存在, danwsiw 美國人 diw 美國 iongw 英語 ew 思維 congyzurw cutf 電腦語言, sosfi 英語 qahf 電腦語言 ew 概念 siw 相通 e, long siw 抽象化 ew 語言. 譬喻 qong, codes, coded, coding, qahf coders long siw duiy code 屈折 hikkwziasfsiw 衍生 cuttwlaih ew. Sosfi code zitf 字 diurhhw siw codes, coded, coding, qahf coder ew 抽象型式. 各種 ew 自然語言 long uw burzsqangzs 型式 ew 抽象化, lan long ewdangy qazs tehhw laizs 利用.
 
-台語 qahf 電腦語言 ew 結合 diurhhw siw liwiongw 台語 ew 造語機制 laizs 運作. 台語造語 siw liwiongw 變調 laizs 造語. 譬喻 qong, naw siw qaw 兩 ezs 單音節單語 dauw kihhwlaih vienyzury zittwlezs 雙音節單語, 頭前 hitfle 音節 diurhhw aiy 變調. 變調 ew 意思 gua qazs hurwzury enabling, diurhhw siw 作動.Naw siw 兩 ezs 單語 long siw 本調 burzs 變調, diurhhw viausfsiw disabling, diurhhw siw 無作動. Naw siw 多音節單語, 原理 maw 是仝欵.
+台語 qahf 電腦語言 ew 結合 diurhhw siw liwiongw 台語 ew 造語機制 laizs 運作. 台語造語 siw liwiongw 變調 laizs 造語. 譬喻 qong, naw siw qaw 兩个單音節單語 dauw kihhwlaih vienyzury zittwlezs 雙音節單語, 頭前 hitfle 音節 diurhhw aiy 變調. 變調 ew 意思 gua qazs hurwzury enabling, diurhhw siw 作動.Naw siw 兩个單語 long siw 本調 burzs 變調, diurhhw viausfsiw disabling, diurhhw siw 無作動. Naw siw 多音節單語, 原理 maw 是仝欵.
 
 長老教會 ew 巴克禮牧師 diw 1885 年 congyvanw 臺灣府城教會報. Diw 教會報創辦進前, 一般 ew 台灣人 siw mw batf 字 ezs. Sosfi hitf 當拵 diw 一般人 mw batf 字 ew 情形下, 台語 siw i 口頭語 ew 方式 laizs 傳承. Naw siw 讀冊 batf 字 ew 人, inzs 手 so 寫 ew siw 文言文. Sosfi 巴克禮 daiw 先 congyvanw 教會報 duiy 台語文 ew 發展 siw uw 真大 ew 意義, suizsjienzs qong 伊 siw uw 傳教 ew 目的.
 
@@ -16,7 +16,7 @@ Suizsjienzs qong uw 自然語言 qahf 電腦語言 zitf 種 ew 區別存在, dan
 
 ## 台語文 qahf 電腦語言
 
-電腦語言 siw uw 百百種, dakkwziong 電腦語言 long uw 伊 qazsqizs ew 特性. uw siongw 低階 kahf ua 機器 ew assembly 語言, maw uw siongw 高階 kahf ua 程式員 ew 物件朝向語言, simwziy siw uanzszuanzs iong 英文寫作 ew, iongw laizs congyzokf 互動式小說 ew 語言. 其他 ezs qurhf uw diettwviet sikfhappw zury 數學運算 ew 語言, zuanzsmngzs iongw laizs zury data mining ew 語言等等, 出頭真 zuezs.
+電腦語言 siw uw 百百種, dakkwziong 電腦語言 long uw 伊 qazsqizs ew 特性. uw siongw 低階 kahf ua 機器 ew assembly 語言, maw uw siongw 高階 kahf ua 程式員 ew 物件朝向語言, simwziy siw uanzszuanzs iong 英文寫作 ew, iongw laizs congyzokf 互動式小說 ew 語言. 其他 e qurhf uw diettwviettw sikfhappw zury 數學運算 ew 語言, zuanzsmngzs iongw laizs zury data mining ew 語言等等, 出頭真 zuezs.
 
 Daiwvowhunw 電腦語言 ew 設計者 diw 設計 ew 時拵 diurhhw isfqingzs 大概 zaizsiann izs so behf 解決 ew 問題 siw siannw, maw 大概 zaizsiann izs 設計 ew 方向 aiy duiy durhf 位去. Sosfi ziahh ewdangy diw 設計 ew 時拵 diurhhw qaw ze 語言 so 需要 ew 元素, keyword, 構文, 語義 long sietfqey 好勢.
 
@@ -26,7 +26,7 @@ Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannsfmihf 欵 ew 角�
 
 Zitf vun 冊 so susfiongw ew 書寫系統 siw camzskur qokfziong 台語界前輩 ew 設計 so 創作 cuttwlaih ew. 漢字 ew 輸入 siw susfiongw 信望愛台語客語輸入法. 台語音 ansfzuann 發音, diurhhw ansfzuann 寫.
 
-Inzsuiw 台羅 siw zittwziong 羅馬化 ew 漢字, iaw diurhhw siw zittwziong qaw 漢字羅馬化 ew 系統, izs qahf 漢字仝款 uanzszuanzs burzs 形態 ew 變化, mw siw 正港 ew 拼音系統, sosfi qaw 台羅 dongy zury 拼音系統 laizs 書寫 qizssittw siw 無適當 e. Iuzsqizs siw duiy 聲調 ew 標示 ew sansfsingzs 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 兩 ezs 無仝欵 ew 概念. 拼音系統 vitfsuzs aiy ewdangy viausfhienw izs  所有 ezs 語音變異 (Sound Change), ahf 書寫系統 duzsliau viausfhienw zittwlezs 語言 ew 語形變異 (Metaplasm) 以外, 語音變異 maw siw long aiy ewdangy 書寫.
+Inzsuiw 台羅 siw zittwziong 羅馬化 ew 漢字, iaw diurhhw siw zittwziong qaw 漢字羅馬化 ew 系統, izs qahf 漢字仝款 uanzszuanzs burzs 形態 ew 變化, mw siw 正港 ew 拼音系統, sosfi qaw 台羅 dongy zury 拼音系統 laizs 書寫 qizssittw siw 無適當 e. Iuzsqizs siw duiy 聲調 ew 標示 ew sansfsingzs 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 兩个無仝欵 ew 概念. 拼音系統 vitfsuzs aiy ewdangy viausfhienw izs  所有 ezs 語音變異 (Sound Change), ahf 書寫系統 duzsliau viausfhienw zittwlezs 語言 ew 語形變異 (Metaplasm) 以外, 語音變異 maw siw long aiy ewdangy 書寫.
 
 Inzsuiw ia buezs qaw 外來語 camzs 台語書寫系統 ew 轉換規則 kienylippw 好勢, lamw diurhhw 英語 ew 部份 diurhhw siw sia 英語.
 

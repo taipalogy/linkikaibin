@@ -18,11 +18,11 @@ Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. V
 | 1 | qa | increase |
 | 2 | qe | add |
 
-Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw 另外一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanx 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 兩句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
+Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw lingwguaw 一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanzs 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 兩句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
 
-Ciunnw bow zitf 字 uw 兩 ezs 意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 兩 ezs 定義, diurhhw siw uw 兩 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 兩 ezs facet ew 意思仝欵.
+Ciunnw bow zitf 字 uw 兩个意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 兩个定義, diurhhw siw uw 兩 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 兩 ezs facet ew 意思仝欵.
 
-Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一 ezs 定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一 ezs 定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二 ezs 定義:
+Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一个定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二个定義:
 
 | | 加 | | |
 | :--- | :--- | :--- | :--- |
@@ -38,48 +38,48 @@ Lan naw siw qurhf qaw 文 hunzs zury function-block qahf function-call ze 兩種
 
 ## 有用台語文寫程式
 
-Lan qurhf laizs kuanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意思, lan tehhw 告示 ew 示 zitf 字 laizs 用. Ahf print siw 印 ew 意思. Lan qaw `notify(){}` 文 sietfdingw zury 示 ew 頭一 ezs 定義:
+Lan qurhf laizs kuanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意思, lan tehhw 告示 ew 示 zitf 字 laizs 用. Ahf print siw 印 ew 意思. Lan qaw `def notify end` 文 sietfdingw zury 示 ew 頭一个定義:
 
 | | 示 | |
 | :--- | :--- | :--- |
 | 1 | sizx | def notify end |
 
-Qaw `printToPdf();` 文 sietfdingw zury 印 ew 頭一 ezs 定義, `printToPaper();` sietfdingw zury 第二 ezs 定義. Sosfi 印 uw 兩 ezs 定義:
+Qaw `printToPdf` 文 sietfdingw zury 印 ew 頭一个定義, `printToPaper` sietfdingw zury 第二个定義. Sosfi 印 uw 兩个定義:
 
 | | 印 | |
 | :--- | :--- | :--- |
 | 1 | inw | printToPdf |
 | 2 | | printToPaper |
 
-紲 lurhhwlaih lan ewdangy qaw 示 camzs 印 dauhy zury 一字, diurhhw siw siwinw:
+紲 lurhhwlaih lan ewdangy qaw 示 camzs 印 dauhy zury 一字, diurhhw siw `siwinw`:
 
 ```ruby
-//
-// siwinw
-//
+#
+# siwinw
+#
 def notify
   printToPdf
 end
 ```
 
-為啥乜 `notify(){}` siw qaw 印 ew 頭一 ezs 定義 `printToPdf();` 嵌 lippwkih, mw siw qaw 第二个 neh? Inzsuiw lan ewdangy diw context 內底設定 behf cusfiongw durh 一 ezs 定義 laizs how `notify(){}` 嵌 leh:
+為啥乜 `def notify end` siw qaw 印 ew 頭一个定義 `printToPdf` 嵌 lippwkih, mw siw qaw 第二个 neh? Inzsuiw lan ewdangy diw context 內底設定 behf cusfiongw durhf 一个定義 laizs how `def notify end` 嵌 leh:
 
 ```ruby
 context.add([_si, _in, 1])
 ```
 
-頂 quanx ew 函數 viausfsiw 示 behf tehhw 印 ew 頭一 ezs 定義 laizs qazs 嵌 leh. `context.add()` viausfsiw diw context 內底 zingzsqazs 一項, hikkwziasfsiw zingzsqazs 一 hangw 選用規則 ew 意思.
+頂 quanx ezs 函數 viausfsiw 示 behf tehhw 印 ew 頭一个定義 laizs qazs 嵌 leh. `context.add` viausfsiw diw context 內底 zingzsqazs 一項, hikkwziasfsiw zingzsqazs 一 hangw 選用規則 ew 意思.
 
-為啥乜 `notify()` ewdangy qaw `printToPdf()` 嵌 lippwkih? Inzsuiw 示印 naw sia zury siwinw, viausfsiw sizs qahf inw siw iongw 變調造語 lienzsqietf zury 一 ezs 單語. 示印 naw sia zury sizs inw, viausfsiw sizs qahf inw siw 二 ezs 分別 ew 單語. Sosfi sia zury sizs inw ew 示印, viausfsiw `notify(){}` qahf `printToPdf();` siw 並列 ew 關係:
+為啥乜 `def notify end` ewdangy qaw `printToPdf` 嵌 lippwkih? Inzsuiw 示印 naw sia zury `siwinw`, viausfsiw sizs qahf inw siw iongw 變調造語 lienzsqietf zury 一个單語. 示印 naw sia zury `sizs inw`, viausfsiw sizs qahf inw siw 二 ezs 分別 ew 單語. Sosfi sia zury `sizs inw` ew 示印, viausfsiw `def notify end` qahf `printToPdf` siw 並列 ew 關係:
 
 ```ruby
-//
-// sizs inw
-//
+#
+# sizs inw
+#
 def notify
 end
 
 printToPdf
 ```
 
-Diw 台語文程式設計內底, jimwhurzs 二 ezs 文 ew 組合 naw mw siw 嵌入 diurhhw siw 並列.
+Diw 台語文程式設計內底, jimwhurzs 二个文 ew 組合 naw mw siw 嵌入 diurhhw siw 並列.

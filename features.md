@@ -1,81 +1,98 @@
 # 特點
 
-## Mw 是多型
+## Mw Siw 多型
 
-多型 ew 英文是 polymorphism. Polymorphism 是物件朝向 ew 三大特性之一. 物件朝向 diurff 是 object-oriented ew 台語翻譯. 多型 ewdangy qaw 衍生類別 ew 物件傳送 how 一个接受基本類別 reference ew 多型函數. 物件朝向 ew is-a 或者是 kind-of 關係是對類別 ew 繼承得着保證. 所以 zia 咱講衍生類別 ewdangy 替換基本類別.
+多型 ew 英文 siw polymorphism. Polymorphism siw 物件朝向 ew 三大特性之一. 物件朝向 diurhhw siw object-oriented ew 台語翻譯. 多型 ewdangy qaw 衍生類別 ew 物件傳送 how 一 ezs zipfsiuw 基本類別 reference ew 多型函數. 物件朝向 ew is-a hikkwziasfsiw kind-of 關係 siw duiy 類別 ew 繼承 ditfdiurhhw 保證. Sosfi lan qong 衍生類別 ewdangy teyuannw 基本類別.
 
-台語文程式設計 ew 方法 qahh 多型並無關係. Zitt 个方法當然是 ewdangy 寫多型 ew 程式碼, 但是伊並無牽涉着 dynamic binding. Dngzx dehh 寫程式 ew 時陣, maw 是 dehh 寫自然語言 ew 文句, ze 二項 daiwziw 是並行 ezs. 咱 maw ewdangy 用 is-a 或者是 kind-of 來形容一个多義語 qahh 伊逐个意義之間 ew 關係. 但是 zitt 種 is-a 或者是 kind-of 關係是對 polysemy 或者是 monosemy 得着保證, 並 mw 是對 inheritance 來 ezs.
+台語文程式設計 ew 方法 qahf 多型 vingw burzs 關係. Zitf ezs 方法 dongzsjienzs siw ewdangy sia 多型 ew 程式碼, danwsiw izs vingw burzs kanzssiapf diurhhw dynamic binding. Dngzs dehh sia 程式 ew 時拵, maw siw lehf sia 自然語言 ew 文句, ze 二 hangw daiwziw siw 並行 ezs. Lan maw ewdangy iongw is-a hikkwziasfsiw kind-of laizs hingzsiongzs 一 ezs 多義語 qahf izs逐 ezs 意義之間 ew 關係. Danwsiw zitf ziong is-a hikkwziasfsiw kind-of 關係 siw duiy polysemy hikkwziasfsiw monosemy ditt diurhhw , vingw mw siw duiy inheritance 得 diurh ew.
 
-## 另外一 ezs 觀點看 code
+## Lingwguaw 一 Ezs 觀點 Kuanny Code
 
-Zitt ezs 方法 mw 是 behh 取代電腦語言. 事實上, 伊是 how 咱用另外一个觀點來看根源碼.
+zitf ezs 方法 mw siw behf cusfdaiw 電腦語言. 事實上, izs siw how lan 用 lingwguaw 一 ezs 觀點 laizs kuanny 根源碼.
 
-傳統上咱 dehh 寫程式 ew 時陣, 咱頭殼內底會 daiw 先有一个想法. 了後咱 qurhh qaw 即个想法分解做幾若个邏輯單位. Zitt 个分解 ew 過程 diannwdiannzx diurff 是用歸納法 qahh 演繹法. Zia ew 邏輯單位, 親像 function call, variable, class declaration 等等, ewdangy 組合做 tangzs 運作 ew 程式. 了後組好 ew 程式碼 diurff ewdangy 提去 parse, interpret, compile, qahh 執行.
+傳統上 lan lehh 寫程式 ew 時拵, lan 頭殼內底 ew daiwsing uw 一 ezs 想法. 了後 lan qurhf qaw zihflezs 想法 hunzsqai zury 幾若 ezs 邏輯單位. Zitflezs 分解 ew 過程 diannwdiannzs diurhhw siw 用歸納法 qahf 演繹法. Zia ezs logik 單位, cinzsciunnw function call, variable, class declaration 等等, ewdangy zosfhappw zury 一 ezs tangzs 運作 ew 程式. 了後組好 ew 程式碼 diurff ewdangy tehhw ki parse, interpret, compile, qahf 執行.
 
-對另外一个觀點來看根源碼, 咱 ewdangy qaw 程式碼拆開做一个一个 ew 文. 每一个文 long 會 qahh 伊頭前 ia 是後壁 ew 文形成嵌入或者是並列 ew 關係. 每一个文 long ewdangy 用一个單語來表示. 雖然講每一个文 long ewdangy 用一个多音節 ew 單語來表示, 咱 diw zia 猶原是用單音節單語來做例, anssne 看 kifflaih 卡好瞭解, maw 卡好操作. 最後咱 qaw ze 一序列 ew 單語連結做一句或者是一个文.
+Duiy lingwguaw 一 ezs 觀點 laizs kuanny 根源碼, lan ewdangy qaw 程式碼 tiahykuizs zury 一 ezs 一 ezs ew 文. 每一 ezs 文 long ew qahf izs 頭前 ia siw 後壁 ew 文 hingzssingzs 嵌入 hikkwziasfsiw 並列 ew 關係. 每一 ezs 文 long ewdangy iongw 一 ezs 單語 laizs 表示. Suizsjienzs qong 每一 ezs 文 long ewdangy iongw 一 ezs 多音節 ew 單語 laizs 表示, lan diw zia iuguanzs siw iongw 單音節單語 laizs zury 例, ansfne 看 kihhwlaih kahf 好瞭解, maw kahf 好操作. 最後 lan qaw ze 一序列 ew 單語 lienzsqietf zury 一句 hikkwziasfsiw 一个文.
 
-## Mw 是 qanzsnazs 翻譯
+## Mw Siw Qanzsnazs 翻譯
 
-一个電腦語言是用一組固定 ew keyword qahh 標點符號所組合成 ezs. 現子時主流 ew 電腦語言 ew keyword long 是使用英文單語. Maw 有真濟人 dehh 設想 behh 開發非英文 ew 電腦語言, 但是使用 ew 人無算濟. 非英文 ew 電腦語言是用非英文 ew keyword, 相當適合母語 mw 是英語 ew 人.
+一 ezs 電腦語言 siw iongw 一 zozs 固定 ew keyword qahf 標點符號 so zozshappw 成 ezs. 現子時主流 ezs 電腦語言 ew keyword long siw susfiongw 英文單語. Maw uw zinzs zezs 人 dehf 設想 behf kaizshuatf 非英文 ew 電腦語言, danwsiw 使用 ew 人無算 zezs. 非英文 ew 電腦語言 siw inogw 非英文 ew keyword, 相當 sikfhappw 母語 mw siw 英語 ew 人.
 
-以英文做基礎 ew 電腦語言 qahh 以非英文做基礎 ew 電腦語言, inzs qam 有共同點? Inzs long 是邏輯語言. Inzs 其中有一 qua qanzsnazs 是對英文 qaw keyword 翻譯過去 niawniazs. Diw zia 我所講 ew 翻譯是指 qaw 以英文做基礎 ew 電腦語言內底 ew keyword 翻 queffkih.
+I 英文 zury 基礎 ew 電腦語言 qahf i 非英文 zury 基礎 ew 電腦語言, inzs qam uw 共同點? Inzs long siw logik 語言. Inzs 其中 uw 一 qua qanzsnazs siw duiy 英文 qaw keyword 翻譯 quehhwkih niawniazs. Diw zia Gua so 講 ew 翻譯 siw zi qaw i 英文 zury 基礎 ew 電腦語言內底 ew keyword 翻 queh-kih.
 
-Zitt 个方法 mw 是 qanzsnazs 對電腦語言 qaw keyword 翻譯 queffkih niawniazs. 咱 dehh 強調用台語文寫程式是一種方法, 方法必須是 tangzs 操作 ew, zia ewdangy 號做方法. Diurff 是講咱是用 zitt 个方法來寫程式.
+Zitf ezs 方法 mw siw qanzsnazs duiy 電腦語言 qaw keyword 翻譯 queffkih niawniazs. Lan dehf qiongzsdiauw iong 台語文 sia 程式 siw 一種方法, 方法 vitfsuzs siw tangzs 操作 ew, zia ewdangy qazs hurw zury 方法. Diurhhw siw qong lan siw iongw zitflezs 方法 laizs sia 程式.
 
-Zitt 个寫程式 ew 方法 maw mw 是輸入法. 輸入法是咱用來扑字產生一个單語序列 ew 軟體家私. 咱 ew 方法 diurff 是愛用 diurff zitt 个軟體家私所產生 ew 單語序列. Zitt 个方法當然 maw ewdangy qahh 以非英文做基礎 ew 電腦語言協作.
+Zitf ezs sia 程式 ew 方法 maw mw siw 輸入法. 輸入法 siw lan iongw laizs 拍字 sansfsingzs 一个單語序列 ew 軟體家私. Lan ew 方法 diurhhw siw aiy iongw diurhhw zitf ezs 軟體家私 so 產生 ew 單語序列. Zitflezs 方法當然 maw ewdangy qahf i 非英文 zury 基礎 ew 電腦語言協作.
 
-## 降 qezs 進入障礙
+## 降 Qezs 進入障礙
 
-Zitt 个方法是對電腦語言 qurhh 卡倚人一腳步. 伊是做電腦語言 qahh 人 ew 託中. 因為伊託中, 伊着有一个託中 ew 機制. Zitt 个機制 tangzs how 咱 qaw 自然語言中 ew 單語 qahh 語句對應到電腦語言 ew 文. 因為咱所扑 ew 是自然語言, 咱 diurff ewdangy 對自然語言 ew 文 qahh 語彙來理解根源碼. 咱 ewdangy 對自然語言來理解電腦語言, 咱 diurff 是降 qezs 了進入電腦語言 ew 障礙.
+Zitf ezs 方法 siw duiy 電腦語言 qurhf kahf ua 人一脚步. Izs siw zury 電腦語言 qahf 人 ew intermediate. Inzsuiw izs intermediate, izs diurhhw uw 一 ezs intermediate ew 機制. zitflezs 機制 tangzs how lan qaw 自然語言中 ew 單語 qahf 語句 duiyingy qauy 電腦語言 ew 文. Inzsuiw lan so 拍 ew siw 自然語言, lan diurhhw ewdangy duiy 自然語言 ew 文 qahf 語彙來 lisfqai 根源碼. Lan ewdangy duiy 自然語言 laizs lisfqai 電腦語言, lan diurff siw 降 qezs liau zinyjippw 電腦語言 ew 障礙.
 
-既然 ewdangy 指定一个單語 how 一个文, hitt 个單語 maw ewdangy 當做伊所表示 ew 文 ew 註解. Zitt 个單語意思上可能 qahh 伊所表示 ew 文有精差, Ia mw qurhh 伊 maw 是 ewdangy qahh 根源碼 ew comment 互相參考, 共同存在.
+Qiyjienzs ewdangy zisfdingw 一个單語 how 一个文, hitflezs 單語 maw ewdangy dongy zury izs o 表示 ew 文 ew 註解. Zitflezs單語意思上 kursflingzs qahf izs so 表示 ew 文 uw 增差, ia mw qurhf izs maw siw ewdangy qahf 根源碼 ew comment 互相參考, 共同存在.
 
 ## 適應性設計
 
-咱若 qaw 一組文指定 how 一个單語, 咱實際上 dehh 做 ew 是提供一組選項 how 伊. 若 behh 選 dohh 一个選項是愛根據一个自然語言 ew 句或者是文 ew context 來決定. 若是程式設計 diurff 用 `context.add()` qahh `context.remove()` 來設定 context. 若是人機介面 diurff 是使用者去選擇一个選項. Diurff 是講 zitt 个選擇 ew 動作 ewdangy how 程式碼去適應 context. 若是 context 有改變, 選項 maw 會綴 lehh 改變. 若是源碼 ewdangy 去適應 context, 程式碼 diurff 會卡有彈性, 而且 qurhh 對 context ew 變化產生反應.
+Lan naw qaw 一組文 zisfdingw how 一个單語, lan sittwzey 上 lehf 做 ew siw tezsqiongzs 一組選項 how izs. Naw behf suan durhf 一个選項 siw aiy qinzsqiy 一个自然語言 ew 句 hikkwziasfsiw 文 ew context laizs 決定. Naw siw 程式設計 diurhhw iongw `context.add` qahf `context.remove` laizs sietfdingw context. Naw siw 人機界面 diurhhw siw 使用者 kiy suansfdikkw 一个選項. Diurhhw siw qong zitflezs 選擇 ew 動作 ewdangy how 程式碼 ki sikfingy context. Naw siw context uw 改變, 選項 maw ew duey lehf 改變. Naw siw 根源碼 ewdangy ki sikfingy context, 程式碼 diurhhw ew kahf uw 彈性, jizsciann qurhf duiy context ew 變化 sansfsingzs 反應.
 
-若是以適應性來看根源碼, 程式碼 ew 一部分是有適應性, 另外一部分是非適應性. 所以適應性是對 dohh 位來 ezs? 一个軟體程式 ewdangy dauhy jibbki 各種無仝欵 ew 硬體內底. 軟體 qurhh 需要 how 無仝欵 ew 使用者 diw 無仝欵 ew 情形下操作. 一个有適應性 ew 軟體程式 ewdangy 對伊 ew 非適應性核心得 diurff 支援, 並且對 context ew 變化做出反應. 有適應性 ew 軟體部件 ewdangy qaw 非適應性核心部件變做卡有彈性 qahh 反應性. Ahh 非適應性核心部件 ewdangy 提供功能並且支援適應性部件.
+Naw siw i 適應性 laizs kuanny 根源碼, 程式碼 ew 一部分 siw uw 適應性, lingwguaw 一部分 siw 非適應性. Sosfi 適應性 siw duiy durhf 位來 ezs? 一个軟體程式 ewdangy dauhy jibbki 各種無仝欵 ew 硬體內底. 軟體 qurhf suzsiauy how 無仝欵 ew 使用者 diw 無仝欵 ew 情形下操作. 一个 uw 適應性 ew 軟體程式 ewdangy duiy 伊 ew 非適應性核心 ditf diurhhw support, vingwciann duiy context ew 變化 zurycutf 反應. Uw 適應性 ew 軟體部件 ewdangy qaw 非適應性核心部件 vieny zury kahf uw 彈性 qahf 反應性. Ahf 非適應性核心部件 ewdangy tezsqiongzs 功能 vingwciann zizsuanzs 適應性部件.
 
-咱來看下腳示 ew 表格:
+Lan laizs kuanny 下脚示 ew 表格:
 
-| | **知** | | | |
+|| 示 ||||
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | di | inform | inform the user | def inform end |
-| | **示** | | | |
 | 1 | sizx | notify | notify the user | def notify end |
+|| 知 ||||
+| 1 | di | inform | inform the user | def inform end |
+|| 印 ||||
+| 1 | inw | print | print to pdf | printToPdf |
+| 2 ||| print to paper | printToPaper |
 
-Diw 頂 quanx ew 表格, 咱用 `notify(){}` 來提示使用者, 用 `inform(){}` 來通知使用者. 了後 qurhh 設定 context:
+Diw 頂 quanx ezs 表格, lan iongw `def notify end` laizs tezssiw 使用者, iongw `def inform end` laizs tongzsdizs 使用者. 了後 qurhf sietfdingw context:
 
 ```ruby
-context.add([_di, _in, 2])
+context.add([_di, _inw, 2])
+context.add([_sizs, _inw, 1])
 ```
 
-頂 quanx ew 表格表示知 behh 取用印 ew 第二个定義. 所以 `tizxinw` ew 程式碼着像下腳 anssne:
+頂 quanx ezs 表格表示知 behf cusfiongw 印 ew 第二个定義. Sosfi `siwinw` ew 程式碼 diurhhw ciunnw 下脚 ansfne:
 
 ```ruby
-//
-// dizsinw
-//
+#
+# siwinw
+#
+
+def notify
+  printToPdf
+end
+```
+
+
+Ahf `dizsinw` ew 程式碼 diurhhw ciunnw 下脚 ansfne:
+
+```ruby
+#
+# dizsinw
+#
 
 def inform
   printToPaper
 end
 ```
 
-Ze diurw 真明顯 aw, 咱用知來取代示 diurw qaw 印 ew 定義換掉 azs. 本來 `siwinw` 是提印 ew `printToPdf();` 來用, gimzsmay qaw `sizs` 換做 `di` 變 `dizsinw` , `dizsinw` diurff 提印 ew `printToPaper()` 來用. 所以印會綴 diurff context 內底所設定 ew 規則改變伊 ew 定義. Ze 着是印 ew 適應性.
+Ze diurhhw 真明顯 aw, lan iongw 知 laizs cusfdaiw 示 diurhhw qaw 印 ew 定義 uannw 掉 azs. Vunsflaizs `siwinw` 是 tehhw 印 ew `printToPdf` laizs 用, zimssmay qaw `sizs` 換做 `di` 變 `dizsinw` , `dizsinw` diurhhw tehhw 印 ew `printToPaper` 來用. Sosfi 印 ew duey diurhhw context 內底 so 設定 ew 規則 qaisfvieny izs ew 定義. Ze diurhhw siw 印 ew 適應性.
 
-下腳是設 ew 表格:
+下脚是設 ew 表格:
 
-| | **設** | | | |
+| | 設 | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | siat | set up | set up printer core | def setUpPrinterCore end |
+| 1 | siet | set up | set up printer core | def setUpPrinterCore end |
 
-若是有 ze 二句 `siat siwinw` qahh `siat dizsinw`, qahh inzs 相關 ew 程式碼分別是 ze:
+Naw siw uw ze 二句 `siet siwinw` qahf `siet dizsinw`, qahf inzs 相關 ew 程式碼分別 siw ze:
 
 ```ruby
-//
-// siat siwinw
-//
+#
+# siet siwinw
+#
 
 def setUpPrinterCore
 end
@@ -85,12 +102,12 @@ def notify
 end
 ```
 
-qahh ze:
+qahf ze:
 
 ```ruby
-//
-// siat dizsinw
-//
+#
+# siet dizsinw
+#
 
 def setUpPrinterCore
 end
@@ -100,59 +117,59 @@ def inform
 end
 ```
 
-設是非適應性核心部件, 伊提供上核心 ew 功能. `siwinw` qahh `dizsinw` ewdangy 提供適應性 how `siat`, ahh `siat` 提供 siongw 核心, siongw 通用, 非適應性 ew 功能 how `siwsiw` qahh `dizsinw`.
+設 siw 非適應性核心部件, izs tezsqiongzs siongw 核心 ew 功能. `siwinw` qahf `dizsinw` ewdangy tezsqiongzs 適應性 how `siet`, ahf `siet` 提供 siongw 核心, siongw 通用, 非適應性 ew 功能 how `siwsiw` qahf `dizsinw`.
 
-## Qahh 現有 ew 電腦語言協作
+## Qahf 現有 ew 電腦語言協作
 
-Zitt 个方法 mw 是取代電腦語言. 自然語言 ewdangy qahh 電腦語言協作. 所有對自然語言施加 ew 操作 long 會反映到電腦語言 ew 文 ew 組合. 咱下腳舉一 qua 例來看即个方法 ansszuann qahh 現有 ew 電腦語言協作.
+Zitflezs 方法 mw siw behf cusfdaiw 電腦語言. 自然語言 ewdangy qahf 電腦語言協作. Sosfuw duiy 自然語言施加 ew 操作 long ew huansfingy qauy 電腦語言 ew 文 ew 組合. Lan 下脚 qi 一 qua 例 laizs kuanny zitflezs 方法 ansfzuann qahf 現有 ew 電腦語言協作.
 
 ### Python
 
-Ze 是 Python ew 表格:
+Ze siw Python ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | def setUpPrinterCore\(\): |
-| | **示** | |
-| 1 | sizs | def notify\(\): |
-| | **知** | |
-| 1 | di | def inform\(\): |
-| | **印** | |
-| 1 | inw | |
-| 2 | | |
+| 1 | siet | def setUpPrinterCore(): |
+| | 示 | |
+| 1 | sizs | def notify(): |
+| | 知 | |
+| 1 | di | def inform(): |
+| | 印 | |
+| 1 | inw | printToPdf() |
+| 2 | | printToPaper() |
 
-Ze 是用 Python 寫 `siat dizsinw` ew code snippet:
+Ze siw iongw Python sia `siet dizsinw` ew code snippet:
 
-```py
-//
-// siat dizsinw
-//
+```python
+#
+# siet dizsinw
+#
 def setUpPrinterCore():
 
 def inform():
-printToPaper()
+  printToPaper()
 ```
 
 ### C
 
-Ze 是 C ew 表格:
+Ze siw C ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | void setUpPrinterCore\(\){} |
-| | **示** | |
-| 1 | sizs | void notify\(\){} |
-| | **知** | |
-| 1 | di | void inform\(\){} |
-| | **印** | |
-| 1 | inw | printToPdf\(\); |
-| 2 | | printToPaper\(\); |
+| 1 | siet | void setUpPrinterCore(){} |
+| | 示 | |
+| 1 | sizs | void notify(){} |
+| | 知 | |
+| 1 | di | void inform(){} |
+| | 印 | |
+| 1 | inw | printToPdf(); |
+| 2 | | printToPaper(); |
 
-Ze 是用 C 寫 `siat dizsinw` ew code snippet:
+Ze siw iong C sia `siet dizsinw` ew code snippet:
 
 ```c
 //
-// siat dizxinw
+// siet dizxinw
 //
 void setUpPrinterCore()
 {
@@ -166,24 +183,24 @@ void inform()
 
 ### Swift
 
-Ze 是 Swift ew 表格:
+Ze siw Swift ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | func setUpPrinterCore\(\){} |
-| | **示** | |
-| 1 | sizs | func notify\(\){} |
-| | **知** | |
-| 1 | di | func inform\(\){} |
-| | **印** | |
-| 1 | inw | printToPdf\(\) |
-| 2 | | printToPaper\(\) |
+| 1 | siet | func setUpPrinterCore(){} |
+| | 示 | |
+| 1 | sizs | func notify(){} |
+| | 知 | |
+| 1 | di | func inform(){} |
+| | 印 | |
+| 1 | inw | printToPdf() |
+| 2 | | printToPaper() |
 
-Ze 是用 Swift 寫 `siat dizsinw` ew code snippet:
+Ze siw iongw Swift sia `siet dizsinw` ew code snippet:
 
-```
+```swift
 //
-// siat dizxinw
+// siet dizsinw
 //
 func setUpPrinterCore()
 {
@@ -197,24 +214,24 @@ func inform()
 
 ### XML
 
-Ze 是 XML ew 表格:
+Ze siw XML ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | setting up |
-| | **示** | |
+| 1 | siet | setting up |
+| | 示 | |
 | 1 | sizs | |
-| | **知** | |
+| | 知 | |
 | 1 | di | |
-| | **印** | |
+| | 印 | |
 | 1 | inw | print to pdf |
 | 2 | | print to paper |
 
-Ze 是用 XML 寫 `siat dizsinw` ew code snippet:
+Ze siw iongw XML sia `siet dizsinw` ew code snippet:
 
 ```
 //
-// siat dizsinw
+// siet dizsinw
 //
 <printercore>
 setting up
@@ -224,21 +241,21 @@ print to paper
 </piecesofinformation>
 ```
 
-## Mw 是 Programming Paradigm
+## Mw Siw Programming Paradigm
 
-Zitt 个方法 ewdangy 應用到現有 ew programming paradigm, mw 管伊是 functional, procedural, 或者是 object-oriented. 提任何一个 code snippet 來, 伊 long ewdangy how 剖文做兩種組合 ew 其中一種: 並列或者是嵌入. Diw C ew 例內底, 一个 for-loop 文 ewdangy qaw 幾若个文嵌 jibbkih. Ahh 嵌有分二種, 一種是 qaw 嵌 ew, 一種是 how 嵌 ew. 咱 ewdangy 講 for-loop qaw 幾若个文嵌 leff, zitt 个 for-loop diurff 是一个 qaw 嵌 ew 文. Ze 幾若个文若是 how for-loop 嵌 leff, ze 幾若个 diurff 是 how 嵌 ew 文. 所謂 ew 嵌 diurff 是鑲嵌 ew 嵌, 英文 diurff 是 embedding ew 意思. 英文內底 qurhh 有一个單語 nesting maw ewdangy 形容一个文 qaw 另外一个文嵌 jibbkih. 其實 embedding qahh nesting 是兩个無仝欵 ew 概念, maw 有一 qua 程式語言是確實 qaw embedding qahh nesting ew 用法分 qahh 真清楚. Ia qurhh nesting mw 知影 anzuann qaw 翻做台語卡好. 所以嵌 zitt 字是 gimzsmay siongw 適當 ezs, ewdangy 直接提來用 ew 字.
+zitflezs 方法 ewdangy ingwiongw qauy 現有 ew programming paradigm, mwquan izs siw functional, procedural, hikkwziasfsiw object-oriented. Tehhw 任何一 ezs code snippet 來, izs long ewdangy how 剖文 zury 兩種組合 ew 其中一種: 並列 hikkwziasfsiw 嵌入. Diw C ew 例內底, 一 ezs for-loop 文 ewdangy qaw 幾若个文嵌 jibbkih. Ahf 嵌 uw hunzs 二種, 一種 siw qangzs 嵌 ew, 一種 siw hongzs 嵌 ew. Lan ewdangy qong for-loop qaw 幾若个文嵌 leh, zitflezs for-loop diurhw siw 一 ezs qangzs 嵌 ew 文. Ze 幾若个文 naw siw how for-loop 嵌 leh, ze 幾若个 diurhhw siw hongzs 嵌 ew 文. 所謂 ew 嵌 diurhhw siw 鑲嵌 ew 嵌, 英文 diurhhw siw embedding ew 意思. 英文內底 qurhf uw 一个單語 nesting maw ewdangy hingzsiongzs 一个文 qaw lingwguaw 一个文嵌 jibbkih. Qizssittw embedding qahf nesting siw 兩个無仝欵 ew 概念, maw uw 一 qua 程式語言 siw kakfsittw qaw embedding qahf nesting ew 用法分 qahf 真清楚. Ia qurhf nesting mw zaizsiann ansfzuann qaw huanzs zury 台語 kahf 好. Sosfi 嵌 zitt 字 siw zimssmay siongw 適當 e, ewdangy dittwziapf tehhw laizs 用 ew 字.
 
-提 function-block 來作例, function ew 名 qahh 伊个 return type 是 qaw 嵌 ew 文, function-body 內底所嵌 ew 文是 how 嵌 ew 文. 紲 lurfflaih 是並列. 兩个文若是並列, 表示 inzs 二个齊頭排列. 譬喻講, 有一个 for-loop qahh 一个 function call 齊頭排列, inzs diurff 是並列.
+Tehhw function-block laizs zury 例, function ew 名 qahf izs ezs return type siw qangzs 嵌 ew 文, function-body 內底 so 嵌 ew 文 siw hongzs 嵌 ew 文. 紲 lurhhwlaih siw 並列. 兩个文 naw siw 並列, viausfsiw inzs 二个齊頭排列. 譬喻 qong, uw 一个 for-loop qahf 一个 function call 齊頭排列, inzs diurhhw siw 並列.
 
-Zitt 个方法 mw 是一个新 ezs programming paradigm. Diurff 是講, 一个寫程式 ew method mw 是一个 paradigm. Zitt 个方法 maw ewdangy 應用到任何新發明 ew paradigm.
+zitflezs 方法 mw siw 一 ezs 新 ezs programming paradigm. Diurhhw siw qong, 一 ezs sia 程式 ew method mw siw 一个 paradigm. Zitflezs 方法 maw ewdangy ingyiongw qauy jimwhurzs 新發明 ezs paradigm.
 
 ### 物件朝向
 
-Ze 是物件朝向 paradigm ew 表格:
+Ze siw 物件朝向 paradigm ew 表格:
 
 | | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | void setUpPrinterCore\(\){} |
+| 1 | siet | void setUpPrinterCore\(\){} |
 | | 示 | |
 | 1 | sizx | void notify\(PrintingObject prnObj\){} |
 | | 知 | |
@@ -247,11 +264,11 @@ Ze 是物件朝向 paradigm ew 表格:
 | 1 | inw | prnObj.printToPdf\(\); |
 | 2 | | prnObj.printToPaper\(\); |
 
-Ze 是 `siat dizsinw` ew 物件朝向 code snippet:
+Ze siw `siet dizsinw` ew 物件朝向 code snippet:
 
 ```cpp
 //
-// siat dizxinw
+// siet dizxinw
 //
 void setUpPrinterCore()
 {
@@ -265,24 +282,24 @@ void inform(PrintingObject prnObj)
 
 ### Scripting
 
-Ze 是 scripting paradigm ew 表格:
+Ze siw scripting paradigm ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | function setUpPrinterCore\(\){} |
-| | **示** | |
-| 1 | sizx | function notify\(\){} |
-| | **知** | |
-| 1 | di | function inform\(\){} |
-| | **印** | |
-| 1 | inw | printToPdf\(\); |
-| 2 | | printToPaper\(\); |
+| 1 | siet | function setUpPrinterCore(){} |
+| | 示 | |
+| 1 | sizx | function notify(){} |
+| | 知 | |
+| 1 | di | function inform(){} |
+| | 印 | |
+| 1 | inw | printToPdf(); |
+| 2 | | printToPaper(); |
 
-Ze 是 `siat dizsinw` ew scripting code snippet:
+Ze siw `siet dizsinw` ew scripting code snippet:
 
 ```js
 //
-// siat dizxinw
+// siet dizxinw
 //
 function setUpPrinterCore()
 {
@@ -296,52 +313,52 @@ function inform()
 
 ### Functional
 
-Ze 是 functional paradigm ew 表格:
+Ze siw functional paradigm ew 表格:
 
 | | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | \(defun setUpPrinterCore\) |
+| 1 | siet | (defun setUpPrinterCore) |
 | | 示 | |
-| 1 | sizx | \(defun notify\(\)\) |
+| 1 | sizs | (defun notify()) |
 | | 知 | |
-| 1 | di | \(defun inform\(\)\) |
+| 1 | di | (defun inform()) |
 | | 印 | |
-| 1 | inw | \(format t "printing to pdf"\) |
-| 2 | | \(format t "printing to paper"\) |
+| 1 | inw | (format t "printing to pdf") |
+| 2 | | (format t "printing to paper") |
 
-Ze 是 `siat dizsinw` ew functional code snippet:
+Ze siw `siet dizsinw` ew functional code snippet:
 
 ```
-//
-// siat dizsinw
-//
+;;;
+;;; siet dizsinw
+;;;
 (defun setUpPrinterCore)
 
 (defun inform()
-(format t "printing to paper")
+  (format t "printing to paper")
 )
 ```
 
 ### Declarative
 
-Ze 是 declarative paradigm ew 表格:
+Ze siw declarative paradigm ew 表格:
 
-| | **設** | |
+| | 設 | |
 | :--- | :--- | :--- |
-| 1 | siat | \#setUpPrinterCore {transition-duration: 1s;} |
-| | **示** | |
-| 1 | sizs | \#notifications{} |
-| | **知** | |
-| 1 | di | \#piecesOfInformation{} |
-| | **印** | |
-| 1 | inw | background-color: \#ffffff |
-| 2 | | background-color: \#000000 |
+| 1 | siet | #setUpPrinterCore {transition-duration: 1s;} |
+| | 示 | |
+| 1 | sizs | #notifications{} |
+| | 知 | |
+| 1 | di | #piecesOfInformation{} |
+| | 印 | |
+| 1 | inw | background-color: #ffffff |
+| 2 | | background-color: #000000 |
 
-Ze 是 `siat dizsinw` ew declarative code snippet:
+Ze siw `siet dizsinw` ew declarative code snippet:
 
 ```
 //
-// siat dizsinw
+// siet dizsinw
 //
 #setUpPrinterCore
 {
