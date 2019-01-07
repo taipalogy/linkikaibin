@@ -692,6 +692,12 @@
 
 * 原始語言
 
+### source text
+
+* 原始 text. 原文.
+* [https://ejje.weblio.jp/content/rewriting+of+source+text](https://ejje.weblio.jp/content/rewriting+of+source+text)
+* [https://ejje.weblio.jp/content/source-text](https://ejje.weblio.jp/content/source-text)
+
 ### 素 sow
 
 ### 宣告文 suanzsqurybunx

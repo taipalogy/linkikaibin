@@ -8,7 +8,7 @@
 
 `Open the chest with a key or a hammer.`
 
-Zitf 句話 ew 意思 siw iongw 鎖匙 hikkwziasfsiw 摃槌仔 qaw 箱仔拍 hozs 開. Sosfi qaw 箱仔拍開 uw 二 ziong 方法, 一種 siw iongw 鎖匙 qaw 鎖拍開,  lingwguaw 一種 siw iongw 摃槌仔 qazs 摃 hozs 破. 下脚 siw 單語 qahf 文 ew 對應:
+Zitf 句話 ew 意思 siw iongw 鎖匙 hikkwziasfsiw 摃槌仔 qaw 箱仔拍 hozs 開. Sosfi qaw 箱仔拍開 uw 二種方法, 一種 siw iongw 鎖匙 qaw 鎖拍開,  lingwguaw 一種 siw iongw 摃槌仔 qazs 摃 hozs 破. 下脚 siw 單語 qahf 文 ew 對應:
 
 | 單語 | 意思 | 文 |
 | :--- | :--- | :--- |
