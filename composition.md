@@ -41,10 +41,10 @@ actions = pe.evaluate(detectedPhrases)
 
 Phrase evaluator 回傳 ew siw`actions`, iaw diurff siw 動詞`vingy`duiy izs 頭前 ew 名詞`kau`qahh izs 後壁 ew 名詞`kau`so 施加 ew 動作, qurhh 加上`tuhy`duiy izs 頭前 ew`kau`qahh 伊後壁 ew`kauy`施加 ew 動作. `vingy`duiy頭前 ew`kau`ew 產生一 ezs 動作, `vingy`duiy 後壁 ew`kau`ew 產生第二 ezs 動作. `tuhy`duiy 頭前 ew`kau vingy kau`ew 產生第三 ezs 動作, `tuhy`duiy 後壁 ew`kauy`ew 產生第四 ezs 動作. 所以 longsszongy uw 四 ezs 動作, iaw diurff siw uw 四 ezs action.
 
-咱 ewdangy 設定頭一 ezs action siw qaw 口縮小. 第二 ezs action 是 qaw 口放大. Inzsuiw `vingy`uw qahy 主語 qahh 目的語, 所以 ew qaw 分別放大 qahh 縮小 ew 口合併 kifflaih. 第三 ezs action siw qaw`kau vingpy kau`徙 ki 下腳. 第四 ezs action siw qaw`kauy`徙 ki 頂 quanx. Inzsuiw`tuhy`有 qahy 主語 qahh 目的語, 所以 ew iongw 下腳 ew 吅 qaw 頂 quanx ew 口托 kifflaih. Anssne「品」diurff 組 kifflaih iaw.
+咱 ewdangy 設定頭一 ezs action siw qaw 口縮小. 第二 ezs action 是 qaw 口放大. Inzsuiw `vingy`uw qahy 主語 qahh 目的語, 所以 ew qaw 分別放大 qahh 縮小 ew 口合併 kifflaih. 第三 ezs action siw qaw`kau vingpy kau`徙 ki 下脚. 第四 ezs action siw qaw`kauy`徙 ki 頂 quanx. Inzsuiw`tuhy`有 qahy 主語 qahh 目的語, 所以 ew iongw 下脚 ew 吅 qaw 頂 quanx ew 口托 kifflaih. Anssne「品」diurff 組 kifflaih iaw.
 
 Ze siw liwiongw dependency parser ew 作法, qahh 進前 Shunting Yard parser ew 作法 burzs 仝.
 
 ## Expression
 
-Expression siw 表現或者是表現式 ew 意思. Zitt 句 "kau vauzs kauy" naw burzs iongw 品詞 ew 角度 ki qazs 看, izs qannzsnazs siw 一 ezs 單語 ew 序列, maw ewdangy qong siw 一 ezs 表現. Naw siw qaw zitt 句 "kau vauzs kauy" iongw 品詞 ew 角度 ki qazs 看, "kau" qahh "kauy" siw 名詞, "vauzs" siw 動詞, "kau vauzs kauy" zitt 句 diurff 變 zury 表現式, maw siw 一 ezs 單語系列. 因為名詞 "kau" qahh "kauy" ewdangy qazs 看 zury operand, 動詞 "vauzs" ewdangy qazs 看 zury operator.
+Expression siw 表達或者是表達式 ew 意思. Zitt 句 "kau vauzs kauy" naw burzs iongw 品詞 ew 角度 ki qazs 看, izs qannzsnazs siw 一 ezs 單語 ew 序列, maw ewdangy qong siw 一 ezs 表達. Naw siw qaw zitt 句 "kau vauzs kauy" iongw 品詞 ew 角度 ki qazs 看, "kau" qahh "kauy" siw 名詞, "vauzs" siw 動詞, "kau vauzs kauy" zitt 句 diurff 變 zury 表達式, maw siw 一 ezs 單語系列. 因為名詞 "kau" qahh "kauy" ewdangy qazs 看 zury operand, 動詞 "vauzs" ewdangy qazs 看 zury operator.

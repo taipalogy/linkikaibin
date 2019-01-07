@@ -1,6 +1,6 @@
 # Duiy 程式 Qauy 人機介面
 
-下腳是鐵 ew 英語翻譯. 頭一 ex iron diurw siw 鐵 ew 意思. 第二 ex iron-like diurw siw 像鐵 ew ew 意思:
+下脚是鐵 ew 英語翻譯. 頭一 ex iron diurw siw 鐵 ew 意思. 第二 ex iron-like diurw siw 像鐵 ew ew 意思:
 
 | | **鐵** | |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ var zebra = new Zebra();
 | **slot 0** | tih | bey |
 | **slot 1** | tihy | be/bess |
 
-鐵馬若用`Tihybey`來匹配, diurff 親像下腳 anssne:
+鐵馬若用`Tihybey`來匹配, diurff 親像下脚 anssne:
 
 | | **鐵** | **馬** |
 | :--- | :--- | :--- |
@@ -47,14 +47,14 @@ var zebra = new Zebra();
 | 1 | 鐵做 ew 馬 | iron horse |
 | 2 | kongylingzx 車 | bicycle |
 
-所以用變調造語 qaw`tih`qapp`bey`連結做伙變做`tihybey`, 用程式來表達 diurff 是像下腳 anssne:
+所以用變調造語 qaw`tih`qapp`bey`連結做伙變做`tihybey`, 用程式來表達 diurff 是像下脚 anssne:
 
 ```ruby
 // iron horse
 iron.take(horse);
 ```
 
-紲落來 ewtangy qaw 使用者操作電腦所產生 ew event 交 how `iron` evaluate. 譬喻講提使用者 ew 輸入來做處理. 像`iron`伊 qaw`horse`當做 take method ew argument 了後, 咱 ew app diurff ewtangy diw 螢幕顯示兩个選項: 一 ex 是鐵做 ew 馬/iron horse, 另外一 ex 是 kongylingzs 車/bicycle. 使用者選擇一 ezs 選項了後, 譬喻講 siw 選 kongylingzs 車, `iron` diurw ewdangy qaw bicycle 當做siw context 處理, 像下腳 anssne:
+紲落來 ewtangy qaw 使用者操作電腦所產生 ew event 交 how `iron` evaluate. 譬喻講提使用者 ew 輸入來做處理. 像`iron`伊 qaw`horse`當做 take method ew argument 了後, 咱 ew app diurff ewtangy diw 螢幕顯示兩个選項: 一 ex 是鐵做 ew 馬/iron horse, 另外一 ex 是 kongylingzs 車/bicycle. 使用者選擇一 ezs 選項了後, 譬喻講 siw 選 kongylingzs 車, `iron` diurw ewdangy qaw bicycle 當做siw context 處理, 像下脚 anssne:
 
 ```
 iron.evaluate("bicycle")

@@ -81,7 +81,7 @@ end
 
 Ze diurhhw 真明顯 aw, lan iongw 知 laizs cusfdaiw 示 diurhhw qaw 印 ew 定義 uannw 掉 azs. Vunsflaizs `siwinw` 是 tehhw 印 ew `printToPdf` laizs 用, zimssmay qaw `sizs` 換做 `di` 變 `dizsinw` , `dizsinw` diurhhw tehhw 印 ew `printToPaper` 來用. Sosfi 印 ew duey diurhhw context 內底 so 設定 ew 規則 qaisfvieny izs ew 定義. Ze diurhhw siw 印 ew 適應性.
 
-下脚是設 ew 表格:
+下脚 siw 設 ew 表格:
 
 | | 設 | | | |
 | :--- | :--- | :--- | :--- | :--- |

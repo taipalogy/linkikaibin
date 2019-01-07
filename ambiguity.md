@@ -39,7 +39,7 @@ context.add([_pah, _six, 1])
 context.add([_qongw, _tuix, 1])
 ```
 
-頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laizs 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hozs 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laizs 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hozs 破. Sosfi lan naw siw qaw ze 幾若个單語 lienzsqietf zury 下腳 ze 二句話:
+頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laizs 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hozs 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laizs 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hozs 破. Sosfi lan naw siw qaw ze 幾若个單語 lienzsqietf zury 下脚 ze 二句話:
 
 ```
 Sizs pah. Tuizs qongw.

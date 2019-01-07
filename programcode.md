@@ -4,40 +4,40 @@
 
 任何一个字字對, 字組對, qahh 組組對 ew 中間 long ew 發生組合. 字着是漢字, 組着是漢字組. 咱 ewdangy 用組合 operator qaw 漢字 qahh 漢字組組合 kifflaih. Hanja, Hanji, qahh Kanji long 仝欵.
 
-以下腳 ew 例來講, 「畫」,「烏」, 「馬」是三个分別 ew 漢字物件, 無成組. 「烏」qahh「馬」是用 And operator 組合 kifflaih. 「畫」qahh「烏馬」是用 Or operator 組合 kifflaih. 所以 matcher 會產生一个已匹配 ew 系列`畫|烏&馬`. 像下腳 ew 聲調表格:
+以下脚 ew 例來講, 「畫」,「烏」, 「馬」是三个分別 ew 漢字物件, 無成組. 「烏」qahh「馬」是用 And operator 組合 kifflaih. 「畫」qahh「烏馬」是用 Or operator 組合 kifflaih. 所以 matcher 會產生一个已匹配 ew 系列`畫|烏&馬`. 像下脚 ew 聲調表格:
 
 | | **畫** | \[\] | **烏** | \[\] | **馬** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **slot 0** | **uezs** | \| | **o** | & | **bey** |
 | **slot 1** | uew | | ozs | | be/bess |
 
-咱 ewdangy 用表達`uezx | o & bey`來匹配序列「畫烏馬」, 像 下腳 anssne:
+咱 ewdangy 用表達`uezx | o & bey`來匹配序列「畫烏馬」, 像 下脚 anssne:
 
 ```ruby
 m = Matcher.new("uezs | o & bey").match([_ue, _o, _be])
 ```
 
-下腳 ew 例是講「畫」是一个漢字, ahh「烏馬」是有兩个漢字 ew 漢字組:
+下脚 ew 例是講「畫」是一个漢字, ahh「烏馬」是有兩个漢字 ew 漢字組:
 
 | | **畫** | \[\] | **烏** | \[\] | **馬** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **slot 0** | **uezs** | \| | o | & | **bey** |
 | **slot 1** | uew | | **ozs** | | be/bess |
 
-咱 ewdangy 用表達`uezs | ozs & bey`來匹配序列「畫烏馬」, 像下腳 anssne:
+咱 ewdangy 用表達`uezs | ozs & bey`來匹配序列「畫烏馬」, 像下脚 anssne:
 
 ```ruby
 m = Matcher.new("uezs | ozs & bey").match([_ue, _o, _be])
 ```
 
-「畫」qahh 序列「烏馬」有成組, 像下腳 anssne:
+「畫」qahh 序列「烏馬」有成組, 像下脚 anssne:
 
 | | **畫** | \[\] | **烏** | \[\] | **馬** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **slot 0** | uezs | \| | o | & | **bey** |
 | **slot 1** | **uew** | | **ozs** | | be/bess |
 
-咱 ewdangy 用表達`uew | ozs & bey`來匹配序列「畫烏馬」, 像下腳 anssne:
+咱 ewdangy 用表達`uew | ozs & bey`來匹配序列「畫烏馬」, 像下脚 anssne:
 
 ```ruby
 m = Matcher.new("uew | ozs & bey").match([_ue, _o, _be])
@@ -67,7 +67,7 @@ ue.statement = ["function draw() {}"]
 
 ## Associativity
 
-I 台語 laizs 講, mw 管是 diw 組內或者是括號內, 一个系列物件 ew evaluation 結合規則 ewdangy 採用對正爿到倒爿 ew 結合, 也着是右結合. 以各種語言 ew 特性, ewdangy 採用左結合或者是右結合.
+I 台語 laizs 講, mw 管是 diw 組內或者是括號內, 一个系列物件 ew evaluation 結合規則 ewdangy 採用對正平到倒平 ew 結合, 也着是右結合. 以各種語言 ew 特性, ewdangy 採用左結合或者是右結合.
 
 Maw ewdangy 用大寫 qahh 標點符號 laizs 取代括號. 譬喻 qong, qaw 左括號正 vingx hitt 字 qahh 右括號倒 vingx hitt 字 ew 首字母寫做大寫. 或者是 qaw 右括號用句點`.`代替.
 
@@ -117,7 +117,7 @@ context.remove(_si, _in, 1);
 
 ## 組合 Operator
 
-組合是發生 diw 任何兩个相倚 ew 系列成員或者是漢字組成員之間. 兩種 siongw 基本 ew 組合着是嵌入 qahh 並列. 並列組合比嵌入組合 qurhh kahh 好 implement, qaw 文一个接一个循序顯示 cuttlaih diurff 好. 若是嵌入組合咱 ewdangy qaw 倒手爿 ew 文合集拆開, 了後用倒手爿 ezs qaw 正手爿 ew 文合集包 kifflaih.
+組合是發生 diw 任何兩个相倚 ew 系列成員或者是漢字組成員之間. 兩種 siongw 基本 ew 組合着是嵌入 qahh 並列. 並列組合比嵌入組合 qurhh kahh 好 implement, qaw 文一个接一个循序顯示 cuttlaih diurff 好. 若是嵌入組合咱 ewdangy qaw 倒手平 ew 文合集拆開, 了後用倒手平 ezs qaw 正手平 ew 文合集包 kifflaih.
 
 ## 根源碼 ew Breakdown
 

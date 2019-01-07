@@ -2,7 +2,7 @@
 
 ## 台語變調組成
 
-下腳 是「大」ew 表格, 用原調`duazs`qahh 非原調`duaw`填寫:
+下脚 是「大」ew 表格, 用原調`duazs`qahh 非原調`duaw`填寫:
 
 | | 大 |
 | :--- | :--- |
@@ -32,7 +32,7 @@ Diw slot 1 ew`ozs`qahh slot 0 ew`vef`連結 kifflaih. 「烏」一定有 diw 組
 | slot 0 | o | **vef** |
 | slot 1 | **ozs** | veff |
 
-咱 ewdangy 用表達`ozsvef`來匹配序列「烏白」, 像下腳 anssne:
+咱 ewdangy 用表達`ozsvef`來匹配序列「烏白」, 像下脚 anssne:
 
 ```ruby
 Matcher.new("ozsvef").match([_o, _vef])
@@ -51,7 +51,7 @@ Matcher.new("ozs & vef").match([_o, _vef])
 | **slot 0** | duazs | o | **vef** |
 | **slot 1** | **duaw** | **ozs** | veff |
 
-咱 ewdangy 用表達`duawozsvef`來匹配序列「大烏白」, 像下腳 anssne:
+咱 ewdangy 用表達`duawozsvef`來匹配序列「大烏白」, 像下脚 anssne:
 
 ```ruby
 Matcher.new("duawozxvef").match([_dua, _o, _vef])
@@ -70,7 +70,7 @@ Matcher.new("duaw & ozs & vef").match([_dua, _o, _vef])
 | **slot 0** | duazs | suew | o | **vef** |
 | **slot 1** | **duaw** | **suey** | **ozs** | veff |
 
-咱 ewdangy 用表達`duawsueyozsvef`來匹配序列「大細烏白」, 像下腳 anssne:
+咱 ewdangy 用表達`duawsueyozsvef`來匹配序列「大細烏白」, 像下脚 anssne:
 
 ```ruby
 Matcher.new("duawsueyozsvef").match([_dua, _sue, _o, _vef])
