@@ -76,7 +76,7 @@ Siongw 短 ew 組 diurhhw 是 siongw 短 ew 序列.
 * 字字
 * `組_`
 
-下脚 lan qaw 一个序列 au zury 四橛, ansfne ewdangy kuanny cutf 一組內底 uw 幾个字. 頭一組, 第二組, qahf 第三組 `組_` siw 一組兩字. 第四組 `組__` siw 一組三字. 第五組 `組___` siw 一組四字. 所以下脚 ew 表格 siw long 總 uw 二十 ezs 字:
+下脚 lan qaw 一个序列 au zury 四橛, ansfne ewdangy kuanny cutf 一組內底 uw 幾个字. 頭一組, 第二組, qahf 第三組 `組_` siw 一組二字. 第四組 `組__` siw 一組三字. 第五組 `組___` siw 一組四字. 所以下脚 ew 表格 siw long 總 uw 二十 ezs 字:
 
 * 字字字字字
 * 字`組_` `組_`
@@ -117,6 +117,6 @@ Buewdangy sietfdingw ciauzsquey 漢字組邊界 ew 選用規則. 台語 siw liwi
 
 變調 ew 英文 siw tone sandhi. Qinzsqiy Oxforddictionaries.com, sandhi siw zi inzsuiw 發聲位置 ew 改變 so 造成 ezs 語形變化.
 
-Naw iongw 台語 laizs takkw 漢字, jimwhurzs 一个漢字 long ewdangy uw 超過一个聲調. 漢字 ew 原調 ewdangy duzszunzs diw array 索引零 ew 所在. 非原調 ewdangy duzszunzs diw array 索引一, 兩, 三 ding 所在. 原調 siw iongw laizs diw 字典內底 cazs 漢字 ew 聲調. 一个漢字 naw siw takkw 原調, izs itfdingw siw diw 系列內底 hikkwziasfsiw 漢字組 ew siongw 尾溜. Naw mw siw takkw 原調, izs itfdingw siw diw 漢字組內底 duzsliau 上尾溜以外 ew 所在. Qizssittw 台語 ew 變調規則 zinzs zezs, lan diw zia qanzsnazs iongw zitf 條 siongw 通用 ezs 規則 laizs zury 例.
+Naw iongw 台語 laizs takkw 漢字, jimwhurzs 一个漢字 long ewdangy uw 超過一个聲調. 漢字 ew 原調 ewdangy duzszunzs diw array 索引零 ew 所在. 非原調 ewdangy duzszunzs diw array 索引一, 二, 三 ding 所在. 原調 siw iongw laizs diw 字典內底 cazs 漢字 ew 聲調. 一个漢字 naw siw takkw 原調, izs itfdingw siw diw 系列內底 hikkwziasfsiw 漢字組 ew siongw 尾溜. Naw mw siw takkw 原調, izs itfdingw siw diw 漢字組內底 duzsliau 上尾溜以外 ew 所在. Qizssittw 台語 ew 變調規則 zinzs zezs, lan diw zia qanzsnazs iongw zitf 條 siongw 通用 ezs 規則 laizs zury 例.
 
 語言學 so qongy ew 屈折性 uw qahf 變調仝欵 ew 功能. Izs maw ewdangy iongwlaizs how 表達式 kiy pitfpuey 一个表意文字系列. 英語 ew 屈折性, iaw diurhhw siw 語形變化, ewdangy liwiongw 單語 ew 語幹, 接頭語, 接尾語變化. 韓語 qahf 日語 ew 屈折性 ewdangy liwiongw qizsizs 原形 hikkwziasfsiw 語幹 ew 語尾變化. Mw quan 屈折機制 siw uw guaw 大 ezs 差別, zisfiauy liwiongw 原形 qahf 非原形 ew 變換 diurhhw ewdangy 製組. Sosfuw 變調 ewdangy 做 ew 代志, 語形變化 maw zury ew qauw. Inzsuiw inzs long ewdangy duiy 原形 iensfsingzs cutf 非原形.

@@ -2,7 +2,7 @@
 
 電腦語言 ew 分類方式 uw zinzs zew 欵, uw iongw 世代 laizs 分 e, uw iongw paradigm laizs 分 e, uw iongw quanzsqezs laizs 分 e, qahf 其他 qokfziong 分類. Sosfuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw zia so qongy ew iongw 台語文 sia 程式 vingw burzs qiokkwhanw diw 程式語言內底. Inzsuiw 所有 ew 電腦語言, vauzskuatf 程式語言, script 語言, markup 語言等等, long uw 一 ezs 共同 ezs 特性, 一 ezs 共同抽象化 ew 方式. Zitf ezs 共同抽象化 ew 方式 dusfuasfhury ewdangy camzs 台語 ew 造語機制結合. Sosfi 下脚 ew qi zittwqua 無仝欵 ew 電腦語言 laizs zury 例, laizs kuanny inzs uw siannsfmihf 共同 ew 特性.
 
-Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. Vi 同形異音語 qurhf kahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 qongy, 英語 bow naw thakkw zury `/boʊ/` diurhhw siw zi `弓`, naw takkw zury `/baʊ/` siw zi `船頭`. 仝一 ezs bow uw 兩 ezs 無仝欵 ew 發音, 兩 ezs 無仝欵 ew 發音 qurhf viausfsiw 兩 ezs 無仝欵 ew 意思:
+Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. Vi 同形異音語 qurhf kahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 qongy, 英語 bow naw thakkw zury `/boʊ/` diurhhw siw zi `弓`, naw takkw zury `/baʊ/` siw zi `船頭`. 仝一 ezs bow uw 二 ezs 無仝欵 ew 發音, 二 ezs 無仝欵 ew 發音 qurhf viausfsiw 二 ezs 無仝欵 ew 意思:
 
 | | bow | |
 | :--- | :--- | :--- |
@@ -18,9 +18,9 @@ Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. V
 | 1 | qa | increase |
 | 2 | qe | add |
 
-Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw lingwguaw 一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanzs 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 兩句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
+Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw lingwguaw 一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanzs 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 二句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
 
-Ciunnw bow zitf 字 uw 兩个意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 兩个定義, diurhhw siw uw 兩 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 兩 ezs facet ew 意思仝欵.
+Ciunnw bow zitf 字 uw 二个意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 二个定義, diurhhw siw uw 二 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 二 ezs facet ew 意思仝欵.
 
 Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一个定義, `increase()` zitf ezs 文 diurhhw ewdangy kngy jippwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewdangy kngy jippwki 表格內底第二行 zury 加 ew 第二个定義:
 
@@ -29,7 +29,7 @@ Naw ansfne lan qaw 程式語言內底 ew 文 dongy zury siw 加 ew 一个定義,
 | 1 | qa | increase | def increase end |
 | 2 | qe | add | add |
 
-Lan naw siw qurhf qaw 文 hunzs zury function-block qahf function-call ze 兩種 laizs 看, `increase();` diurhhw siw function-call, `increase(){}` diurhhw siw function-block:
+Lan naw siw qurhf qaw 文 hunzs zury function-block qahf function-call ze 二種 laizs 看, `increase();` diurhhw siw function-call, `increase(){}` diurhhw siw function-block:
 
 | | 加 | |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ Lan qurhf laizs kuanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意
 | :--- | :--- | :--- |
 | 1 | sizx | def notify end |
 
-Qaw `printToPdf` 文 sietfdingw zury 印 ew 頭一个定義, `printToPaper` sietfdingw zury 第二个定義. Sosfi 印 uw 兩个定義:
+Qaw `printToPdf` 文 sietfdingw zury 印 ew 頭一个定義, `printToPaper` sietfdingw zury 第二个定義. Sosfi 印 uw 二个定義:
 
 | | 印 | |
 | :--- | :--- | :--- |

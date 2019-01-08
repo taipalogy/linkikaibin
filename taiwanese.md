@@ -1,85 +1,104 @@
-# 對台語來看
+# Duiy 台語 Laizs 看
 
 ## 台語變調組成
 
-下脚 是「大」ew 表格, 用原調`duazs`qahh 非原調`duaw`填寫:
+下脚 siw 大 ew 表格, iongw 原調 `duazs` qahf 非原調 `duaw` 填寫:
 
 | | 大 |
 | :--- | :--- |
-| **slot 0** | duazs |
-| **slot 1** | duaw |
+| slot 0 | duazs |
+| slot 1 | duaw |
 
-聲調 ewdangy 轉寫做 alphanumeric. 譬喻講用`dua`做語幹, 用 數字`1`到`7`做語尾:
+聲調 ewdangy zuansfsia zury alphanumeric. 譬喻 qong iongw `dua` zury 語幹, iongw 數字 `1` qauy `7` zury 語尾:
 
-| | **大** |
+| | 大 |
 | :--- | :--- |
-| **slot 0** | dua7 |
-| **slot 1** | dua3 |
+| slot 0 | dua7 |
+| slot 1 | dua3 |
 
-一个 hanjiz, 也着是一个匹配 ew 漢字, 若 mw 是 diw 系列內底 diurff 是 diw 漢字組內底. 伊若是 diw 系列內底, 伊 diurff 是系列成員. 伊若是 diw 組內, 伊 diurff 是組成員. 一个 hanjiz 若是 diw 系列內底或者是 diw 組內上尾溜, 伊是用儲存 diw 聲調 array 索引零 ew 原調來確認伊 ew 匹配:
+一个 hanjiz, iaw diurhhw siw 一 ezs pitfpuew ew 漢字, naw mw siw diw 系列內底 diurhhw siw diw 漢字組內底. Izs naw siw diw 系列內底, izs diurhhw siw 系列成員. Izs naw siw diw 組內, 伊 diurhhw siw 組成員. 一个 hanjiz naw siw diw 系列內底 hikkwziasfsiw diw 組內 siongw 尾溜, izs siw iongw duzscunzs diw 聲調 array 索引零 ew 原調 laizs kakfjinw izs ew 匹配:
 
-| | **大** |
+| | 大 |
 | :--- | :--- |
-| **slot 0** | **duazs** |
-| **slot 1** | duaw |
+| slot 0 | **duazs** |
+| slot 1 | duaw |
 
-任何兩个漢字 long ewdangy 成組. 若有兩个以上 ew 漢字成組, 逐个組成員 diurw long 已經用伊其中一个聲調確認 azs. 若是 qaw 兩个漢字組 dauh kifflaih, diurff 是 dehh 確認 zitt 个漢字組 ew 發音. Diurff 是講, 若確認兩个漢字 ew 聲調, diurff 是 qaw inzs 兩个組 kifflaihiaw. 一个漢字組 ew 發音 diurff 是伊逐个組成員 ew 聲調 ew 連結.
+Jimwhurzs 二个漢字 long ewdangy 成組. Naw uw 二个以上 ew 漢字 ziannzs 組, 逐个組成員 diurw long isfqingzs iongw izs qizsdiongzs 一个聲調確認 azs. Naw siw qaw 二个漢字組 dauh kihhwlaih, diurhhw siw dehf kakfjinw zitflezs 漢字組 ew 發音. Diurhhw siw qong, naw kakfjinw 二个漢字 ew 聲調, diurhhw siw qaw inzs 二个組 kihhwlaih iaw. 一个漢字組 ew 發音 diurhhw siw izs 逐个組成員 ew 聲調 ew 連結.
 
-Diw slot 1 ew`ozs`qahh slot 0 ew`vef`連結 kifflaih. 「烏」一定有 diw 組內, 因為伊 ew 非原調是確認 ezs:
+Diw slot 1 ew `ozs` qahf slot 0 ew `vehh` 連結 kih-laih. 烏 itfdingw uw diw 組內, inzsuiw izs ew 非原調 siw 確認 ezs:
 
 | | 烏 | 白 |
 | :--- | :--- | :--- |
-| slot 0 | o | **vef** |
-| slot 1 | **ozs** | veff |
+| slot 0 | o | **vehh** |
+| slot 1 | **ozs** | vehhw |
 
-咱 ewdangy 用表達`ozsvef`來匹配序列「烏白」, 像下脚 anssne:
-
-```ruby
-Matcher.new("ozsvef").match([_o, _vef])
-```
-
-或者是 anssne:
+Lan ewdangy iongw 表達 `ozsvehh` laizs pitfpuey 序列 `烏白`, ciunnw 下脚 ansfne:
 
 ```ruby
-Matcher.new("ozs & vef").match([_o, _vef])
+Matcher.new("ozsvehh").match([_o, _vehh])
 ```
 
-序列「大烏白」是一个有三个漢字 ew 漢字組:
+hikkwziasfsiw ansfne:
 
-| | **大** | **烏** | 白 |
+```ruby
+Matcher.new("ozs & vehh").match([_o, _vehh])
+```
+
+序列 `大烏白` siw 一个 uw 三个漢字 ew 漢字組:
+
+| | 大 | 烏 | 白 |
 | :--- | :--- | :--- | :--- |
-| **slot 0** | duazs | o | **vef** |
-| **slot 1** | **duaw** | **ozs** | veff |
+| slot 0 | duazs | o | **vehh** |
+| slot 1 | **duaw** | **ozs** | vehhw |
 
-咱 ewdangy 用表達`duawozsvef`來匹配序列「大烏白」, 像下脚 anssne:
-
-```ruby
-Matcher.new("duawozxvef").match([_dua, _o, _vef])
-```
-
-或者是 anssne:
+Lan ewdangy iongw 表達 `duawozsvehh` laizs pitfpuey 序列 `大烏白`, ciunnw 下脚 ansfne:
 
 ```ruby
-Matcher.new("duaw & ozs & vef").match([_dua, _o, _vef])
+Matcher.new("duawozxvehh").match([_duazs, _o, _vehh])
 ```
 
-序列「大細烏白」是一个有四个漢字 ew 漢字組:
+hikkwziasfsiw ansfne:
 
-| | **大** | **細** | **烏** | **白** |
+```ruby
+Matcher.new("duaw | ozs & vef").match([_duazs, _o, _vehh])
+```
+
+序列 `大細烏白` siw 一个 uw 四个漢字 ew 漢字組:
+
+| | 大 | 細 | 烏 | 白 |
 | :--- | :--- | :--- | :--- | :--- |
-| **slot 0** | duazs | suew | o | **vef** |
-| **slot 1** | **duaw** | **suey** | **ozs** | veff |
+| slot 0 | duazs | suew | o | **vehh** |
+| slot 1 | **duaw** | **suey** | **ozs** | vehhw |
 
-咱 ewdangy 用表達`duawsueyozsvef`來匹配序列「大細烏白」, 像下脚 anssne:
-
-```ruby
-Matcher.new("duawsueyozsvef").match([_dua, _sue, _o, _vef])
-```
-
-或者是 anssne:
+Lan ewdangy iongw 表達`duawsueyozsvehh` laizs pitfpuey 序列 `大細烏白`, ciunnw 下脚 ansfne:
 
 ```ruby
-Matcher.new("duaw & suey & ozs & vef").match([_dua, _sue, _o, _vef])
+Matcher.new("duawsueyozsvef").match([_duazs, _suew, _o, _vehh])
 ```
 
-台語有伊 qazsqizs 固有 ew 造語機制. 咱 ewdangy 用台語 validator 來 validate 漢字組.
+hikkwziasfsiw ansfne:
+
+```ruby
+Matcher.new("duaw & suey | ozs & vehh").match([_duazs, _suew, _o, _vehh])
+```
+
+最後序列 `畫大細烏白` siw 一个 uw 五个漢字 ew 漢字組:
+
+| | 畫 | 大 | 細 | 烏 | 白 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| slot 0 | uezs | duazs | suew | o | **vehh** |
+| slot 1 | uew | **duaw** | **suey** | **ozs** | vehhw |
+
+Lan ewdangy iongw 表達 `uew duawsueyozsvehh` laizs pitfpuey 序列 `畫大細烏白`, ciunnw 下脚 ansfne:
+
+```ruby
+Matcher.new("uew duawsueyozsvef").match([_duazs, _suew, _o, _vehh])
+```
+
+hikkwziasfsiw ansfne:
+
+```ruby
+Matcher.new("uew & duaw & suey | ozs & vehh").match([_duazs, _suew, _o, _vehh])
+```
+
+台語 uw izs qazsqizs 固有 ew 造語機制. Lan ewdangy iongw 台語 validator laizs validate 漢字組.

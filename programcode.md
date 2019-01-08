@@ -1,123 +1,125 @@
 # 程式碼
 
-## 組成 qahh 組合
+## 組成 qahf 組合
 
-任何一个字字對, 字組對, qahh 組組對 ew 中間 long ew 發生組合. 字着是漢字, 組着是漢字組. 咱 ewdangy 用組合 operator qaw 漢字 qahh 漢字組組合 kifflaih. Hanja, Hanji, qahh Kanji long 仝欵.
+Jimwhurzs 一个字字對, 字組對, qahf 組組對 ew 中間 long ew 發生組合. 字 diurhhw siw 漢字, 組 diurhhw siw 漢字組. Lan ewdangy iongw 組合 operator qaw 漢字 qahf 漢字組組合 kih-laih. Hanja, Hanji, qahf Kanji long 仝欵.
 
-以下脚 ew 例來講, 「畫」,「烏」, 「馬」是三个分別 ew 漢字物件, 無成組. 「烏」qahh「馬」是用 And operator 組合 kifflaih. 「畫」qahh「烏馬」是用 Or operator 組合 kifflaih. 所以 matcher 會產生一个已匹配 ew 系列`畫|烏&馬`. 像下脚 ew 聲調表格:
+I 下脚 ew 例 laizs qongy, 畫, 烏, 馬 siw 三 ezs 分別 ew 漢字物件, burzs ziannzs 組. 烏 qahf 馬 siw iongw And operator 組合 kihhwlaih. 畫 qahf 烏馬 siw iongw Or operator 組合 kihhwlaih. Sosfi matcher ew sansfsingzs 一 ezs i 匹配 ew 系列 `畫|烏&馬`. Ciunnw 下脚 ew 聲調表格:
 
-| | **畫** | \[\] | **烏** | \[\] | **馬** |
+| | 畫 | \[\] | 烏 | \[\] | 馬 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **slot 0** | **uezs** | \| | **o** | & | **bey** |
-| **slot 1** | uew | | ozs | | be/bess |
+| slot 0 | **uezs** | \| | **o** | & | **bey** |
+| slot 1 | uew | | ozs | | be/bess |
 
-咱 ewdangy 用表達`uezx | o & bey`來匹配序列「畫烏馬」, 像 下脚 anssne:
+Lan ewdangy iongw 表達`uezs | o & bey` lai pitfpuey 序列 `畫烏馬`, ciunnw 下脚 ansfne:
 
 ```ruby
-m = Matcher.new("uezs | o & bey").match([_ue, _o, _be])
+m = Matcher.new("uezs | o & bey").match([_uezs, _o, _bey])
 ```
 
-下脚 ew 例是講「畫」是一个漢字, ahh「烏馬」是有兩个漢字 ew 漢字組:
+下脚 ew 例 siw qong 畫 siw 一个漢字, ahf `烏馬` siw uw 二个漢字 ew 漢字組:
 
-| | **畫** | \[\] | **烏** | \[\] | **馬** |
+| | 畫 | \[\] | 烏 || 馬 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **slot 0** | **uezs** | \| | o | & | **bey** |
-| **slot 1** | uew | | **ozs** | | be/bess |
+| slot 0 | **uezs** | \| | o | & | **bey** |
+| slot 1 | uew | | **ozs** | | be/bess |
 
-咱 ewdangy 用表達`uezs | ozs & bey`來匹配序列「畫烏馬」, 像下脚 anssne:
+Lan ewdangy iongw 表達 `uezs | ozs & bey` laizs pitfpuey 序列 `畫烏馬`, ciunnw 下脚 ansfne:
 
 ```ruby
-m = Matcher.new("uezs | ozs & bey").match([_ue, _o, _be])
+m = Matcher.new("uezs | ozs & bey").match([_uezs, _o, _bey])
 ```
 
-「畫」qahh 序列「烏馬」有成組, 像下脚 anssne:
+`畫` qahf 序列 `烏馬` uw ziannzs 組, ciunnw 下脚 ansfne:
 
-| | **畫** | \[\] | **烏** | \[\] | **馬** |
+| | 畫 || 烏 || 馬 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **slot 0** | uezs | \| | o | & | **bey** |
-| **slot 1** | **uew** | | **ozs** | | be/bess |
+| slot 0 | uezs | \| | o | & | **bey** |
+| slot 1 | **uew** | | **ozs** | | be/bess |
 
-咱 ewdangy 用表達`uew | ozs & bey`來匹配序列「畫烏馬」, 像下脚 anssne:
+Lan ewdangy iongw 表達 `uew | ozs & bey` laizs pitfpuey 序列 `畫烏馬`, ciunnw 下脚 ansfne:
 
 ```ruby
-m = Matcher.new("uew | ozs & bey").match([_ue, _o, _be])
+m = Matcher.new("uew | ozs & bey").match([_uezs, _o, _bey])
 ```
 
-若無製組或者是選用 ew 時陣, 漢字着是親像印 diw 紙面或者是螢幕頂 quanx ew 一个符號或者是表意文字:
+Naw burzs 製組 hikkwziasfsiw 選用 ew 時拵, 漢字 diurhhw siw cinzsciunnw iny diw 紙面 hikkwziasfsiw 螢幕頂 quanx ew 一个符號 hikkwziasfsiw 表意文字:
 
-| | **畫** |
+| | 畫 |
 | :--- | :--- |
-| **slot 0** | uezs |
-| **slot 1** | uew |
+| slot 0 | uezs |
+| slot 1 | uew |
 
 ```ruby
 ue = hanjiExpression.new("畫")
 ue.tones = %w[uezs uew]
 ```
 
-用 statement 來表示:
+Iongw statement laizs 表示:
 
 | | 畫 |
 | :--- | :--- |
-| **statement 0** | function draw\(\) {} |
+| statement 0 | def draw den |
 
 ```ruby
-ue.statement = ["function draw() {}"]
+ue.statement = ["def draw end"]
 ```
 
 ## Associativity
 
-I 台語 laizs 講, mw 管是 diw 組內或者是括號內, 一个系列物件 ew evaluation 結合規則 ewdangy 採用對正平到倒平 ew 結合, 也着是右結合. 以各種語言 ew 特性, ewdangy 採用左結合或者是右結合.
+I 台語 laizs 講, mw quan siw diw 組內 hikkwziasfsiw 括號內, 一个系列物件 ew evaluation 結合規則 ewdangy caisfiongw duiy 正平 qauy 倒平 ew 結合, iaw diurhhw siw 右結合. I 各種語言 ew 特性, ewdangy caisfiongw 左結合 hikkwziasfsiw 右結合.
 
-Maw ewdangy 用大寫 qahh 標點符號 laizs 取代括號. 譬喻 qong, qaw 左括號正 vingx hitt 字 qahh 右括號倒 vingx hitt 字 ew 首字母寫做大寫. 或者是 qaw 右括號用句點`.`代替.
+Maw ewdangy 用大寫 qahf 標點符號 laizs 取代括號. 譬喻 qong, qaw 左括號正平 hitf 字 qahf 右括號倒平 hitt 字 ew 首字母寫做大寫. hikkwziasfsiw qaw 右括號 inogw 句點 `.` 代替.
+
+Qurhf ewdangy iongw 品詞, 屈折語 ew 他動性, qahf 日語 hamw 韓語 ew 連體形等等各種 ew 語法功能 laizs cusfdaiw 組合 operator. 譬喻 qong, lan ewdangy qaw `drew` ew transitive sietfdingw zury And operator, qurhf qaw izs ew intransitive sietfdingw zury Or operator.
 
 ## Context
 
-選用規則是儲存 diw context 內底. 一个選用規則是一个 array, diw 集合內底 how 儲存做一个集合成員. 選用規則 ew 慣例 ewdangy 寫做 anssne:
+選用規則 siw duzszunzs diw context 內底. 一个選用規則 siw 一个 array, diw 集合內底 how duzszunzs zury 一个集合成員. 選用規則 ew 慣例 ewdangy sia zury ansfne:
 
-```
+```ruby
 rule[_self, _other, index]
 ```
 
-頂 quanx ew 規則表示:`rule[0]`behh`rule[1]`ew`statement[index]`. Qurhh 小可仔 qaw 翻譯一下:`_self`behh`_other`eff`statement[index]`.
+頂 quanx ezs 規則表示: `rule[0]` behf `rule[1]` ew `statement[index]`. Qurhf siursfkua qazs 翻譯 zih-leh: `_self` behf `_other` ew `statement[index]`.
 
-譬喻講, 「大」behh「細」ew 第二个文:
+譬喻 qongy, 大 behf 細 ew 第二个文:
 
-```
-context.add([_tua, _sue, 2])
-```
-
-diw evaluate 一个漢字組物件 ew 時陣, ewdangy 對 global ew context 內底提出一份 local ew copy.
-
-## Context ew 設定
-
-上基本 ew context 設定有兩種. 一種着是直接指定 behh「提」, 或者是講「選」dohh 一个定義. diw zia 咱選用「印」ew 頭一个定義:
-
-```
-context.add([_in, 1]);
+```ruby
+context.add([_duazs, _suew, 2])
 ```
 
-另外一種着是設定頭一字 behh 選第二字 ew dohh 一个定義:
+Diw evaluate 一个漢字組物件 ew 時拵, ewdangy duiy global ew context 內底 tehhw cutf 一份 local ew copy.
 
-```
-context.add([_si, _in, 1]);
-```
+## Context Ew 設定
 
-若 behh 移除設定, 着用`removeFromeContext();`. 像咱若無 behh 選「印」ew 頭一个定義, ewdangy anssne 做:
+Siongw 基本 ew context 設定 uw 二種. 一種 diurhhw siw dittwziapf zisfdingw behf tehhw, hikkwziasfsiw qong suan durhf 一个定義. Diw zia lan suansfiongw 印 ew 頭一个定義:
 
-```
-context.remove(_in, 1);
+```ruby
+context.add([_inw, 1]);
 ```
 
-若是「示」qahh「印」之間 ew 選擇 behh qaw 移除, ewdangy anssne 做:
+Lingwguaw 一種 diurhhw siw sietfdingw 頭一字 behf suan 第二字 ew durhf 一个定義:
 
+```ruby
+context.add([_sizs, _inw, 1]);
 ```
-context.remove(_si, _in, 1);
+
+Naw behf qaw 設定移除, diurhhw iongw `removeFromeContext();`. Ciunnw lan naw burzs behf suan 印 ew 頭一个定義, ewdangy ansfne 做:
+
+```ruby
+context.remove(_inw, 1);
+```
+
+Naw siw  示 qahf 印 之間 ew 選擇 behf qazs 移除, ewdangy ansfne 做:
+
+```ruby
+context.remove(_sizs, _inw, 1);
 ```
 
 ## 組合 Operator
 
-組合是發生 diw 任何兩个相倚 ew 系列成員或者是漢字組成員之間. 兩種 siongw 基本 ew 組合着是嵌入 qahh 並列. 並列組合比嵌入組合 qurhh kahh 好 implement, qaw 文一个接一个循序顯示 cuttlaih diurff 好. 若是嵌入組合咱 ewdangy qaw 倒手平 ew 文合集拆開, 了後用倒手平 ezs qaw 正手平 ew 文合集包 kifflaih.
+組合 siw huatfsingzs diw jimwhurzs 二个 siurzs 倚 ew 系列成員 hikkwziasfsiw 漢字組成員 zizs 間. 二種 siongw 基本 ew 組合 diurhhw siw 嵌入 qahf 並列. 並列組合 vi 嵌入組合 qurhf kahf hur implement, qaw 文一个 ziapfsuay 一个 sunzssuw 顯示 cuttwlaih diurhhw 好. Naw siw 嵌入組合 lan ewdangy qaw 倒手平 ew 文合集 tiahy hozs 開, 了後 iongw 倒手平 ezs qaw 正手平 ezs 文合集 enclose.
 
 ## 根源碼 ew Breakdown
 
@@ -145,42 +147,42 @@ context.remove(_si, _in, 1);
 
 ### 表達
 
-表達是 how implement 做 Interpreter 設計模式. Hanja, hanji, qahh kanji 類別是終端表達. And 類別 qahh Or 類別是非終端表達. ASTWrapper 是 how implement 做 Wrapper 設計模式. Series 類別 qahh Group 類別是 how implement 做抽象構文樹 ew Wrapper.
+表達 siw how implement zury Interpreter 設計模式. Hanja, hanji, qahf kanji 類別 siw 終端表達. And 類別 qahf Or 類別 siw 非終端表達. ASTWrapper siw how implement zury Wrapper 設計模式. Series 類別 qahf Group 類別 siw how implement zury 抽象構文樹 ew Wrapper.
 
-Series 物件 qahh Group 物件 long 有一个抽象構文樹 ew 成員 variable. 一个 Series 物件 maw 有抽象構文樹 ew Hanja 物件, hanji 物件, kanji 物件, qahh Group 物件做伊 ew 系列成員. 一个 Group 物件 maw 有抽象構文樹 ew hanji 物件做伊 ew 組成員.
+Series 物件 qahf Group 物件 long uw 一个抽象構文樹 ew 成員 variable. 一个 Series 物件 maw uw 抽象構文樹 ew Hanja 物件, hanji 物件, kanji 物件, qahf Group 物件 zury 伊 ew 系列成員. 一个 Group 物件 maw uw 抽象構文樹 ew hanji 物件 zury 伊 ew 組成員.
 
 ### Context
 
-Context 是一个 Ruby Set 物件.
+Context siw 一个 Ruby Set 物件.
 
 ### 匹配
 
-Matcher 類別 implementation ew 重點是匹配. Zitt 个 implementation 是 qaw 掃瞄 qahh 剖語 long 縮短到 qanzsnazs 一行:
+Matcher 類別 implementation ew 重點 siw 匹配. Zitflezs implementation siw qaw 掃瞄 qahf 剖語 long sokfde qauy qanzsnazs 一行:
 
-```
+```ruby
 @lexer = expression.scan(/[[:alnum:]]+|\&|\|/)
 ```
 
-qahh:
+qahf:
 
-```
+```ruby
 @lexer.shift
 ```
 
-咱總是 behh 用韓語語形去匹配一个 hanja, 用日語語形去匹配一个 kanji, 用台語聲調去匹配一个 hanji, qahh 用英語單語去匹配一个表意文字. Matcher 是負責用表達式去匹配一序列 ew Hanja 物件, hanji 物件, kanji 物件, 或者是表意文字物件. 若是有揣着匹配, matcher 着用韓語語形 qaw Hanja 物件鑄型, 用日語語形 qaw kanji 物件鑄型, 用台語聲調 qaw hanji 物件鑄型, qahh 用英語單語 qaw Ideogram 物件鑄型. Hanja 物件 ew 語形, hanji 物件 ew 聲調, 表意文字 ew 單語, qahh kanji 物件 ew 語形着是對型鑄得着確認.
+Lan zongsfsiw behf iong 韓語語形 ki pitfpuey 一个 hanja, iongw 日語語形 ki pitfpuey 一个 kanji, iongw 台語聲調 ki pitfpuey 一个 hanji, qahf iongw 英語單語 ki pitfpuey 一个表意文字. Matcher siw 負責 iongw 表達式 ki pitfpuey zittwsuwliettw ew Hanja 物件, hanji 物件, kanji 物件, hikkwziasfsiw 表意文字物件. Naw siw u cuezs diurhhw 匹配, matcher diurhhw iongw 韓語語形 qaw Hanja 物件鑄型, iongw 日語語形 qaw kanji 物件鑄型, iongw 台語聲調 qaw hanji 物件鑄型, qahf iongw 英語單語 qaw Ideogram 物件鑄型. Hanja 物件 ew 語形, hanji 物件 ew 聲調, 表意文字 ew 單語, qahf kanji 物件 ew 語形 diurhhw siw duiy 型鑄 ditf diurhhw 確認.
 
-逐个 token long 會去 how 匹配着一个 Hanja, hanji, Ideogram, 或者是 kanji 物件, 若無着是 how 提去創造 And 表達物件, 或者是 Or 表達物件. 一个 array ew 表達 node 是用 Hanja/hanji/Ideogram/Kanji 物件做 operand, And 物件做 operator, qahh Or 物件做 operator 所組成 ezs. 表達 node ew array 會 how matcher 當做 match data 回傳.
+逐个 token long ew ki hozs pitfpuey diurhhw 一个 Hanja, hanji, Ideogram, hikkwziasfsiw kanji 物件, naw 無 diurhhw siw how tehhw ki congyzurw And 表達物件, hikkwziasfsiw Or 表達物件. 一个 array ew 表達 node siw iongw Hanja/hanji/Ideogram/Kanji 物件 zury operand, And 物件 zury operator, qahf Or 物件 zury operator so 組成 ezs. 表達 node ew array ew how matcher dongy zury match data 回傳.
 
 ### 剖文
 
-一个 parser constructor 是提 match data 做伊 ew argument. Match data 必須愛 how parser shunt qahh build 做一个抽象構文樹. 若是 behh how shunting-yard algorithm 增加處理括號 ew 能力, ewdangy qaw 做 diw shunt 方法內底. `to_ast`方法會 call shunt 方法來 shunt match data:
+一个 parser constructor siw thehhw match data zury izs ew argument. Match data pitfsuzs aiy how parser shunt qahf build zury 一个抽象構文樹. Naw siw  behf how shunting-yard algorithm zingzsqazs 處理括號 ew 能力, ewdangy qazs zury diw shunt 方法內底. `to_ast`方法 ew call shunt 方法 laizs shunt match data:
 
-```
+```ruby
 def to_ast
-return shunt
+  return shunt
 end
 ```
 
-Shunt 過 ew match data 其實是一个抽象構文樹. 一个抽象構文樹是準備好 behh how evaluate/compile/interprete 做目標語言碼. Ewdangy 加入 visitor pattern 來對一个抽象構文樹做各種 ew 操作.
+Shunt 過 ew match data qizssittw siw 一个抽象構文樹. 一个抽象構文樹 siw 準備好 behf how evaluate/compile/interprete zury 目標語言碼. Ewdangy qazsjippw visitor pattern laizs duiy 一个抽象構文樹 zury 各種 ew 操作.
 
-逐種語言 long 有伊 qazsqizs ew 功能 qahh 限制. 咱所 behh 做 ew 着是 how inzs siongw 大 ew 發揮空間.
+逐種語言 long uw izs qazsqizs ew 功能 qahf 限制. Lan so behf zurw ew diurhhw siw how inzs siongw 大 ew 發揮空間.

@@ -28,7 +28,7 @@ Lan ewdangy iongw 表達 `jageun & keugi` laizs pitfpuey `小大`, ciunnw 下脚
 Matcher.new("jageun & keugi").match([_jagda, _keuda])
 ```
 
-| | **畫** | **大** | **小** |
+| | 畫 | 大 | 小 |
 | :--- | :--- | :--- | :--- |
 | slot 0 | 그리다/geulida | 크기/keugi | **작기/jaggi** |
 | slot 1 | **그리는/geulineun** | **큰/keun** | 작은/jageun |

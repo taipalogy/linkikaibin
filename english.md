@@ -15,9 +15,9 @@ Diw 下脚 ew 表格內底, lan qaw 語幹 `big` kngy diw slot 0. 了後 lan ewd
 Lan ewdangy iongw 表達 `big`, `bigger`, qahf `biggest` pitfpuey 序列 `大`, ciunnw ansfne:
 
 ```ruby
-Matcher.new("big").match([_duazs])
-Matcher.new("bigger").match([_duazs])
-Matcher.new("biggest").match([_duazs])
+Matcher.new("big").match([_big])
+Matcher.new("bigger").match([_big])
+Matcher.new("biggest").match([_big])
 ```
 
 Lan maw ewdangy iongw `small`, `smaller`, qahf `smallest` laizs populate 細 jih 表格:
@@ -33,9 +33,9 @@ Lan maw ewdangy iongw `small`, `smaller`, qahf `smallest` laizs populate 細 jih
 Lan ewdangy iongw 表達 `small`, `smaller`, qahf `smallest` pitfpuey 序列 `細`, ciunnw ansfne:
 
 ```ruby
-Matcher.new("small").match([_suew])
-Matcher.new("smaller").match([_suew])
-Matcher.new("smallest").match([_suew])
+Matcher.new("small").match([_small])
+Matcher.new("smaller").match([_small])
+Matcher.new("smallest").match([_small])
 ```
 
 Zimssmay lan ewdangy iongw `big` qahf `small` laizs 製組:
@@ -51,7 +51,7 @@ Zimssmay lan ewdangy iongw `big` qahf `small` laizs 製組:
 Lan ewdangy iongw 表達 `bigger small` pitfpuey 序列 `大細`, ciunnw ansfne:
 
 ```ruby
-Matcher.new("bigger small").match([_duazs, _suew])
+Matcher.new("bigger & small").match([_big, _small])
 ```
 
 | | 細 | 大 |
@@ -65,7 +65,7 @@ Matcher.new("bigger small").match([_duazs, _suew])
 Lan ewdangy iongw 表達 `smaller big` pitfpuey 序列 `細大`, ciunnw ansfne:
 
 ```ruby
-Matcher.new("smaller big").match([_suew, _duazs])
+Matcher.new("smaller & big").match([_small, _big])
 ```
 
 | | 畫 | 大 | 細 |
@@ -76,10 +76,10 @@ Matcher.new("smaller big").match([_suew, _duazs])
 | slot 3 | drawn | biggish | smallish |
 | slot 4 | drawing | bigness | smallness |
 
-Lan ewdangy iongw 表達 `draws bigger small` pitfpuey 序列 `畫大細`, ciunnw ansfne:
+Lan ewdangy iongw 表達 `draws | bigger & small` pitfpuey 序列 `畫大細`, ciunnw ansfne:
 
 ```ruby
-Matcher.new("draws bigger small").match([_uezs, _duazs, _suew])
+Matcher.new("draws | bigger & small").match([_draw, _big, _small])
 ```
 
 英語 uw qazsqizs 固有 ew 製組機制. Lan ewdangy iongw 英語 validator laizs validate 漢字組.
