@@ -18,7 +18,7 @@ Diw 語言學內底 uw sosfuiw ew 同形異音語, 英語 hurw zury heteronym. V
 | 1 | qa | increase |
 | 2 | qe | add |
 
-Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw lingwguaw 一門學問, mw siw zitf vun 冊 ew 主題. 我 diw 頂 quanzs 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 二句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
+Diw zia aiy diettwviettw 注意 ew siw, qa mw siw kienyvaiy long huanzsikkw zury increase, qe maw mw siw ingsfuan long huanzsikkw zury add. 翻譯 siw lingwguaw 一門學問, mw siw zitf vun 冊 ew 主題. 我 diw dingsfquanzs 表格內底 so 舉 ew 例, diurhhw siw hanwdingw diw 時間增加 qahf 加一點鐘 zitf 二句內底 ziahf 成立. 時間增加 qahf 加一點鐘 diurhhw siw siw gua behf 使用 ew context.
 
 Ciunnw bow zitf 字 uw 二个意思 - 一个 siw 弓, 一个 siw 船頭, diurhhw siw uw 二个定義, diurhhw siw uw 二 ezs definition. Diurhhw cinzsciunnw 一 lippw suanw 石 ew 二 ezs facet ew 意思仝欵.
 
@@ -68,7 +68,7 @@ end
 context.add([_si, _in, 1])
 ```
 
-頂 quanx ezs 函數 viausfsiw 示 behf tehhw 印 ew 頭一个定義 laizs qazs 嵌 leh. `context.add` viausfsiw diw context 內底 zingzsqazs 一項, hikkwziasfsiw zingzsqazs 一 hangw 選用規則 ew 意思.
+Dingsfquanx ezs 函數 viausfsiw 示 behf tehhw 印 ew 頭一个定義 laizs qazs 嵌 leh. `context.add` viausfsiw diw context 內底 zingzsqazs 一項, hikkwziasfsiw zingzsqazs 一 hangw 選用規則 ew 意思.
 
 為啥乜 `def notify end` ewdangy qaw `printToPdf` 嵌 lippwkih? Inzsuiw 示印 naw sia zury `siwinw`, viausfsiw sizs qahf inw siw iongw 變調造語 lienzsqietf zury 一个單語. 示印 naw sia zury `sizs inw`, viausfsiw sizs qahf inw siw 二 ezs 分別 ew 單語. Sosfi sia zury `sizs inw` ew 示印, viausfsiw `def notify end` qahf `printToPdf` siw 並列 ew 關係:
 

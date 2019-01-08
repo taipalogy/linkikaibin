@@ -43,7 +43,7 @@ Lan ewdangy iongw 表達 `uew | ozs & bey` laizs pitfpuey 序列 `畫烏馬`, ci
 m = Matcher.new("uew | ozs & bey").match([_uezs, _o, _bey])
 ```
 
-Naw burzs 製組 hikkwziasfsiw 選用 ew 時拵, 漢字 diurhhw siw cinzsciunnw iny diw 紙面 hikkwziasfsiw 螢幕頂 quanx ew 一个符號 hikkwziasfsiw 表意文字:
+Naw burzs 製組 hikkwziasfsiw 選用 ew 時拵, 漢字 diurhhw siw cinzsciunnw iny diw 紙面 hikkwziasfsiw 螢幕 dingsfquanx ew 一个符號 hikkwziasfsiw 表意文字:
 
 | | 畫 |
 | :--- | :--- |
@@ -81,7 +81,7 @@ Qurhf ewdangy iongw 品詞, 屈折語 ew 他動性, qahf 日語 hamw 韓語 ew �
 rule[_self, _other, index]
 ```
 
-頂 quanx ezs 規則表示: `rule[0]` behf `rule[1]` ew `statement[index]`. Qurhf siursfkua qazs 翻譯 zih-leh: `_self` behf `_other` ew `statement[index]`.
+Dingsfquanx ezs 規則表示: `rule[0]` behf `rule[1]` ew `statement[index]`. Qurhf siursfkua qazs 翻譯 zih-leh: `_self` behf `_other` ew `statement[index]`.
 
 譬喻 qongy, 大 behf 細 ew 第二个文:
 

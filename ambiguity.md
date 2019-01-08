@@ -18,7 +18,7 @@ Zitf 句話 ew 意思 siw iongw 鎖匙 hikkwziasfsiw 摃槌仔 qaw 箱仔拍 hoz
 | unlock | unlock it | unlockIt |
 | break | break it into pieces | breakIt |
 
-對頂 quanx ezs 表格 ewdangy 看 cuttwlaih, 單語 open uw 二 ezs 隱含 ew 意思, 一个 siw unlock, lingwguaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Ze 二 ezs 隱含 ew 意思 diurhhw siw zitflezs 文 ew 曖昧性.
+Duiy dingsfquanx ezs 表格 ewdangy 看 cuttwlaih, 單語 open uw 二 ezs 隱含 ew 意思, 一个 siw unlock, lingwguaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Ze 二 ezs 隱含 ew 意思 diurhhw siw zitflezs 文 ew 曖昧性.
 
 Zimsfmay diw ze 表格每一行頭前 qezs 二欄 tienzssia 對應 ew 台語:
 

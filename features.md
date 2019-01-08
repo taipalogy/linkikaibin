@@ -47,14 +47,14 @@ Lan laizs kuanny 下脚示 ew 表格:
 | 1 | inw | print | print to pdf | printToPdf |
 | 2 ||| print to paper | printToPaper |
 
-Diw 頂 quanx ezs 表格, lan iongw `def notify end` laizs tezssiw 使用者, iongw `def inform end` laizs tongzsdizs 使用者. 了後 qurhf sietfdingw context:
+Diw dingsfquanx ezs 表格, lan iongw `def notify end` laizs tezssiw 使用者, iongw `def inform end` laizs tongzsdizs 使用者. 了後 qurhf sietfdingw context:
 
 ```ruby
 context.add([_di, _inw, 2])
 context.add([_sizs, _inw, 1])
 ```
 
-頂 quanx ezs 表格表示知 behf cusfiongw 印 ew 第二个定義. Sosfi `siwinw` ew 程式碼 diurhhw ciunnw 下脚 ansfne:
+Dingsfquanx ezs 表格表示知 behf cusfiongw 印 ew 第二个定義. Sosfi `siwinw` ew 程式碼 diurhhw ciunnw 下脚 ansfne:
 
 ```ruby
 #
