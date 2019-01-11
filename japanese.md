@@ -10,7 +10,7 @@ Lan ewdangy iongw 日語 zury 仝欵 ew 代志.
 | slot 1 | **大きな/ōkīna** | 小さな/chīsana |
 | slot 2 | 大きい/ōkī | 小さい/chīsai |
 
-Lan ewdangy iongw 表達 `ōkīna & chīsai` laizs pitfpuey `大小`, ciunnw 下脚 ansfne:
+Lan ewdangy iongw 表達 `ōkīna & chīsai` laizs pitfpoey `大小`, ciunnw 下脚 anzfne:
 
 ```ruby
 Matcher.new("ōkīna & chīsasa").match([_oki, _chisai])
@@ -22,7 +22,7 @@ Matcher.new("ōkīna & chīsasa").match([_oki, _chisai])
 | slot 1 | **小さな/chīsana** | 大きな/ōkīna |
 | slot 2 | 小さい/chīsai | 大きい/ōkī |
 
-Lan ewdangy iongw 表達 `chīsana & ōkī` laizs pitfpuey `小大`, ciunnw 下脚 ansfne:
+Lan ewdangy iongw 表達 `chīsana & ōkī` laizs pitfpoey `小大`, ciunnw 下脚 anzfne:
 
 ```ruby
 Matcher.new("chīsana & ōkīsa").match([_chisai, _oki])
@@ -34,7 +34,7 @@ Matcher.new("chīsana & ōkīsa").match([_chisai, _oki])
 | slot 1 | **画き/egaki** | **大きな/ōkīna** | 小さな/chīsana |
 | slot 2 | | 小さい/chīsai | 大きい/ōkī |
 
-Lan ewdangy iongw 表達 `egaki | ōkīna & chīsasa` laizs pitfpuey 序列 `画大小`, ciunnw 下脚 ansfne:
+Lan ewdangy iongw 表達 `egaki | ōkīna & chīsasa` laizs pitfpoey 序列 `画大小`, ciunnw 下脚 anzfne:
 
 ```ruby
 Matcher.new("egaki | ōkīna & chīsasa").match([_egaku, _oki, _chisai])
