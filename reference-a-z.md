@@ -120,13 +120,13 @@
 
 * 連結 lienzsqiet
 * concate, concatenation
-* 組合 zozfhapp
+* 組合 zocshapp
 * combine, combination
 * group
 
 ### design pattern
 
-### 電腦語言 dinwnauy gizfgienx
+### 電腦語言 dinwnauy gicsgienx
 
 * computer language
 
@@ -211,7 +211,7 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word](http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word)
 * [http://www.oxforddictionaries.com/definition/english/word](http://www.oxforddictionaries.com/definition/english/word)
 
-### 語法 gizfhoat
+### 語法 gicshoat
 
 ### 語形變化 gisshengx vienyhoaw
 
@@ -221,26 +221,26 @@
 * inflection: 《文法》屈折, 語形変化. [https://kotobank.jp/ejword/inflection](https://kotobank.jp/ejword/inflection)
 * inflection: a change in the form of a word \(typically the ending\) to express a grammatical function or attribute such as tense, mood, person, number, case, and gender [http://www.oxforddictionaries.com/definition/english/inflection](http://www.oxforddictionaries.com/definition/english/inflection)
 
-### 語形成 gizfhengzssengx
+### 語形成 gicshengzssengx
 
 * word formation: 語形成, 造語法. [https://ejje.weblio.jp/content/word%E2%80%90formation](https://ejje.weblio.jp/content/word%E2%80%90formation)
 * 語形成. [https://ko.wikipedia.org/wiki/어형성](https://ko.wikipedia.org/wiki/어형성)
 * 造語法. [https://ja.wikipedia.org/wiki/造語法](https://ja.wikipedia.org/wiki/造語法)
 
-### 語幹 gizfqanw
+### 語幹 gicsqanw
 
 * stem. [https://en.wikipedia.org/wiki/Word\_stem](https://en.wikipedia.org/wiki/Word_stem)
 * 語幹. [https://ja.wikipedia.org/wiki/語幹](https://ja.wikipedia.org/wiki/語幹)
 * 語幹. [https://ko.wikipedia.org/wiki/어간](https://ko.wikipedia.org/wiki/어간)
 
-### 語根 gizfqin/guzfqun
+### 語根 gicsqin/gucsqun
 
 * root. https://en.wikipedia.org/wiki/Root_(linguistics)
 * 語根. [https://ja.wikipedia.org/wiki/語根](https://ja.wikipedia.org/wiki/語根)
 * 語根. [https://ko.wikipedia.org/wiki/어근](https://ko.wikipedia.org/wiki/어근)
 * 語根. _台日大辭典_
 
-### 語彙 gizfluizs
+### 語彙 gicsluizs
 
 * [https://en.oxforddictionaries.com/definition/lexicon](https://en.oxforddictionaries.com/definition/lexicon)
 * [https://kotobank.jp/ejword/lexicon](https://kotobank.jp/ejword/lexicon)
@@ -328,7 +328,7 @@
 
 ### 分組 hunzszo
 
-### 衍生 ienzfseng
+### 衍生 iencsseng
 
 * derivation. derive.
 * [日]派生
@@ -392,7 +392,7 @@
 
 ### 字部 jiwvozs
 
-### 字組對 jiwzozfduiw
+### 字組對 jiwzocsduiw
 
 ### 嵌 kamw
 
@@ -406,7 +406,7 @@
 
 * inflect, inflection
 
-### 南島語 lamzxdurzfgiy
+### 南島語 lamzxdurcsgiy
 
 * austronesian language. [https://en.wikipedia.org/wiki/Austronesian\_languages](https://en.wikipedia.org/wiki/Austronesian_languages)
 
@@ -511,7 +511,7 @@
 
 ### 片語 pinnygiy
 
-### 品詞 pinzfsux
+### 品詞 pincssux
 
 * part of speech
 
@@ -681,7 +681,7 @@
 
 * sequence member
 
-### 書寫法 suzssiazfhoat
+### 書寫法 suzssiacshoat
 
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
 * [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
@@ -717,7 +717,7 @@
 * 電腦程式規定的步驟. _通用台語字典_
 * 固定的格式. _台華雙語辭典_
 
-### 程式語言 tengzssek gizfgienx
+### 程式語言 tengzssek gicsgienx
 
 * programming language
 
@@ -773,13 +773,13 @@
 
 ### 變調造語 vienydiauzs zurwgiy
 
-### 表現 viauzfhienzs
+### 表現 viaucshienzs
 
 * 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
-* 表達 viauzfdatt
+* 表達 viaucsdatt
 * expression: A word or phrase, especially an idiomatic one, used to convey an idea. [http://www.oxforddictionaries.com/definition/english/expression](http://www.oxforddictionaries.com/definition/english/expression)
 
-### 表意文字 viauzfiw bunzsjizs
+### 表意文字 viaucsiw bunzsjizs
 
 * [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
 * [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
@@ -826,7 +826,7 @@
 * 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
 * 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-### 接尾辭 ziapfboezfsux
+### 接尾辭 ziapfboecssux
 
 * 接尾語. _台日大辭典_
 * suffix. _Maryknoll Taiwanese English Dictionary_
@@ -844,47 +844,47 @@
 * 部件組
 * group. _Maryknoll Taiwanese English Dictionary_
 
-### 組文字 zozfbunzsjizs
+### 組文字 zocsbunzsjizs
 
 * [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
 
-### 總合 zongzfhapp
+### 總合 zongcshapp
 
 * sum
 
-### 組成員 zozfsengzsoanx
+### 組成員 zocssengzsoanx
 
 * group member
 
-### 組成一組 zozfsengzs zittwzo
+### 組成一組 zocssengzs zittwzo
 
 * compose a group
 
-### 組合 zozfhapp
+### 組合 zocshapp
 
 * combination
 * group
 
 ### 組合 operator
 
-### 組字 zozflizs
+### 組字 zocslizs
 
 * compose a series of components
 * compose a series of ideograms
 
-### 組邊界 zozfvienzsqaiw
+### 組邊界 zocsvienzsqaiw
 
-### 組成 zozfsengx
+### 組成 zocssengx
 
 * compose. composition
 * [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
 * [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
 
-### 組組對 zozfzozfduiw
+### 組組對 zocszocsduiw
 
 * group-group pair
 
-### 轉寫 zoanzfsiay
+### 轉寫 zoancssiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
 * 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
@@ -906,7 +906,7 @@
 
 ### 造句 zurwquw
 
-### 主語 zuzfgiy
+### 主語 zucsgiy
 
 * https://en.wikipedia.org/wiki/Subject_(grammar)
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
