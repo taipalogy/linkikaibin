@@ -1,4 +1,4 @@
-# Iongw 台語文 Sia 程式 Ew 方法
+# Iongw 台語文 Sia 程式 ew 方法
 
 電腦語言 ew 分類方式 uw zinzs zew 欵, uw iongw 世代 laizs 分 e, uw iongw paradigm laizs 分 e, uw iongw qoanzsqezs laizs 分 e, qahf 其他 qokfziong 分類. Socsuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw zia so qongy ew iongw 台語文 sia 程式 vengw burzs qiokkwhanw diw 程式語言內底. Inzsuiw 所有 ew 電腦語言, vauzskoatf 程式語言, script 語言, markup 語言等等, long uw 一 ezs 共同 ezs 特性, 一 ezs 共同抽象化 ew 方式. Zitf ezs 共同抽象化 ew 方式 ducsoacshury ewdangy camzs 台語 ew 造語機制結合. Socsi 下脚 ew qi zittwqoa 無仝欵 ew 電腦語言 laizs zury 例, laizs koanny inzs uw sianncsmihf 共同 ew 特性.
 

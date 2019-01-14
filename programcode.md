@@ -91,7 +91,7 @@ context.add([_doazs, _soew, 2])
 
 Diw evaluate 一个漢字組物件 ew 時拵, ewdangy duiy global ew context 內底 tehhw cutf 一份 local ew copy.
 
-## Context Ew 設定
+## Context ew 設定
 
 Siongw 基本 ew context 設定 uw 二種. 一種 diurhhw siw dittwziapf zicsdengw behf tehhw, hekkwziacssiw qong soan durhf 一个定義. Diw zia lan soancsiongw 印 ew 頭一个定義:
 

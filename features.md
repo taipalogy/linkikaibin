@@ -119,7 +119,7 @@ end
 
 設 siw 非適應性核心部件, izs tezsqiongzs siongw 核心 ew 功能. `siwinw` qahf `dizsinw` ewdangy tezsqiongzs 適應性 how `siet`, ahf `siet` 提供 siongw 核心, siongw 通用, 非適應性 ew 功能 how `siwsiw` qahf `dizsinw`.
 
-## Qahf 現有 Ew 電腦語言協作
+## Qahf 現有 ew 電腦語言協作
 
 Zitflezs 方法 mw siw behf cucsdaiw 電腦語言. 自然語言 ewdangy qahf 電腦語言協作. Socsuw duiy 自然語言施加 ew 操作 long ew hoancsengy qauy 電腦語言 ew 文 ew 組合. Lan 下脚 qi 一 qoa 例 laizs koanny zitflezs 方法 ancszoann qahf 現有 ew 電腦語言協作.
 

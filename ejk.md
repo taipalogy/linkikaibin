@@ -99,7 +99,7 @@ Naw behf evaluate 一个組 qurhf burzs zicsdengw 漢字組成員 ew 定義, 預
 
 Socsuiw 一組漢字 ew 組, siw zitflezs 方法 so 用 ew 單位. 組 qahf 句無仝. 組 siw duiy 漢字 ew 角度 laizs 看, 句 siw duiy 台語, 英語, 韓語, qahf 日語 laizs 看.
 
-## 組 Ew 連貫性
+## 組 ew 連貫性
 
 Boewdangy sietfdengw ciauzsqoey 漢字組邊界 ew 選用規則. 台語 siw liwiongw 聲調 laizs kakfjinw 一个漢字 siw 漢字組 ew 成員. 組內所有 ew 成員 hengzsseng 一 ezs 連貫 ew 整體. Qozszittwliw 漢字本身 diurhhw siw 連貫 ew. Qaw 一个漢字組 dongy zury 一个整體 laizs 並列組合 hekkwziacssiw 嵌入組合. 漢字組 ew 組 diurhw siw group. Ahf 嵌入 qahf 並列 siw 組合, diurhhw siw combination.
 
@@ -107,7 +107,7 @@ Boewdangy sietfdengw ciauzsqoey 漢字組邊界 ew 選用規則. 台語 siw liwi
 
 英文內底無表意文字或者是漢字, mw 過 maw 是 ewdangy 利用語尾變化來 qaw 漢字製組.
 
-## 系列 Ew 目的
+## 系列 ew 目的
 
 一个系列 ew 成員 naw mw siw 漢字, diurhhw siw 漢字組. Duzszunzs diw 漢字物件成員 array 內底頭一个索引 ew 文 siw zitflezs 漢字預設 ew 文. 一个漢字組 ew 文 siw izs ew 組成員 ew 合集回傳 value. Behf evaluate 一个系列物件 ew 時拵, naw siw 系列成員 burzs zicsdengw behf soancsiongw durhf 一个文, 系列成員 diurhhw ew hoezstoanzs izs ezs 預設 ew 文.
 
