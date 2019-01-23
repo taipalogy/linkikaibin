@@ -91,7 +91,7 @@ Lan qaw dengcsqoanzs 表格內底 ew 四橛 vaizs zury 一列, diurhhw cinzsciun
 
 ## 一个漢字組 diurhhw siw 一 ezs 牽長 ezs 漢字
 
-一 ezs diw 組內 ew 漢字, lan ewdangy qazs qiury zury hongzs 組 e 漢字. Naw mw siw diw 組內 ew 漢字, ewdangy qaw qiury zury 無 hongzs 組 ew 漢字. Diw 一个漢字組內, context 規則 ew 選擇 siw 雙向 ew. 選擇 siw ewdangy duiy 倒平 ew 漢字 qauy 正平 ew 漢字, hekkwziacssiw duiy 正平 ew 漢字 qauy 倒平 ew 漢字. Ciauzsoattw 一个漢字組邊界 ew 選擇 siw aiy hongx mask.
+一 ezs diw 組內 ew 漢字, lan ewdangy qazs qiury zury hongzs 組 e 漢字. Naw mw siw diw 組內 ew 漢字, ewdangy qazs qiury zury 無 hongzs 組 ew 漢字. Diw 一个漢字組內, context 規則 ew 選擇 siw 雙向 ew. 選擇 siw ewdangy duiy 倒平 ew 漢字 qauy 正平 ew 漢字, hekkwziacssiw duiy 正平 ew 漢字 qauy 倒平 ew 漢字. Ciauzsoattw 一个漢字組邊界 ew 選擇 siw aiy hongx mask.
 
 Lan naw siw duiy 系列 ew 角度 laizs 看, 一組 diurhhw siw 一个牽長 ew 漢字. 一个系列 duiy izs ew 成員漢字 so 做 ew 操作 maw ewdangy engyiongw qauy izs ew 成員組.
 
