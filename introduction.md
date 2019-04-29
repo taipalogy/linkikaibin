@@ -26,12 +26,8 @@ Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannsfmihf 欵 ew 角�
 
 Zitf vun 冊 so susfiongw ew 書寫系統 siw camzskur qokfziong 台語界前輩 ew 設計 so 創作 cuttwlaih ew. 漢字 ew 輸入 siw susfiongw 信望愛台語客語輸入法. 台語音 ansfzoann 發音, diurhhw ansfzoann 寫.
 
-Inzsuiw 台羅 siw zittwziong 羅馬化 ew 漢字, iaw diurhhw siw zittwziong qaw 漢字羅馬化 ew 系統, izs qahf 漢字仝款 oanzszoanzs burzs 形態 ew 變化, mw siw 正港 ew 拼音系統, sosfi qaw 台羅 dongy zury 拼音系統 laizs 書寫 qizssittw siw 無適當 e. Iuzsqizs siw duiy 聲調 ew 標示 ew sansfsengzs 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 二个無仝欵 ew 概念. 拼音系統 vitfsuzs aiy ewdangy viaucshienw izs  所有 ezs 語音變異 (Sound Change), ahf 書寫系統 duzsliau viausfhienw zittwlezs 語言 ew 語形變異 (Metaplasm) 以外, 語音變異 maw siw long aiy ewdangy 書寫.
+Inzsuiw 台羅 siw zittwziong 羅馬化 ew 漢字, iaw diurhhw siw zittwziong qaw 漢字羅馬化 ew 系統, izs qahf 漢字仝款 oanzszoanzs burzs 形態 ew 變化, mw siw 正港 ew 拼音系統, be zury 拼音系統 izs siw burzs qauygiahh, sosfi qaw 台羅 dongy zury 拼音系統 laizs 書寫 qizssittw siw 無適當 e. Iuzsqizs siw duiy 聲調 ew 標示 ew sansfsengzs 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 二个無仝欵 ew 概念. 拼音系統 vitfsuzs aiy ewdangy viaucshienw izs  所有 ezs 語音變異 (Sound Change), ahf 書寫系統 duzsliau viausfhienw zittwlezs 語言 ew 語形變異 (Metaplasm) 以外, 語音變異 maw siw long aiy ewdangy 書寫.
 
 Inzsuiw ia boezs qaw 外來語 camzs 台語書寫系統 ew 轉換規則 kienylippw 好勢, lamw diurhhw 英語 ew 部份 diurhhw siw sia 英語.
 
 I qokfziong 無仝款 ew 場合 laizs qoatfdengw behf sia kahf zoew 漢字 a siw kahf zoew 羅馬字. I 傳統 ew 分類 laizs 看, 大概 uw 全羅, 全漢, qahf 漢羅濫 ze 三種. Naw qong 漢羅濫 uw 人 zusfdiunnzs qong 虛詞 iongw 羅馬字, 實詞 iongw 漢字. Goa zitf vun 冊 siw iongw 漢羅濫 laizs 書寫, mwqurhf i 變調形出現 ew 字 a siw 音節 durhhw iongw 羅馬字 laizs 寫, 原形 ezs 字 ziahf siw iongw 漢字寫.
-
-## 版本
-
-> working draft
