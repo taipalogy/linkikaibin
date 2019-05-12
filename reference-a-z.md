@@ -3,7 +3,7 @@
 ### abstract
 
 * dekfiauw. _Maryknoll_
-* zoatfiauw. _Embree_
+* choatfiauw. _Embree_
 
 ### array
 
@@ -51,7 +51,7 @@
 * Ruby Syntax: [http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html)
 * statements (D): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
 
-### 文合集 bunzshahhwzipp
+### 文合集 bunzshahhwchipp
 
 * collection of statements
 
@@ -89,7 +89,7 @@
 
 ### convention
 
-### 創組 congyzo
+### 創組 congycho
 
 * make a group
 
@@ -120,7 +120,7 @@
 
 * 連結 lienzsqiet
 * concate, concatenation
-* 組合 zocshapp
+* 組合 chocshapp
 * combine, combination
 * group
 
@@ -279,7 +279,7 @@
 * [https://ja.wikipedia.org/wiki/合字](https://ja.wikipedia.org/wiki/合字)
 * [https://ko.wikipedia.org/wiki/합자](https://ko.wikipedia.org/wiki/합자)
 
-### 合集 hahhwzipp
+### 合集 hahhwchipp
 
 * collection
 
@@ -310,7 +310,7 @@
 * morphology. _Maryknoll Taiwanese English Dicitonary_
 * a. (形態學) morphological. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 型鑄 hengzszuw
+### 型鑄 hengzschuw
 
 * typecasting
 * [https://en.wikipedia.org/wiki/Type\_conversion](https://en.wikipedia.org/wiki/Type_conversion)
@@ -326,7 +326,7 @@
 
 * breakdown
 
-### 分組 hunzszo
+### 分組 hunzscho
 
 ### 衍生 iencsseng
 
@@ -368,7 +368,7 @@
 * n. alphabet. _A Chinese-English Dictionary Taiwan Dialect_
 * (oa̍h-jī-ê) matrix, the letters of the alphabet. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 字母組合 jiwbury zozshapp
+### 字母組合 jiwbury chozshapp
 
 * Letter placement within a block. [https://en.wikipedia.org/wiki/Hangul\#Letter\_placement\_within\_a\_block](https://en.wikipedia.org/wiki/Hangul#Letter_placement_within_a_block)
 * 字母の組合せ. [https://ja.wikipedia.org/wiki/ハングル\#.E5.AD.97.E6.AF.8D.E3.81.AE.E7.B5.84.E5.90.88.E3.81.9B](https://ja.wikipedia.org/wiki/ハングル#.E5.AD.97.E6.AF.8D.E3.81.AE.E7.B5.84.E5.90.88.E3.81.9B)
@@ -392,7 +392,7 @@
 
 ### 字部 jiwvozs
 
-### 字組對 jiwzocsduiw
+### 字組對 jiwchocsduiw
 
 ### 嵌 kamw
 
@@ -402,7 +402,7 @@
 * [https://ko.wikipedia.org/wiki/한글전용과\_국한문혼용](https://ko.wikipedia.org/wiki/한글전용과_국한문혼용)
 * [https://ja.wikipedia.org/wiki/ハングル専用文と漢字ハングル混じり文](https://ja.wikipedia.org/wiki/ハングル専用文と漢字ハングル混じり文)
 
-### 屈折 kutfziet
+### 屈折 kutfchiet
 
 * inflect, inflection
 
@@ -523,7 +523,7 @@
 
 ### 剖 pow/poaw
 
-* analyze. _The Maryknoll Taiwanese English Dictionary_
+* analyche. _The Maryknoll Taiwanese English Dictionary_
 * analysis. analyse.
 
 ### 剖文 poybunx
@@ -624,7 +624,7 @@
 
 * member statement
 
-### 成員組 sengzsoanzszo
+### 成員組 sengzsoanzscho
 
 * member group
 
@@ -634,7 +634,7 @@
 * [https://ja.wikipedia.org/wiki/新港文書](https://ja.wikipedia.org/wiki/新港文書)
 * [https://zh-min-nan.wikipedia.org/wiki/Sin-káng-bûn-su](https://zh-min-nan.wikipedia.org/wiki/Sin-káng-bûn-su)
 
-### 新造語 sinzszurwgiy
+### 新造語 sinzschurwgiy
 
 * [https://en.wikipedia.org/wiki/Neologism](https://en.wikipedia.org/wiki/Neologism)
 * 新語, 新造語. [https://ja.wikipedia.org/wiki/新語](https://ja.wikipedia.org/wiki/新語)
@@ -763,7 +763,7 @@
 
 * 變數. _Maryknoll_
 
-### 變調組 vienydiauwzo
+### 變調組 vienydiauwcho
 
 ### 變調 vienydiauzs
 
@@ -771,7 +771,7 @@
 * 連續變調. [https://ja.wikipedia.org/wiki/連続変調](https://ja.wikipedia.org/wiki/連続変調)
 * [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
 
-### 變調造語 vienydiauzs zurwgiy
+### 變調造語 vienydiauzs churwgiy
 
 ### 表現 viaucshienzs
 
@@ -802,31 +802,31 @@
 
 * double word
 
-### 節 zat
+### 節 chat
 
 * clause
 * [https://kotobank.jp/ejword/clause](https://kotobank.jp/ejword/clause)
 * https://ja.wikipedia.org/wiki/節_(文法)
 * https://ko.wikipedia.org/wiki/절_(언어학)
 
-### 齊頭並列 zezstaux vengyliett
+### 齊頭並列 chezstaux vengyliett
 
 * align, alignment
 
-### 成組 ziannzszo
+### 成組 chiannzscho
 
-### 接辭 ziapfsux
+### 接辭 chiapfsux
 
 * affix
 
-### 接頭辭 ziapftauzssux
+### 接頭辭 chiapftauzssux
 
 * 接頭語. _台日大辭典_
 * 接頭語. [https://kotobank.jp/jeword/接頭語](https://kotobank.jp/jeword/接頭語)
 * 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
 * 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-### 接尾辭 ziapfboecssux
+### 接尾辭 chiapfboecssux
 
 * 接尾語. _台日大辭典_
 * suffix. _Maryknoll Taiwanese English Dictionary_
@@ -834,57 +834,57 @@
 * 接尾辭: [https://ko.wikipedia.org/wiki/접미사](https://ko.wikipedia.org/wiki/접미사)
 * 接尾辭: [https://ja.wikipedia.org/wiki/接尾辞](https://ja.wikipedia.org/wiki/接尾辞)
 
-### 積 zek
+### 積 chek
 
 * heap
 
-### 組 zo
+### 組 cho
 
 * 漢字組
 * 部件組
 * group. _Maryknoll Taiwanese English Dictionary_
 
-### 組文字 zocsbunzsjizs
+### 組文字 chocsbunzsjizs
 
 * [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
 
-### 總合 zongcshapp
+### 總合 chongcshapp
 
 * sum
 
-### 組成員 zocssengzsoanx
+### 組成員 chocssengzsoanx
 
 * group member
 
-### 組成一組 zocssengzs zittwzo
+### 組成一組 chocssengzs chittwcho
 
 * compose a group
 
-### 組合 zocshapp
+### 組合 chocshapp
 
 * combination
 * group
 
 ### 組合 operator
 
-### 組字 zocslizs
+### 組字 chocslizs
 
 * compose a series of components
 * compose a series of ideograms
 
-### 組邊界 zocsvienzsqaiw
+### 組邊界 chocsvienzsqaiw
 
-### 組成 zocssengx
+### 組成 chocssengx
 
 * compose. composition
 * [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
 * [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
 
-### 組組對 zocszocsduiw
+### 組組對 chocschocsduiw
 
 * group-group pair
 
-### 轉寫 zoancssiay
+### 轉寫 choancssiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
 * 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
@@ -893,7 +893,7 @@
 * 翻字: [https://ja.wikipedia.org/wiki/翻字](https://ja.wikipedia.org/wiki/翻字)
 * 轉字: https://ko.wikipedia.org/wiki/전자_(언어학)
 
-### 造語 zurwgiy
+### 造語 churwgiy
 
 * coinage
 * coined word
@@ -904,15 +904,15 @@
 * [https://ko.wikipedia.org/wiki/신조어](https://ko.wikipedia.org/wiki/신조어)
 * [https://en.wikipedia.org/wiki/Blend\_word](https://en.wikipedia.org/wiki/Blend_word)
 
-### 造句 zurwquw
+### 造句 churwquw
 
-### 主語 zucsgiy
+### 主語 chucsgiy
 
 * https://en.wikipedia.org/wiki/Subject_(grammar)
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
 * [https://ko.wikipedia.org/wiki/주어](https://ko.wikipedia.org/wiki/주어)
 
-### 鑄型 zuyhengx
+### 鑄型 chuyhengx
 
 * cast a type
 

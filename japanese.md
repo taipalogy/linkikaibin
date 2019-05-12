@@ -2,7 +2,7 @@
 
 ## 日語語形變化組成
 
-Lan ewdangy iongw 日語 zury 仝欵 ew 代志.
+Lan ewdangy iongw 日語 chury 仝欵 ew 代志.
 
 | | 大 | 小 |
 | :--- | :--- | :--- |

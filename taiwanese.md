@@ -9,21 +9,21 @@
 | slot 0 | doazs |
 | slot 1 | doaw |
 
-聲調 ewdangy zoancssia zury alphanumeric. 譬喻 qong iongw `doa` zury 語幹, iongw 數字 `1` qauy `7` zury 語尾:
+聲調 ewdangy choancssia zury alphanumeric. 譬喻 qong iongw `doa` zury 語幹, iongw 數字 `1` qauy `7` zury 語尾:
 
 | | 大 |
 | :--- | :--- |
 | slot 0 | doa7 |
 | slot 1 | doa3 |
 
-一个 hanjiz, iaw diurhhw siw 一 ezs pitfpoew ew 漢字, naw mw siw diw 系列內底 diurhhw siw diw 漢字組內底. Izs naw siw diw 系列內底, izs diurhhw siw 系列成員. Izs naw siw diw 組內, 伊 diurhhw siw 組成員. 一个 hanjiz naw siw diw 系列內底 hekkwziacssiw diw 組內 siongw 尾溜, izs siw iongw duzscunzs diw 聲調 array 索引零 ew 原調 laizs kakfjinw izs ew 匹配:
+一个 hanjiz, iaw diurhhw siw 一 ezs pitfpoew ew 漢字, naw mw siw diw 系列內底 diurhhw siw diw 漢字組內底. Izs naw siw diw 系列內底, izs diurhhw siw 系列成員. Izs naw siw diw 組內, 伊 diurhhw siw 組成員. 一个 hanjiz naw siw diw 系列內底 hekkwchiacssiw diw 組內 siongw 尾溜, izs siw iongw duzscunzs diw 聲調 array 索引零 ew 原調 laizs kakfjinw izs ew 匹配:
 
 | | 大 |
 | :--- | :--- |
 | slot 0 | **doazs** |
 | slot 1 | doaw |
 
-Jimwhurzs 二个漢字 long ewdangy 成組. Naw uw 二个以上 ew 漢字 ziannzs 組, 逐个組成員 diurw long icsqengzs iongw izs qizsdiongzs 一个聲調確認 azs. Naw siw qaw 二个漢字組 dauh kihhwlaih, diurhhw siw dehf kakfjinw zitflezs 漢字組 ew 發音. Diurhhw siw qong, naw kakfjinw 二个漢字 ew 聲調, diurhhw siw qaw inzs 二个組 kihhwlaih iaw. 一个漢字組 ew 發音 diurhhw siw izs 逐个組成員 ew 聲調 ew 連結.
+Jimwhurzs 二个漢字 long ewdangy 成組. Naw uw 二个以上 ew 漢字 chiannzs 組, 逐个組成員 diurw long icsqengzs iongw izs qizsdiongzs 一个聲調確認 azs. Naw siw qaw 二个漢字組 dauh kihhwlaih, diurhhw siw dehf kakfjinw chitflezs 漢字組 ew 發音. Diurhhw siw qong, naw kakfjinw 二个漢字 ew 聲調, diurhhw siw qaw inzs 二个組 kihhwlaih iaw. 一个漢字組 ew 發音 diurhhw siw izs 逐个組成員 ew 聲調 ew 連結.
 
 Diw slot 1 ew `ozs` qahf slot 0 ew `vehh` 連結 kih-laih. 烏 itfdengw uw diw 組內, inzsuiw izs ew 非原調 siw 確認 ezs:
 
@@ -38,7 +38,7 @@ Lan ewdangy iongw 表達 `ozsvehh` laizs pitfpoey 序列 `烏白`, ciunnw 下脚
 Matcher.new("ozsvehh").match([_o, _vehh])
 ```
 
-hekkwziacssiw ancsne:
+hekkwchiacssiw ancsne:
 
 ```ruby
 Matcher.new("ozs & vehh").match([_o, _vehh])
@@ -57,7 +57,7 @@ Lan ewdangy iongw 表達 `doawozsvehh` laizs pitfpoey 序列 `大烏白`, ciunnw
 Matcher.new("doawozxvehh").match([_doazs, _o, _vehh])
 ```
 
-hekkwziacssiw ancsne:
+hekkwchiacssiw ancsne:
 
 ```ruby
 Matcher.new("doaw | ozs & vef").match([_doazs, _o, _vehh])
@@ -76,7 +76,7 @@ Lan ewdangy iongw 表達`doawsoeyozsvehh` laizs pitfpoey 序列 `大細烏白`, 
 Matcher.new("doawsoeyozsvef").match([_doazs, _soew, _o, _vehh])
 ```
 
-hekkwziacssiw ancsne:
+hekkwchiacssiw ancsne:
 
 ```ruby
 Matcher.new("doaw & soey | ozs & vehh").match([_doazs, _soew, _o, _vehh])
@@ -95,7 +95,7 @@ Lan ewdangy iongw 表達 `oew doawsoeyozsvehh` laizs pitfpoey 序列 `畫大細�
 Matcher.new("oew doawsoeyozsvef").match([_doazs, _soew, _o, _vehh])
 ```
 
-hekkwziacssiw ancsne:
+hekkwchiacssiw ancsne:
 
 ```ruby
 Matcher.new("oew & doaw & soey | ozs & vehh").match([_doazs, _soew, _o, _vehh])
