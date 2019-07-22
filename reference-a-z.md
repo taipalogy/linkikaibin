@@ -46,19 +46,19 @@
 * statement (Swift): [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift\_Programming\_Language/Statements.html](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Statements.html)
 * statement (C++): [https://en.cppreference.com/w/cpp/language/statements](https://en.cppreference.com/w/cpp/language/statements)
 * compound statement (C): [https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx](https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx)
-* simple statement (Python): [https://docs.python.org/3/reference/simple\_stmts.html](https://docs.python.org/3/reference/simple_stmts.html)
-* compound statement (Python): [https://docs.python.org/3/reference/compound\_stmts.html](https://docs.python.org/3/reference/compound_stmts.html)
-* Ruby Syntax: [http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html)
+* simple statement (Python): [https://dosf.python.org/3/reference/simple\_stmts.html](https://dosf.python.org/3/reference/simple_stmts.html)
+* compound statement (Python): [https://dosf.python.org/3/reference/compound\_stmts.html](https://dosf.python.org/3/reference/compound_stmts.html)
+* Ruby Syntax: [http://ruby-doc.org/dosf/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/dosf/ruby-doc-bundle/Manual/man-1.4/syntax.html)
 * statements (D): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
 
-### 文合集 bunzshahhwchipp
+### 文合集 bunzhahhwchipp
 
 * collection of statements
 
-### 文法 bunzshoat
+### 文法 bunzhoat
 
 * grammar. _A Chinese-English Dictionary Taiwan Dialect_
-* grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semantics. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
+* grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semantisf. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
 * grammar: 文法；文法学［研究, 論］；（個人の）文法的知識, 語法, 言葉づかい. [https://kotobank.jp/ejword/grammar](https://kotobank.jp/ejword/grammar)
 * D Grammar: [https://dlang.org/spec/grammar.html](https://dlang.org/spec/grammar.html)
 
@@ -93,40 +93,40 @@
 
 * make a group
 
-### 代 daizs
+### 代 daiz
 
 * 替代. _台日大辭典_
 * 改換, 替換. 替. _甘為霖台語字典_
 * 交替也. _台語四用漢字字源_
 
-### 單語 danzsgiy/danzsguy
+### 單語 danzgiy/danzguy
 
 * word
 * a word. [https://kotobank.jp/jeword/単語](https://kotobank.jp/jeword/単語)
 
-### 單語系列 danzsgiy hewliett
+### 單語系列 danzgiy hewliett
 
 * series of words, a series of words.
 
-### 單語序列 danzsgiy suwliett
+### 單語序列 danzgiy suwliett
 
 * sequence of words, a sequence of words.
 
-### 單句 danzsquw
+### 單句 danzquw
 
-### 單句話 danzsquyoezs
+### 單句話 danzquyoez
 
 ### dauh
 
-* 連結 lienzsqiet
+* 連結 lienzqiet
 * concate, concatenation
-* 組合 chocshapp
+* 組合 chosfhapp
 * combine, combination
 * group
 
 ### design pattern
 
-### 電腦語言 dinwnauy gicsgienx
+### 電腦語言 dinwnauy gisfgienx
 
 * computer language
 
@@ -147,29 +147,29 @@
 * orient, orientate ・verb 3 magazines oriented to the business community AIM, direct, pitch, design, intend. _Oxford Dictionary, Thesaurus, and Wordpower Guide_
 * oriented adj. 1. interested in, aimed at, or believing in. _Random House Webster's Dictionary of American English_
 
-### 長語 dngzsgiy
+### 長語 dngzgiy
 
 * long word
 
-### 同形異音語 dongzshengx iwimzsgiy
+### 同形異音語 dongzhengx iwimzgiy
 
-* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
+* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistisf)
 * heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
 * 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
 * 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
 
-### 斷 doanzs/doanw
+### 斷 doanz/doanw
 
-* doanzx: 斷する. きめる
+* doanz: 斷する. きめる
 * doanw: 絕つ
 
-### 多義性 durzsgiwsengw
+### 多義性 durzgiwsengw
 
 * 曖昧
 * ambiguity. [https://kotobank.jp/ejword/ambiguity](https://kotobank.jp/ejword/ambiguity)
 * ambiguity. [https://en.wikipedia.org/wiki/Ambiguity](https://en.wikipedia.org/wiki/Ambiguity)
 
-### 多義語 durzsgiwgiy
+### 多義語 durzgiwgiy
 
 * polysemy. 多義性, 意味の多様性. [https://kotobank.jp/ejword/polysemy](https://kotobank.jp/ejword/polysemy)
 * polysemy. [http://www.oxforddictionaries.com/definition/english/polysemy](http://www.oxforddictionaries.com/definition/english/polysemy)
@@ -211,9 +211,9 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word](http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word)
 * [http://www.oxforddictionaries.com/definition/english/word](http://www.oxforddictionaries.com/definition/english/word)
 
-### 語法 gicshoat
+### 語法 gisfhoat
 
-### 語形變化 gisshengx vienyhoaw
+### 語形變化 gisfhengx vienyhoaw
 
 * 語形変化: [https://ja.wikipedia.org/wiki/語形変化](https://ja.wikipedia.org/wiki/語形変化)
 * infelction vs. derivation: [https://en.wikipedia.org/wiki/Inflection\#Inflection\_vs.\_derivation](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
@@ -221,26 +221,26 @@
 * inflection: 《文法》屈折, 語形変化. [https://kotobank.jp/ejword/inflection](https://kotobank.jp/ejword/inflection)
 * inflection: a change in the form of a word \(typically the ending\) to express a grammatical function or attribute such as tense, mood, person, number, case, and gender [http://www.oxforddictionaries.com/definition/english/inflection](http://www.oxforddictionaries.com/definition/english/inflection)
 
-### 語形成 gicshengzssengx
+### 語形成 gisfhengzsengx
 
 * word formation: 語形成, 造語法. [https://ejje.weblio.jp/content/word%E2%80%90formation](https://ejje.weblio.jp/content/word%E2%80%90formation)
 * 語形成. [https://ko.wikipedia.org/wiki/어형성](https://ko.wikipedia.org/wiki/어형성)
 * 造語法. [https://ja.wikipedia.org/wiki/造語法](https://ja.wikipedia.org/wiki/造語法)
 
-### 語幹 gicsqanw
+### 語幹 gisfqanw
 
 * stem. [https://en.wikipedia.org/wiki/Word\_stem](https://en.wikipedia.org/wiki/Word_stem)
 * 語幹. [https://ja.wikipedia.org/wiki/語幹](https://ja.wikipedia.org/wiki/語幹)
 * 語幹. [https://ko.wikipedia.org/wiki/어간](https://ko.wikipedia.org/wiki/어간)
 
-### 語根 gicsqin/gucsqun
+### 語根 gisfqin/gusfqun
 
-* root. https://en.wikipedia.org/wiki/Root_(linguistics)
+* root. https://en.wikipedia.org/wiki/Root_(linguistisf)
 * 語根. [https://ja.wikipedia.org/wiki/語根](https://ja.wikipedia.org/wiki/語根)
 * 語根. [https://ko.wikipedia.org/wiki/어근](https://ko.wikipedia.org/wiki/어근)
 * 語根. _台日大辭典_
 
-### 語彙 gicsluizs
+### 語彙 gisfluiz
 
 * [https://en.oxforddictionaries.com/definition/lexicon](https://en.oxforddictionaries.com/definition/lexicon)
 * [https://kotobank.jp/ejword/lexicon](https://kotobank.jp/ejword/lexicon)
@@ -248,7 +248,7 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon](http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon)
 * [http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon](http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon)
 
-### 語邊界 gissvienzxqaiw
+### 語邊界 gisfvienzqaiw
 
 * word boundary
 
@@ -262,7 +262,7 @@
 
 ### 源 goanx
 
-### 漢字 hanyjizs
+### 漢字 hanyjiz
 
 * hanja
 * hanji, hanli.
@@ -273,7 +273,7 @@
 * 無匹配 ew
 * 序列成員
 
-### 合字 happwjizs
+### 合字 happwjiz
 
 * [https://en.wikipedia.org/wiki/Typographic\_ligature](https://en.wikipedia.org/wiki/Typographic_ligature)
 * [https://ja.wikipedia.org/wiki/合字](https://ja.wikipedia.org/wiki/合字)
@@ -287,7 +287,7 @@
 
 * series
 
-### 系列成員 hewliett sengzsoanx
+### 系列成員 hewliett sengzoanx
 
 * series member
 
@@ -297,20 +297,20 @@
 
 ### 型 hengx
 
-### 形成 hengzssengx
+### 形成 hengzsengx
 
 * n. formation. vt. to form shape. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 形態 hengzstaiw
+### 形態 hengztaiw
 
 * n. form; shape.
 
-### 形態學 hengzstaiyhakk
+### 形態學 hengztaiyhakk
 
 * morphology. _Maryknoll Taiwanese English Dicitonary_
 * a. (形態學) morphological. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 型鑄 hengzschuw
+### 型鑄 hengzchuw
 
 * typecasting
 * [https://en.wikipedia.org/wiki/Type\_conversion](https://en.wikipedia.org/wiki/Type_conversion)
@@ -318,17 +318,17 @@
 * 型變換. [https://ko.wikipedia.org/wiki/형\_변환](https://ko.wikipedia.org/wiki/형_변환)
 * [https://en.wikipedia.org/wiki/Downcasting](https://en.wikipedia.org/wiki/Downcasting)
 
-### 分解 hunzsqaiy
+### 分解 hunzqaiy
 
 * decompose. _Maryknoll Taiwanese English Dictionary_
 
-### 分拆 hunzstiah
+### 分拆 hunztiah
 
 * breakdown
 
-### 分組 hunzscho
+### 分組 hunzcho
 
-### 衍生 iencsseng
+### 衍生 iensfseng
 
 * derivation. derive.
 * [日]派生
@@ -351,7 +351,7 @@
 
 * 反復通用される. _ジーニアス英和大辞典_
 
-### 字 jizs/lizs/gizs
+### 字 jiz/liz/giz
 
 * n. a letter; a character. 2. a word. _A Chinese-English Dictionary Taiwan Dialect_
 * 單語
@@ -368,13 +368,13 @@
 * n. alphabet. _A Chinese-English Dictionary Taiwan Dialect_
 * (oa̍h-jī-ê) matrix, the letters of the alphabet. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 字母組合 jiwbury chozshapp
+### 字母組合 jiwbury chozhapp
 
 * Letter placement within a block. [https://en.wikipedia.org/wiki/Hangul\#Letter\_placement\_within\_a\_block](https://en.wikipedia.org/wiki/Hangul#Letter_placement_within_a_block)
 * 字母の組合せ. [https://ja.wikipedia.org/wiki/ハングル\#.E5.AD.97.E6.AF.8D.E3.81.AE.E7.B5.84.E5.90.88.E3.81.9B](https://ja.wikipedia.org/wiki/ハングル#.E5.AD.97.E6.AF.8D.E3.81.AE.E7.B5.84.E5.90.88.E3.81.9B)
 * 모아쓰기. [https://ko.wikipedia.org/wiki/한글\#.EB.AA.A8.EC.95.84.EC.93.B0.EA.B8.B0](https://ko.wikipedia.org/wiki/한글#.EB.AA.A8.EC.95.84.EC.93.B0.EA.B8.B0)
 
-### 字陣 jiwdinzs
+### 字陣 jiwdinz
 
 * 字配り. _台日大辭典_
 
@@ -390,9 +390,9 @@
 * radical
 * [http://blog.xuite.net/khoguan/blog/158566708-漢字字爿的台語稱呼（海翁台語文教學季刊+no.6+發表）](http://blog.xuite.net/khoguan/blog/158566708-漢字字爿的台語稱呼（海翁台語文教學季刊+no.6+發表）)
 
-### 字部 jiwvozs
+### 字部 jiwvoz
 
-### 字組對 jiwchocsduiw
+### 字組對 jiwchosfduiw
 
 ### 嵌 kamw
 
@@ -406,15 +406,15 @@
 
 * inflect, inflection
 
-### 南島語 lamzxdurcsgiy
+### 南島語 lamzdursfgiy
 
 * austronesian language. [https://en.wikipedia.org/wiki/Austronesian\_languages](https://en.wikipedia.org/wiki/Austronesian_languages)
 
 ### legend
 
-### lexical semantics
+### lexical semantisf
 
-* [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)
+* [https://en.wikipedia.org/wiki/Lexical\_semantisf](https://en.wikipedia.org/wiki/Lexical_semantisf)
 * [https://ja.wikipedia.org/wiki/語彙意味論](https://ja.wikipedia.org/wiki/語彙意味論)
 
 ### 列舉 liettwqiy/liettwquy
@@ -423,13 +423,13 @@
 * 算 siauw.
 * 列挙. _ジーニアス英和大辞典_
 
-### 連音 lienzsim
+### 連音 lienzim
 
 * [https://en.wikipedia.org/wiki/Sandhi](https://en.wikipedia.org/wiki/Sandhi)
 * [https://ja.wikipedia.org/wiki/連音](https://ja.wikipedia.org/wiki/連音)
 * [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
 
-### 連結 lienzsqiet
+### 連結 lienzqiet
 
 * concatenate, concatenation
 * [https://kotobank.jp/ejword/concatenate](https://kotobank.jp/ejword/concatenate)
@@ -438,15 +438,15 @@
 
 * [http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=concatenate](http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=concatenate)
 
-### 連聲 lienzssiann
+### 連聲 lienzsiann
 
 * [https://ja.wikipedia.org/wiki/連声](https://ja.wikipedia.org/wiki/連声)
 
-### 人機互動 linzsqi howdongzs
+### 人機互動 linzqi howdongz
 
 * human-computer interaction
 
-### 人機界面 linzsqi qaiybinzs
+### 人機界面 linzqi qaiybinz
 
 * man-machine interface
 
@@ -459,11 +459,11 @@
 * 已匹配
 * 匹配 eff, 無匹配 eff
 
-### 物件 mihhwqiannzs/mnghhwqiannzs/bukkwqiannzs
+### 物件 mihhwqiannz/mnghhwqiannz/bukkwqiannz
 
 * object
 
-### 物件朝向 mihhwqiannzs diauzshiongw/mnghhwqiannzs diauzshiongw/bukkwqiannzs diauzshiongw
+### 物件朝向 mihhwqiannz diauzhiongw/mnghhwqiannz diauzhiongw/bukkwqiannz diauzhiongw
 
 * object-orientation. [https://en.wikipedia.org/wiki/Object-orientation](https://en.wikipedia.org/wiki/Object-orientation)
 * object-oriented programming. [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -511,7 +511,7 @@
 
 ### 片語 pinnygiy
 
-### 品詞 pincssux
+### 品詞 pinsfsux
 
 * part of speech
 
@@ -589,14 +589,14 @@
 
 ### segment
 
-### semantics
+### semantisf
 
-* [https://en.wikipedia.org/wiki/Semantics](https://en.wikipedia.org/wiki/Semantics)
+* [https://en.wikipedia.org/wiki/Semantisf](https://en.wikipedia.org/wiki/Semantisf)
 * [https://ja.wikipedia.org/wiki/意味論](https://ja.wikipedia.org/wiki/意味論)
 * [https://ko.wikipedia.org/wiki/의미론](https://ko.wikipedia.org/wiki/의미론)
-* [http://www.oxforddictionaries.com/definition/english/semantics](http://www.oxforddictionaries.com/definition/english/semantics)
-* [https://kotobank.jp/ejword/semantics](https://kotobank.jp/ejword/semantics)
-* [http://ejje.weblio.jp/content/semantics](http://ejje.weblio.jp/content/semantics)
+* [http://www.oxforddictionaries.com/definition/english/semantisf](http://www.oxforddictionaries.com/definition/english/semantisf)
+* [https://kotobank.jp/ejword/semantisf](https://kotobank.jp/ejword/semantisf)
+* [http://ejje.weblio.jp/content/semantisf](http://ejje.weblio.jp/content/semantisf)
 
 ### sequence
 
@@ -616,33 +616,33 @@
 
 * pattern. _Maryknoll Taiwanese English Dictionary_
 
-### 成員 sengzsoanx
+### 成員 sengzoanx
 
 * member
 
-### 成員文 sengzsoanzsbunx
+### 成員文 sengzoanzbunx
 
 * member statement
 
-### 成員組 sengzsoanzscho
+### 成員組 sengzoanzcho
 
 * member group
 
-### 新港文書 sinzsqangy bunzssu
+### 新港文書 sinzqangy bunzsu
 
 * [https://en.wikipedia.org/wiki/Sinckan\_Manuscripts](https://en.wikipedia.org/wiki/Sinckan_Manuscripts)
 * [https://ja.wikipedia.org/wiki/新港文書](https://ja.wikipedia.org/wiki/新港文書)
 * [https://zh-min-nan.wikipedia.org/wiki/Sin-káng-bûn-su](https://zh-min-nan.wikipedia.org/wiki/Sin-káng-bûn-su)
 
-### 新造語 sinzschurwgiy
+### 新造語 sinzchurwgiy
 
 * [https://en.wikipedia.org/wiki/Neologism](https://en.wikipedia.org/wiki/Neologism)
 * 新語, 新造語. [https://ja.wikipedia.org/wiki/新語](https://ja.wikipedia.org/wiki/新語)
 * 新造語. [https://ko.wikipedia.org/wiki/신조어](https://ko.wikipedia.org/wiki/신조어)
 
-### siuzs
+### siuz
 
-### 示 sizs
+### 示 siz
 
 * 告示. notice. notification. _The Maryknoll Taiwanese English Dictionary_
 
@@ -669,7 +669,7 @@
 
 ### 素 sow
 
-### 宣告文 soanzsqurybunx
+### 宣告文 soanzqurybunx
 
 * declaration statement
 
@@ -677,11 +677,11 @@
 
 * sequence
 
-### 序列成員 suwliett sengzsoanx
+### 序列成員 suwliett sengzoanx
 
 * sequence member
 
-### 書寫法 suzssiacshoat
+### 書寫法 suzsiasfhoat
 
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
 * [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
@@ -710,18 +710,18 @@
 * 議程: program. _Maryknoll Taiwanese English Dictionary_
 * 法式「程式, 章程」. _明解漢和辭典_
 
-### 程式 tengzssek
+### 程式 tengzsek
 
 * standard form or pattern, standard procedures, formula _Maryknoll Taiwanese English Dictionary_
 * 由一定的方法所規定的法式. _台語四用漢字字源_
 * 電腦程式規定的步驟. _通用台語字典_
 * 固定的格式. _台華雙語辭典_
 
-### 程式語言 tengzssek gicsgienx
+### 程式語言 tengzsek gisfgienx
 
 * programming language
 
-### 程式設計 tengzssek sietfqew
+### 程式設計 tengzsek sietfqew
 
 * programming
 * Programming. \[[https://ja.wikipedia.org/wiki/プログラミング\_\(コンピュータ\]\(https://ja.wikipedia.org/wiki/プログラミング\_\(コンピュータ\)\](https://ja.wikipedia.org/wiki/プログラミング_%28コンピュータ]%28https://ja.wikipedia.org/wiki/プログラミング_%28コンピュータ%29%29\)
@@ -731,11 +731,11 @@
 
 * stack
 
-### 抽象化 tiuzssiongwhoaw
+### 抽象化 tiuzsiongwhoaw
 
 * abstraction. 抽象. _Embree_
 
-### 抽象構文樹 tiuzssiongyqoybunzsciuzs/tiuzssiongw qoybunzsciuzs
+### 抽象構文樹 tiuzsiongyqoybunzciuz/tiuzsiongw qoybunzciuz
 
 * abstract syntax tree
 * 抽象構文木. [https://ja.wikipedia.org/wiki/抽象構文木](https://ja.wikipedia.org/wiki/抽象構文木)
@@ -765,21 +765,21 @@
 
 ### 變調組 vienydiauwcho
 
-### 變調 vienydiauzs
+### 變調 vienydiauz
 
 * Tone Sandhi. [https://en.wikipedia.org/wiki/Tone\_sandhi](https://en.wikipedia.org/wiki/Tone_sandhi)
 * 連續變調. [https://ja.wikipedia.org/wiki/連続変調](https://ja.wikipedia.org/wiki/連続変調)
 * [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
 
-### 變調造語 vienydiauzs churwgiy
+### 變調造語 vienydiauz churwgiy
 
-### 表現 viaucshienzs
+### 表現 viausfhienz
 
 * 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
-* 表達 viaucsdatt
+* 表達 viausfdatt
 * expression: A word or phrase, especially an idiomatic one, used to convey an idea. [http://www.oxforddictionaries.com/definition/english/expression](http://www.oxforddictionaries.com/definition/english/expression)
 
-### 表意文字 viaucsiw bunzsjizs
+### 表意文字 viausfiw bunzjiz
 
 * [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
 * [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
@@ -790,7 +790,7 @@
 * [https://ja.wikipedia.org/wiki/目的語](https://ja.wikipedia.org/wiki/目的語)
 * [https://ko.wikipedia.org/wiki/목적어](https://ko.wikipedia.org/wiki/목적어)
 
-### 部件 vowqiannzs
+### 部件 vowqiannz
 
 * component
 
@@ -809,24 +809,24 @@
 * https://ja.wikipedia.org/wiki/節_(文法)
 * https://ko.wikipedia.org/wiki/절_(언어학)
 
-### 齊頭並列 chezstaux vengyliett
+### 齊頭並列 cheztaux vengyliett
 
 * align, alignment
 
-### 成組 chiannzscho
+### 成組 chiannzcho
 
 ### 接辭 chiapfsux
 
 * affix
 
-### 接頭辭 chiapftauzssux
+### 接頭辭 chiapftauzsux
 
 * 接頭語. _台日大辭典_
 * 接頭語. [https://kotobank.jp/jeword/接頭語](https://kotobank.jp/jeword/接頭語)
 * 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
 * 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-### 接尾辭 chiapfboecssux
+### 接尾辭 chiapfboesfsux
 
 * 接尾語. _台日大辭典_
 * suffix. _Maryknoll Taiwanese English Dictionary_
@@ -844,47 +844,47 @@
 * 部件組
 * group. _Maryknoll Taiwanese English Dictionary_
 
-### 組文字 chocsbunzsjizs
+### 組文字 chosfbunzjiz
 
 * [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
 
-### 總合 chongcshapp
+### 總合 chongsfhapp
 
 * sum
 
-### 組成員 chocssengzsoanx
+### 組成員 chosfsengzoanx
 
 * group member
 
-### 組成一組 chocssengzs chittwcho
+### 組成一組 chosfsengz chittwcho
 
 * compose a group
 
-### 組合 chocshapp
+### 組合 chosfhapp
 
 * combination
 * group
 
 ### 組合 operator
 
-### 組字 chocslizs
+### 組字 chosfliz
 
 * compose a series of components
 * compose a series of ideograms
 
-### 組邊界 chocsvienzsqaiw
+### 組邊界 chosfvienzqaiw
 
-### 組成 chocssengx
+### 組成 chosfsengx
 
 * compose. composition
 * [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
 * [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
 
-### 組組對 chocschocsduiw
+### 組組對 chosfchosfduiw
 
 * group-group pair
 
-### 轉寫 choancssiay
+### 轉寫 choansfsiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
 * 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
@@ -906,7 +906,7 @@
 
 ### 造句 churwquw
 
-### 主語 chucsgiy
+### 主語 chusfgiy
 
 * https://en.wikipedia.org/wiki/Subject_(grammar)
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
