@@ -8,7 +8,7 @@
 
 `Open the chest with a key or a hammer.`
 
-Chitf 句話 ew 意思 siw iongw 鎖匙 hekkwchiasfsiw 摃槌仔 qaw 箱仔拍 hoz 開. Sosfi qaw 箱仔拍開 uw 二種方法, 一種 siw iongw 鎖匙 qaw 鎖拍開,  lengwgoaw 一種 siw iongw 摃槌仔 qaz 摃 hoz 破. 下脚 siw 單語 qahf 文 ew 對應:
+Chitf 句話 ew 意思 siw iongw 鎖匙 hekkwchiacfsiw 摃槌仔 qaw 箱仔拍 hoz 開. Socfi qaw 箱仔拍開 uw 二種方法, 一種 siw iongw 鎖匙 qaw 鎖拍開,  lengwgoaw 一種 siw iongw 摃槌仔 qaz 摃 hoz 破. 下脚 siw 單語 qahf 文 ew 對應:
 
 | 單語 | 意思 | 文 |
 | :--- | :--- | :--- |
@@ -18,9 +18,9 @@ Chitf 句話 ew 意思 siw iongw 鎖匙 hekkwchiasfsiw 摃槌仔 qaw 箱仔拍 h
 | unlock | unlock it | unlockIt |
 | break | break it into pieces | breakIt |
 
-Duiy dengsfqoanx ez 表格 ewdangy 看 cuttwlaih, 單語 open uw 二 ez 隱含 ew 意思, 一个 siw unlock, lengwgoaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Che 二 ez 隱含 ew 意思 diurhhw siw chitflez 文 ew 曖昧性.
+Duiy dengcfqoanx ez 表格 ewdangy 看 cuttwlaih, 單語 open uw 二 ez 隱含 ew 意思, 一个 siw unlock, lengwgoaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Che 二 ez 隱含 ew 意思 diurhhw siw chitflez 文 ew 曖昧性.
 
-Chimsfmay diw che 表格每一行頭前 qez 二欄 tienzsia 對應 ew 台語:
+Chimcfmay diw che 表格每一行頭前 qez 二欄 tienzsia 對應 ew 台語:
 
 | 台語 | 漢字 | 單語 | 意思 | 文 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,13 +39,13 @@ context.add([_pah, _six, 1])
 context.add([_qongw, _tuix, 1])
 ```
 
-頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laiz 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hoz 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laiz 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hoz 破. Sosfi lan naw siw qaw che 幾若个單語 lienzqietf chury 下脚 che 二句話:
+頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laiz 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hoz 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laiz 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hoz 破. Socfi lan naw siw qaw che 幾若个單語 lienzqietf chury 下脚 che 二句話:
 
 ```
 Siz pah. Tuiz qongw.
 ```
 
-Inzuiw six, pah, tuix, qahf qongw che 四个單語 vieny chury che 四句話: `Siz`, `pah`, `Tuiz`, `qongw`, sosfi che 四句 `Siz`, `pah`, `Tuiz`, qahf `qongw` diurhhw siw daiwviau `Siz pah.` qahf `Tuiz qongw.` che 二 ez 相嵌 ew 文:
+Inzuiw six, pah, tuix, qahf qongw che 四个單語 vieny chury che 四句話: `Siz`, `pah`, `Tuiz`, `qongw`, socfi che 四句 `Siz`, `pah`, `Tuiz`, qahf `qongw` diurhhw siw daiwviau `Siz pah.` qahf `Tuiz qongw.` che 二 ez 相嵌 ew 文:
 
 ```ruby
 #
@@ -60,7 +60,7 @@ def useHammer
 end
 ```
 
-Lan chimsfmay qurhf tehhw `Kuiz` qaw che 四句 `Siz`, `pah`, `Tuiz`, `qongw` 接 kihhwlaih, iaw diurhhw siw qaw `def useKey unlockIt end def useHammer breakIt end` kamy lihhwki `class OpenChest end` chitflez 文內底:
+Lan chimcfmay qurhf tehhw `Kuiz` qaw che 四句 `Siz`, `pah`, `Tuiz`, `qongw` 接 kihhwlaih, iaw diurhhw siw qaw `def useKey unlockIt end def useHammer breakIt end` kamy lihhwki `class OpenChest end` chitflez 文內底:
 
 ```ruby
 #
@@ -79,4 +79,4 @@ class OpenChest
 end
 ```
 
-Inzuiw `Kuiz` siw 變調 qurhf uw iongw 括號 qaw `Siz pah. Tuiz qongw.` 括 kihhwlaih, qurhf qazsiongw 文尾 ew 句點,  sosfi qahf `Kuiz` 對應 ew `class OpenChest end` diurhhw ewdangy qaw che 四个文嵌 jihhwkih.
+Inzuiw `Kuiz` siw 變調 qurhf uw iongw 括號 qaw `Siz pah. Tuiz qongw.` 括 kihhwlaih, qurhf qazsiongw 文尾 ew 句點,  socfi qahf `Kuiz` 對應 ew `class OpenChest end` diurhhw ewdangy qaw che 四个文嵌 jihhwkih.
