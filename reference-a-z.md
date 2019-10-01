@@ -46,9 +46,9 @@
 * statement (Swift): [https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift\_Programming\_Language/Statements.html](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Statements.html)
 * statement (C++): [https://en.cppreference.com/w/cpp/language/statements](https://en.cppreference.com/w/cpp/language/statements)
 * compound statement (C): [https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx](https://msdn.microsoft.com/en-us/library/ce4b8s02.aspx)
-* simple statement (Python): [https://docf.python.org/3/reference/simple\_stmts.html](https://docf.python.org/3/reference/simple_stmts.html)
-* compound statement (Python): [https://docf.python.org/3/reference/compound\_stmts.html](https://docf.python.org/3/reference/compound_stmts.html)
-* Ruby Syntax: [http://ruby-doc.org/docf/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docf/ruby-doc-bundle/Manual/man-1.4/syntax.html)
+* simple statement (Python): [https://docs.python.org/3/reference/simple\_stmts.html](https://docs.python.org/3/reference/simple_stmts.html)
+* compound statement (Python): [https://docs.python.org/3/reference/compound\_stmts.html](https://docs.python.org/3/reference/compound_stmts.html)
+* Ruby Syntax: [http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html)
 * statements (D): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
 
 ### 文合集 bunzhahhwchipp
@@ -58,7 +58,7 @@
 ### 文法 bunzhoat
 
 * grammar. _A Chinese-English Dictionary Taiwan Dialect_
-* grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semanticf. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
+* grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semantics. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
 * grammar: 文法；文法学［研究, 論］；（個人の）文法的知識, 語法, 言葉づかい. [https://kotobank.jp/ejword/grammar](https://kotobank.jp/ejword/grammar)
 * D Grammar: [https://dlang.org/spec/grammar.html](https://dlang.org/spec/grammar.html)
 
@@ -120,13 +120,13 @@
 
 * 連結 lienzqiet
 * concate, concatenation
-* 組合 chocfhapp
+* 組合 chofhapp
 * combine, combination
 * group
 
 ### design pattern
 
-### 電腦語言 dinwnauy gicfgienx
+### 電腦語言 dinwnauy gifgienx
 
 * computer language
 
@@ -153,7 +153,7 @@
 
 ### 同形異音語 dongzhengx iwimzgiy
 
-* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguisticf)
+* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
 * heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
 * 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
 * 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
@@ -211,9 +211,9 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word](http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word)
 * [http://www.oxforddictionaries.com/definition/english/word](http://www.oxforddictionaries.com/definition/english/word)
 
-### 語法 gicfhoat
+### 語法 gifhoat
 
-### 語形變化 gicfhengx vienyhoaw
+### 語形變化 gifhengx vienyhoaw
 
 * 語形変化: [https://ja.wikipedia.org/wiki/語形変化](https://ja.wikipedia.org/wiki/語形変化)
 * infelction vs. derivation: [https://en.wikipedia.org/wiki/Inflection\#Inflection\_vs.\_derivation](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
@@ -221,26 +221,26 @@
 * inflection: 《文法》屈折, 語形変化. [https://kotobank.jp/ejword/inflection](https://kotobank.jp/ejword/inflection)
 * inflection: a change in the form of a word \(typically the ending\) to express a grammatical function or attribute such as tense, mood, person, number, case, and gender [http://www.oxforddictionaries.com/definition/english/inflection](http://www.oxforddictionaries.com/definition/english/inflection)
 
-### 語形成 gicfhengzsengx
+### 語形成 gifhengzsengx
 
 * word formation: 語形成, 造語法. [https://ejje.weblio.jp/content/word%E2%80%90formation](https://ejje.weblio.jp/content/word%E2%80%90formation)
 * 語形成. [https://ko.wikipedia.org/wiki/어형성](https://ko.wikipedia.org/wiki/어형성)
 * 造語法. [https://ja.wikipedia.org/wiki/造語法](https://ja.wikipedia.org/wiki/造語法)
 
-### 語幹 gicfqanw
+### 語幹 gifqanw
 
 * stem. [https://en.wikipedia.org/wiki/Word\_stem](https://en.wikipedia.org/wiki/Word_stem)
 * 語幹. [https://ja.wikipedia.org/wiki/語幹](https://ja.wikipedia.org/wiki/語幹)
 * 語幹. [https://ko.wikipedia.org/wiki/어간](https://ko.wikipedia.org/wiki/어간)
 
-### 語根 gicfqin/gucfqun
+### 語根 gifqin/gufqun
 
-* root. https://en.wikipedia.org/wiki/Root_(linguisticf)
+* root. https://en.wikipedia.org/wiki/Root_(linguistics)
 * 語根. [https://ja.wikipedia.org/wiki/語根](https://ja.wikipedia.org/wiki/語根)
 * 語根. [https://ko.wikipedia.org/wiki/어근](https://ko.wikipedia.org/wiki/어근)
 * 語根. _台日大辭典_
 
-### 語彙 gicfluiz
+### 語彙 gifluiz
 
 * [https://en.oxforddictionaries.com/definition/lexicon](https://en.oxforddictionaries.com/definition/lexicon)
 * [https://kotobank.jp/ejword/lexicon](https://kotobank.jp/ejword/lexicon)
@@ -248,7 +248,7 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon](http://dic.daum.net/word/view.do?wordid=ekw000096572&q=lexicon)
 * [http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon](http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=lexicon)
 
-### 語邊界 gicfvienzqaiw
+### 語邊界 gifvienzqaiw
 
 * word boundary
 
@@ -328,7 +328,7 @@
 
 ### 分組 hunzcho
 
-### 衍生 iencfseng
+### 衍生 ienfseng
 
 * derivation. derive.
 * [日]派生
@@ -392,7 +392,7 @@
 
 ### 字部 jiwvoz
 
-### 字組對 jiwchocfduiw
+### 字組對 jiwchofduiw
 
 ### 嵌 kamw
 
@@ -406,15 +406,15 @@
 
 * inflect, inflection
 
-### 南島語 lamzdurcfgiy
+### 南島語 lamzdurfgiy
 
 * austronesian language. [https://en.wikipedia.org/wiki/Austronesian\_languages](https://en.wikipedia.org/wiki/Austronesian_languages)
 
 ### legend
 
-### lexical semanticf
+### lexical semantics
 
-* [https://en.wikipedia.org/wiki/Lexical\_semanticf](https://en.wikipedia.org/wiki/Lexical_semanticf)
+* [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)
 * [https://ja.wikipedia.org/wiki/語彙意味論](https://ja.wikipedia.org/wiki/語彙意味論)
 
 ### 列舉 liettwqiy/liettwquy
@@ -511,7 +511,7 @@
 
 ### 片語 pinnygiy
 
-### 品詞 pincfsux
+### 品詞 pinfsux
 
 * part of speech
 
@@ -589,14 +589,14 @@
 
 ### segment
 
-### semanticf
+### semantics
 
-* [https://en.wikipedia.org/wiki/Semanticf](https://en.wikipedia.org/wiki/Semanticf)
+* [https://en.wikipedia.org/wiki/Semantics](https://en.wikipedia.org/wiki/Semantics)
 * [https://ja.wikipedia.org/wiki/意味論](https://ja.wikipedia.org/wiki/意味論)
 * [https://ko.wikipedia.org/wiki/의미론](https://ko.wikipedia.org/wiki/의미론)
-* [http://www.oxforddictionaries.com/definition/english/semanticf](http://www.oxforddictionaries.com/definition/english/semanticf)
-* [https://kotobank.jp/ejword/semanticf](https://kotobank.jp/ejword/semanticf)
-* [http://ejje.weblio.jp/content/semanticf](http://ejje.weblio.jp/content/semanticf)
+* [http://www.oxforddictionaries.com/definition/english/semantics](http://www.oxforddictionaries.com/definition/english/semantics)
+* [https://kotobank.jp/ejword/semantics](https://kotobank.jp/ejword/semantics)
+* [http://ejje.weblio.jp/content/semantics](http://ejje.weblio.jp/content/semantics)
 
 ### sequence
 
@@ -681,7 +681,7 @@
 
 * sequence member
 
-### 書寫法 suzsiacfhoat
+### 書寫法 suzsiafhoat
 
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
 * [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
@@ -717,7 +717,7 @@
 * 電腦程式規定的步驟. _通用台語字典_
 * 固定的格式. _台華雙語辭典_
 
-### 程式語言 tengzsek gicfgienx
+### 程式語言 tengzsek gifgienx
 
 * programming language
 
@@ -773,13 +773,13 @@
 
 ### 變調造語 vienydiauz churwgiy
 
-### 表現 viaucfhienz
+### 表現 viaufhienz
 
 * 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
-* 表達 viaucfdatt
+* 表達 viaufdatt
 * expression: A word or phrase, especially an idiomatic one, used to convey an idea. [http://www.oxforddictionaries.com/definition/english/expression](http://www.oxforddictionaries.com/definition/english/expression)
 
-### 表意文字 viaucfiw bunzjiz
+### 表意文字 viaufiw bunzjiz
 
 * [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
 * [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
@@ -826,7 +826,7 @@
 * 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
 * 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-### 接尾辭 chiapfboecfsux
+### 接尾辭 chiapfboefsux
 
 * 接尾語. _台日大辭典_
 * suffix. _Maryknoll Taiwanese English Dictionary_
@@ -844,47 +844,47 @@
 * 部件組
 * group. _Maryknoll Taiwanese English Dictionary_
 
-### 組文字 chocfbunzjiz
+### 組文字 chofbunzjiz
 
 * [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
 
-### 總合 chongcfhapp
+### 總合 chongfhapp
 
 * sum
 
-### 組成員 chocfsengzoanx
+### 組成員 chofsengzoanx
 
 * group member
 
-### 組成一組 chocfsengz chittwcho
+### 組成一組 chofsengz chittwcho
 
 * compose a group
 
-### 組合 chocfhapp
+### 組合 chofhapp
 
 * combination
 * group
 
 ### 組合 operator
 
-### 組字 chocfliz
+### 組字 chofliz
 
 * compose a series of components
 * compose a series of ideograms
 
-### 組邊界 chocfvienzqaiw
+### 組邊界 chofvienzqaiw
 
-### 組成 chocfsengx
+### 組成 chofsengx
 
 * compose. composition
 * [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
 * [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
 
-### 組組對 chocfchocfduiw
+### 組組對 chofchofduiw
 
 * group-group pair
 
-### 轉寫 choancfsiay
+### 轉寫 choanfsiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
 * 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
@@ -906,7 +906,7 @@
 
 ### 造句 churwquw
 
-### 主語 chucfgiy
+### 主語 chufgiy
 
 * https://en.wikipedia.org/wiki/Subject_(grammar)
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
