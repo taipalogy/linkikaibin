@@ -24,7 +24,7 @@ Ahf 台語 diw 資訊科學 ew 領域內底, siw vanyien siannfmihf 欵 ew 角�
 
 ## 書寫方式
 
-Chitf vun 冊 so sufiongw ew 書寫系統 siw camzkur qokfchiong 台語界前輩 ew 設計 so 創作 cuttwlaih ew.
+Chitf vun 冊 so sufiongw ew 書寫系統 siw camzkur qokfchiong 台語界前輩 ew 設計 so 創作 cut-laih ew.
 
 Inzuiw 台羅 siw chittwchiong 羅馬化 ew 漢字, iaw diurhhw siw chittwchiong qaw 漢字羅馬化 ew 系統, iz qahf 漢字仝款 oanzchoanz burz 形態 ew 變化, mw siw 正港 ew 拼音系統, be chury 拼音系統 iz siw burz qauygiahh, sofi qaw 台羅 dongy chury 拼音系統 laiz 書寫 qizsittw siw 無適當 e. Iuzqiz siw duiy 聲調 ew 標示 ew sanfsengz 真大 ew 困擾. Ia qurhf 拼音系統 qahf 書寫系統 maw siw 二个無仝欵 ew 概念. 拼音系統 vitfsuz aiy ewdangy viaufhienw iz  所有 ez 語音變異 (Sound Change), ahf 書寫系統 duzliau viaufhienw chittwlez 語言 ew 語形變異 (Metaplasm) 以外, 語音變異 maw siw long aiy ewdangy 書寫.
 
