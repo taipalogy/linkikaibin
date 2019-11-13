@@ -10,9 +10,9 @@
 
 Chitflez 方法 mw siw behf cufdaiw 電腦語言. 事實上, iz siw how lan 用 lengwgoaw 一个觀點 laiz koanny 根源碼.
 
-傳統上 lan lehh 寫程式 ew 時拵, lan 頭殼內底 ew daiwseng uw 一个想法. 了後 lan qurhf qaw chihflez 想法 hunzqai chury 幾若个 logik 單位. Chitflez 分解 ew 過程 diannwdiannz diurhhw siw 用歸納法 qahf 演繹法. Chia ez logik 單位, cinzciunnw function call, variable, class declaration 等等, ewdangy chofhappw chury 一 ez tangz 運作 ew 程式. 了後組好 ew 程式碼 diurff ewdangy tehhw ki parse, interpret, compile, qahf 執行.
+傳統上 lan lehh 寫程式 ew 時拵, lan 頭殼內底 ew daiwseng uw 一个想法. 了後 lan qurhf qaw chihflez 想法 hunzqai churhy 幾若个 logik 單位. Chitflez 分解 ew 過程 diannwdiannz diurhhw siw 用歸納法 qahf 演繹法. Chia ez logik 單位, cinzciunnw function call, variable, class declaration 等等, ewdangy chofhappw churhy 一 ez tangz 運作 ew 程式. 了後組好 ew 程式碼 diurff ewdangy tehhw ki parse, interpret, compile, qahf 執行.
 
-Duiy lengwgoaw 一个觀點 laiz koanny 根源碼, lan ewdangy qaw 程式碼 tiahykuiz chury 一个一个 ew 文. 每一个文 long ew qahf iz 頭前 ia siw 後壁 ew 文 hengzsengz 嵌入 hekkwchiafsiw 並列 ew 關係. 每一个文 long ewdangy iongw 一个單語 laiz 表示. Suizjienz qong 每一个文 long ewdangy iongw 一 ez 多音節 ew 單語 laiz 表示, lan diw chia iugoanz siw iongw 單音節單語 laiz chury 例, anfne 看 kihhwlaih kahf 好瞭解, maw kahf 好操作. 最後 lan qaw che 一序列 ew 單語 lienzqietf chury 一句 hekkwchiafsiw 一个文.
+Duiy lengwgoaw 一个觀點 laiz koanny 根源碼, lan ewdangy qaw 程式碼 tiahykuiz churhy 一个一个 ew 文. 每一个文 long ew qahf iz 頭前 ia siw 後壁 ew 文 hengzsengz 嵌入 hekkwchiafsiw 並列 ew 關係. 每一个文 long ewdangy iongw 一个單語 laiz 表示. Suizjienz qong 每一个文 long ewdangy iongw 一 ez 多音節 ew 單語 laiz 表示, lan diw chia iugoanz siw iongw 單音節單語 laiz chury 例, anfne 看 kihhwlaih kahf 好瞭解, maw kahf 好操作. 最後 lan qaw che 一序列 ew 單語 lienzqietf churhy 一句 hekkwchiafsiw 一个文.
 
 ## Mw Siw Qanznaz 翻譯
 
@@ -20,7 +20,7 @@ Duiy lengwgoaw 一个觀點 laiz koanny 根源碼, lan ewdangy qaw 程式碼 tia
 
 I 英文 chury 基礎 ew 電腦語言 qahf i 非英文 chury 基礎 ew 電腦語言, inz qam uw 共同點? Inz long siw logik 語言. Inz 其中 uw 一 qoa qanznaz siw duiy 英文 qaw keyword 翻譯 qoehhwkih niawniaz. Diw chia Goa so 講 ew 翻譯 siw chi qaw i 英文 chury 基礎 ew 電腦語言內底 ew keyword 翻 qoeh-kih.
 
-Chitflez 方法 mw siw qanznaz duiy 電腦語言 qaw keyword 翻譯 qoeffkih niawniaz. Lan de qiongzdiauw iongw 台語文 sia 程式 siw 一種方法, 方法 vitfsuz siw tangz 操作 ew, chia ewdangy qaz hurw chury 方法. Diurhhw siw qong lan siw iongw chitflez 方法 laiz sia 程式.
+Chitflez 方法 mw siw qanznaz duiy 電腦語言 qaw keyword 翻譯 qoeffkih niawniaz. Lan de qiongzdiauw iongw 台語文 sia 程式 siw 一種方法, 方法 vitfsuz siw tangz 操作 ew, chia ewdangy qaz hurw churhy 方法. Diurhhw siw qong lan siw iongw chitflez 方法 laiz sia 程式.
 
 Chitflez 寫程式 ew 方法 maw mw siw 輸入法. 輸入法 siw lan iongw laiz 拍字 sanfsengz 一个單語序列 ew 軟體家私. Lan ew 方法 diurhhw siw aiy iongw diurhhw chitflez 軟體家私 so 產生 ew 單語序列. Chitflez 方法 dongzjienz maw ewdangy qahf i 非英文 chury 基礎 ew 電腦語言協作.
 
@@ -28,13 +28,13 @@ Chitflez 寫程式 ew 方法 maw mw siw 輸入法. 輸入法 siw lan iongw laiz 
 
 Chitflez 方法 siw duiy 電腦語言 qurhf kahf oa 人一脚步. Iz siw chury 電腦語言 qahf 人 ew intermediate. Inzuiw iz intermediate, iz diurhhw uw 一 ez intermediate ew 機制. chitflez 機制 tangz how lan qaw 自然語言中 ew 單語 qahf 語句 duiyengy qauy 電腦語言 ew 文. Inzuiw lan so 拍 ew siw 自然語言, lan diurhhw ewdangy duiy 自然語言 ew 文 qahf 語彙來 lifqai 根源碼. Lan ewdangy duiy 自然語言 laiz lifqai 電腦語言, lan diurff siw 降 qez liau chinyjippw 電腦語言 ew 障礙.
 
-Qiyjienz ewdangy chifdengw 一个單語 how 一个文, hitflez 單語 maw ewdangy dongy chury iz o 表示 ew 文 ew 註解. Chitflez單語意思上 kurflengz qahf iz so 表示 ew 文 uw 增差, ia mw qurhf iz maw siw ewdangy qahf 根源碼 ew comment 互相參考, 共同存在.
+Qiyjienz ewdangy chifdengw 一个單語 how 一个文, hitflez 單語 maw ewdangy dongy churhy iz o 表示 ew 文 ew 註解. Chitflez單語意思上 kurflengz qahf iz so 表示 ew 文 uw 增差, ia mw qurhf iz maw siw ewdangy qahf 根源碼 ew comment 互相參考, 共同存在.
 
 ## 適應性設計
 
 Lan naw qaw 一組文 chifdengw how 一个單語, lan sittwchey 上 lehf 做 ew siw tezqiongz 一組選項 how iz. Naw behf soan durhf 一个選項 siw aiy qinzqiy 一个自然語言 ew 句 hekkwchiafsiw 文 ew context laiz 決定. Naw siw 程式設計 diurhhw iongw `context.add` qahf `context.remove` laiz sietfdengw context. Naw siw 人機界面 diurhhw siw 使用者 kiy soanfdekkw 一个選項. Diurhhw siw qong chitflez 選擇 ew 動作 ewdangy how 程式碼 ki sekfengy context. Naw siw context uw 改變, 選項 maw ew doey lehf 改變. Naw siw 根源碼 ewdangy ki sekfengy context, 程式碼 diurhhw ew kahf uw 彈性, jizciann qurhf duiy context ew 變化 sanfsengz 反應.
 
-Naw siw i 適應性 laiz koanny 根源碼, 程式碼 ew 一部分 siw uw 適應性, lengwgoaw 一部分 siw 非適應性. Sofi 適應性 siw duiy durhf 位來 ez? 一个軟體程式 ewdangy dauhy jibbki 各種無仝欵 ew 硬體內底. 軟體 qurhf suziauy how 無仝欵 ew 使用者 diw 無仝欵 ew 情形下操作. 一个 uw 適應性 ew 軟體程式 ewdangy duiy 伊 ew 非適應性核心 ditf diurhhw support, vengwciann duiy context ew 變化 churycutf 反應. Uw 適應性 ew 軟體部件 ewdangy qaw 非適應性核心部件 vieny chury kahf uw 彈性 qahf 反應性. Ahf 非適應性核心部件 ewdangy tezqiongz 功能 vengwciann chizoanz 適應性部件.
+Naw siw i 適應性 laiz koanny 根源碼, 程式碼 ew 一部分 siw uw 適應性, lengwgoaw 一部分 siw 非適應性. Sofi 適應性 siw duiy durhf 位來 ez? 一个軟體程式 ewdangy dauhy jibbki 各種無仝欵 ew 硬體內底. 軟體 qurhf suziauy how 無仝欵 ew 使用者 diw 無仝欵 ew 情形下操作. 一个 uw 適應性 ew 軟體程式 ewdangy duiy 伊 ew 非適應性核心 ditf diurhhw support, vengwciann duiy context ew 變化 churycutf 反應. Uw 適應性 ew 軟體部件 ewdangy qaw 非適應性核心部件 vieny churhy kahf uw 彈性 qahf 反應性. Ahf 非適應性核心部件 ewdangy tezqiongz 功能 vengwciann chizoanz 適應性部件.
 
 Lan laiz koanny 下脚示 ew 表格:
 
@@ -243,7 +243,7 @@ print to paper
 
 ## Mw Siw Programming Paradigm
 
-Chitflez 方法 ewdangy engwiongw qauy 現有 ew programmeng paradigm, mwqoan iz siw functional, procedural, hekkwchiafsiw object-oriented. Tehhw 任何一 ez code snippet 來, iz long ewdangy how 剖文 chury 二種組合 ew 其中一種: 並列 hekkwchiafsiw 嵌入. Diw C ew 例內底, 一 ez for-loop 文 ewdangy qaw 幾若个文嵌 jibbkih. Ahf 嵌 uw hunz 二種, 一種 siw qangz 嵌 ew, 一種 siw hongz 嵌 ew. Lan ewdangy qong for-loop qaw 幾若个文嵌 leh, chitflez for-loop diurhw siw 一 ez qangz 嵌 ew 文. Che 幾若个文 naw siw how for-loop 嵌 leh, che 幾若个 diurhhw siw hongz 嵌 ew 文. 所謂 ew 嵌 diurhhw siw 鑲嵌 ew 嵌, 英文 diurhhw siw embeddeng ew 意思. 英文內底 qurhf uw 一个單語 nesting maw ewdangy hengziongz 一个文 qaw lengwgoaw 一个文嵌 jibbkih. Qizsittw embedding qahf nesting siw 二个無仝欵 ew 概念, maw uw 一 qoa 程式語言 siw kakfsittw qaw embedding qahf nesting ew 用法分 qahf 真清楚. Ia qurhf nesting mw chaiziann anfchoann qaw hoanz chury 台語 kahf 好. Sofi 嵌 chitt 字 siw chimfmay siongw 適當 e, ewdangy dittwchiapf tehhw laiz 用 ew 字.
+Chitflez 方法 ewdangy engwiongw qauy 現有 ew programmeng paradigm, mwqoan iz siw functional, procedural, hekkwchiafsiw object-oriented. Tehhw 任何一 ez code snippet 來, iz long ewdangy how 剖文 churhy 二種組合 ew 其中一種: 並列 hekkwchiafsiw 嵌入. Diw C ew 例內底, 一 ez for-loop 文 ewdangy qaw 幾若个文嵌 jibbkih. Ahf 嵌 uw hunz 二種, 一種 siw qangz 嵌 ew, 一種 siw hongz 嵌 ew. Lan ewdangy qong for-loop qaw 幾若个文嵌 leh, chitflez for-loop diurhw siw 一 ez qangz 嵌 ew 文. Che 幾若个文 naw siw how for-loop 嵌 leh, che 幾若个 diurhhw siw hongz 嵌 ew 文. 所謂 ew 嵌 diurhhw siw 鑲嵌 ew 嵌, 英文 diurhhw siw embeddeng ew 意思. 英文內底 qurhf uw 一个單語 nesting maw ewdangy hengziongz 一个文 qaw lengwgoaw 一个文嵌 jibbkih. Qizsittw embedding qahf nesting siw 二个無仝欵 ew 概念, maw uw 一 qoa 程式語言 siw kakfsittw qaw embedding qahf nesting ew 用法分 qahf 真清楚. Ia qurhf nesting mw chaiziann anfchoann qaw hoanz churhy 台語 kahf 好. Sofi 嵌 chitt 字 siw chimfmay siongw 適當 e, ewdangy dittwchiapf tehhw laiz 用 ew 字.
 
 Tehhw function-block laiz chury 例, function ew 名 qahf iz ez return type siw qangz 嵌 ew 文, function-body 內底 so 嵌 ew 文 siw hongz 嵌 ew 文. 紲 lurhhwlaih siw 並列. 二个文 naw siw 並列, viaufsiw inz 二个齊頭並列. 譬喻 qong, uw 一个 for-loop qahf 一个 function call 齊頭並列, inz diurhhw siw 並列.
 

@@ -85,6 +85,10 @@
 * 小川尚義
 * 台灣總督府
 
+### 角川新字源
+
+* 角川書店
+
 ### The Maryknoll Taiwanese English Dictionary
 
 * [http://www.taiwanesedictionary.org](http://www.taiwanesedictionary.org)

@@ -1,8 +1,8 @@
 # 多義性
 
-多義性 ew 英文 siw ambiguity. Lengwgoaw uw 一个單語 hurw chury polysemy siw choanzmngz chi 語言上 uw 多義性. Lengwgoaw ambiguity qurhf uw 曖昧, 含糊 ew 意思, che siw ambiguity qahf polysemy siongw 大 ez 差別.
+多義性 ew 英文 siw ambiguity. Lengwgoaw uw 一个單語 hurw churhy polysemy siw choanzmngz chi 語言上 uw 多義性. Lengwgoaw ambiguity qurhf uw 曖昧, 含糊 ew 意思, che siw ambiguity qahf polysemy siongw 大 ez 差別.
 
-譬喻 qong table chitf 字, iz ewdangy chi 桌仔, maw ewdangy chi 表格. Che siw table ew 多義性. Qurhf koanny book chitf 字, naw chury 名詞用 diurhhw siw 冊 ew 意思. Naw chury 動詞 diurhhw uw 預訂 ew 意思. Che siw book ew 多義性.
+譬喻 qong table chitf 字, iz ewdangy chi 桌仔, maw ewdangy chi 表格. Che siw table ew 多義性. Qurhf koanny book chitf 字, naw churhy 名詞用 diurhhw siw 冊 ew 意思. Naw churhy 動詞 diurhhw uw 預訂 ew 意思. Che siw book ew 多義性.
 
 下脚 siw 一 ez uw 曖昧性, uw ambiguity ew 文:
 
@@ -39,13 +39,13 @@ context.add([_pah, _six, 1])
 context.add([_qongw, _tuix, 1])
 ```
 
-頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laiz 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hoz 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laiz 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hoz 破. Sofi lan naw siw qaw che 幾若个單語 lienzqietf chury 下脚 che 二句話:
+頭一條規則 siw qong 拍 behf tehhw 匙 ew 頭一个定義 `def useKey end` laiz 用, diurhhw siw behf iongw 鎖匙 qaw 箱仔拍 hoz 開. 第二條規則 siw qong 摃 behf tehhw 槌 ew 頭一个定義 `def useHammer end` laiz 用, diruhhw siw behf iongw 摃槌仔 qaw 箱仔摃 hoz 破. Sofi lan naw siw qaw che 幾若个單語 lienzqietf churhy 下脚 che 二句話:
 
 ```
 Siz pah. Tuiz qongw.
 ```
 
-Inzuiw six, pah, tuix, qahf qongw che 四个單語 vieny chury che 四句話: `Siz`, `pah`, `Tuiz`, `qongw`, sofi che 四句 `Siz`, `pah`, `Tuiz`, qahf `qongw` diurhhw siw daiwviau `Siz pah.` qahf `Tuiz qongw.` che 二 ez 相嵌 ew 文:
+Inzuiw six, pah, tuix, qahf qongw che 四个單語 vieny churhy che 四句話: `Siz`, `pah`, `Tuiz`, `qongw`, sofi che 四句 `Siz`, `pah`, `Tuiz`, qahf `qongw` diurhhw siw daiwviau `Siz pah.` qahf `Tuiz qongw.` che 二 ez 相嵌 ew 文:
 
 ```ruby
 #

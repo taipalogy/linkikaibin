@@ -1,6 +1,6 @@
 # Duiy 英語日語韓語 Laiz 看
 
-Chitflez 方法 ewdangy engyiongw qauy 英文, 日文, qahf 韓文. Chitflez 方法 ewdangy iongw 各種無仝欵 ew 電腦語言 laiz 寫. Lan naw siw qaw 自然語言 dongy chury 原始語言, 程式語言 dongy chury 目標語言, anfne 目標語言 ew 選擇 siw chinz choez. 英語主要 siw iongw 屈折性 laiz 造語; 日本話, 韓國話主要 siw iongw 語形變化中 ew 語尾變化 laiz 造語; 台語 siw iongw 變調來造語.
+Chitflez 方法 ewdangy engyiongw qauy 英文, 日文, qahf 韓文. Chitflez 方法 ewdangy iongw 各種無仝欵 ew 電腦語言 laiz 寫. Lan naw siw qaw 自然語言 dongy churhy 原始語言, 程式語言 dongy churhy 目標語言, anfne 目標語言 ew 選擇 siw chinz choez. 英語主要 siw iongw 屈折性 laiz 造語; 日本話, 韓國話主要 siw iongw 語形變化中 ew 語尾變化 laiz 造語; 台語 siw iongw 變調來造語.
 
 Laiz koanny 下脚 ew 程式碼:
 
@@ -54,7 +54,7 @@ Chitflez 方法 ewdangy chofsengz 一个 ideogram 系列. 所謂 ez ideogram siw
 
 ## 表達式 qahf Match Data
 
-一个系列 diurhhw siw 一 ez 匹配 ew 序列, hekkwchiafsiw qong 一 ez how 表達式匹配 diurh ew 序列. 一个系列 diurhhw siw 一 ez duiy matcher 回傳 ez, ewdangy chury match data ew 表達式 node ew array. 紲 lurh-laih chitflez 系列 ewdangy iongw Edsger Dijkstra ew Shunting-yard algorithm laiz how parser shunt qurhf build chury 一个抽象構文樹:
+一个系列 diurhhw siw 一 ez 匹配 ew 序列, hekkwchiafsiw qong 一 ez how 表達式匹配 diurh ew 序列. 一个系列 diurhhw siw 一 ez duiy matcher 回傳 ez, ewdangy chury match data ew 表達式 node ew array. 紲 lurh-laih chitflez 系列 ewdangy iongw Edsger Dijkstra ew Shunting-yard algorithm laiz how parser shunt qurhf build churhy 一个抽象構文樹:
 
 * Che siw 一个表達, iaw diurhhw siw expression: `oew doawsoew`
 * Che siw 一个表達式, iaw diurhhw siw expression: `oez | doaw & soew`
@@ -76,14 +76,14 @@ Siongw 短 ew 組 diurhhw 是 siongw 短 ew 序列.
 * 字字
 * `組_`
 
-下脚 lan qaw 一个序列 au chury 四橛, anfne ewdangy koanny cutf 一組內底 uw 幾个字. 頭一組, 第二組, qahf 第三組 `組_` siw 一組二字. 第四組 `組__` siw 一組三字. 第五組 `組___` siw 一組四字. 所以下脚 ew 表格 siw long 總 uw 二十 ez 字:
+下脚 lan qaw 一个序列 au churhy 四橛, anfne ewdangy koanny cutf 一組內底 uw 幾个字. 頭一組, 第二組, qahf 第三組 `組_` siw 一組二字. 第四組 `組__` siw 一組三字. 第五組 `組___` siw 一組四字. 所以下脚 ew 表格 siw long 總 uw 二十 ez 字:
 
 * 字字字字字
 * 字`組_` `組_`
 * `組_` `組__`
 * `組___`字
 
-Lan qaw dengfqoanz 表格內底 ew 四橛 vaiz chury 一列, diurhhw cinzciunnw anfne:
+Lan qaw dengfqoanz 表格內底 ew 四橛 vaiz churhy 一列, diurhhw cinzciunnw anfne:
 
 * 字字字字字字`組_組_組_組__組___`字
 
@@ -91,7 +91,7 @@ Lan qaw dengfqoanz 表格內底 ew 四橛 vaiz chury 一列, diurhhw cinzciunnw 
 
 ## 一个漢字組 diurhhw siw 一 ez 牽長 ez 漢字
 
-一 ez diw 組內 ew 漢字, lan ewdangy qaz qiury chury hongz 組 e 漢字. Naw mw siw diw 組內 ew 漢字, ewdangy qaz qiury chury 無 hongz 組 ew 漢字. Diw 一个漢字組內, context 規則 ew 選擇 siw 雙向 ew. 選擇 siw ewdangy duiy 倒平 ew 漢字 qauy 正平 ew 漢字, hekkwchiafsiw duiy 正平 ew 漢字 qauy 倒平 ew 漢字. Ciauzoattw 一个漢字組邊界 ew 選擇 siw aiy hongx mask.
+一 ez diw 組內 ew 漢字, lan ewdangy qaz qiury churhy hongz 組 e 漢字. Naw mw siw diw 組內 ew 漢字, ewdangy qaz qiury churhy 無 hongz 組 ew 漢字. Diw 一个漢字組內, context 規則 ew 選擇 siw 雙向 ew. 選擇 siw ewdangy duiy 倒平 ew 漢字 qauy 正平 ew 漢字, hekkwchiafsiw duiy 正平 ew 漢字 qauy 倒平 ew 漢字. Ciauzoattw 一个漢字組邊界 ew 選擇 siw aiy hongx mask.
 
 Lan naw siw duiy 系列 ew 角度 laiz 看, 一組 diurhhw siw 一个牽長 ew 漢字. 一个系列 duiy iz ew 成員漢字 so 做 ew 操作 maw ewdangy engyiongw qauy iz ew 成員組.
 
@@ -101,7 +101,7 @@ Sofuiw 一組漢字 ew 組, siw chitflez 方法 so 用 ew 單位. 組 qahf 句�
 
 ## 組 ew 連貫性
 
-Boewdangy sietfdengw ciauzqoey 漢字組邊界 ew 選用規則. 台語 siw liwiongw 聲調 laiz kakfjinw 一个漢字 siw 漢字組 ew 成員. 組內所有 ew 成員 hengzseng 一 ez 連貫 ew 整體. Qozchittwliw 漢字本身 diurhhw siw 連貫 ew. Qaw 一个漢字組 dongy chury 一个整體 laiz 並列組合 hekkwchiafsiw 嵌入組合. 漢字組 ew 組 diurhw siw group. Ahf 嵌入 qahf 並列 siw 組合, diurhhw siw combination.
+Boewdangy sietfdengw ciauzqoey 漢字組邊界 ew 選用規則. 台語 siw liwiongw 聲調 laiz kakfjinw 一个漢字 siw 漢字組 ew 成員. 組內所有 ew 成員 hengzseng 一 ez 連貫 ew 整體. Qozchittwliw 漢字本身 diurhhw siw 連貫 ew. Qaw 一个漢字組 dongy churhy 一个整體 laiz 並列組合 hekkwchiafsiw 嵌入組合. 漢字組 ew 組 diurhw siw group. Ahf 嵌入 qahf 並列 siw 組合, diurhhw siw combination.
 
 韓語 qahf 日語有相 siangx ez 機制. 韓語 qahf 日語 siw liwiongw 語尾變化 laiz kakfjinw 一个漢字 siw 漢字組 ew 成員. Qahf 台語仝欵, 組內所有 ez 成員 hengzsengz 一 ez 連貫 ew 整體.
 

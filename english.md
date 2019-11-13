@@ -2,7 +2,7 @@
 
 ## 英語語形變化組成
 
-Diw 下脚 ew 表格內底, lan qaw 語幹 `big` kngy diw slot 0. 了後 lan ewdangy qaw 語幹 `big` qahf 接尾語 `-er` 接 kihhwlaih vieny chury `bigger`, kngy diw slot 1. 紲 lurhhwlaih qaw `big` qahf `-est`, `-ish`, `-ness` 接 kihhwlaih, kngy diw 其他 ew slot 內底. 大 jih 表格 ewdangy qaz populate chury anfne:
+Diw 下脚 ew 表格內底, lan qaw 語幹 `big` kngy diw slot 0. 了後 lan ewdangy qaw 語幹 `big` qahf 接尾語 `-er` 接 kihhwlaih vieny churhy `bigger`, kngy diw slot 1. 紲 lurhhwlaih qaw `big` qahf `-est`, `-ish`, `-ness` 接 kihhwlaih, kngy diw 其他 ew slot 內底. 大 jih 表格 ewdangy qaz populate churhy anfne:
 
 | | 大 |
 | :--- | :--- |
