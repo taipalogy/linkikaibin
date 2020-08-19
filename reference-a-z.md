@@ -51,7 +51,7 @@
 * Ruby Syntax: [http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html](http://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html)
 * statements (D): [https://dlang.org/spec/statement.html](https://dlang.org/spec/statement.html)
 
-### 文合集 bunzhahhwchipp
+### 文合集 bunzhahwchipp
 
 * collection of statements
 
@@ -273,13 +273,13 @@
 * 無匹配 ew
 * 序列成員
 
-### 合字 happwjiz
+### 合字 hapwjiz
 
 * [https://en.wikipedia.org/wiki/Typographic\_ligature](https://en.wikipedia.org/wiki/Typographic_ligature)
 * [https://ja.wikipedia.org/wiki/合字](https://ja.wikipedia.org/wiki/合字)
 * [https://ko.wikipedia.org/wiki/합자](https://ko.wikipedia.org/wiki/합자)
 
-### 合集 hahhwchipp
+### 合集 hahwchipp
 
 * collection
 
@@ -417,7 +417,7 @@
 * [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)
 * [https://ja.wikipedia.org/wiki/語彙意味論](https://ja.wikipedia.org/wiki/語彙意味論)
 
-### 列舉 liettwqiy/liettwquy
+### 列舉 lietwqiy/lietwquy
 
 * enumeration
 * 算 siauw.
@@ -459,11 +459,11 @@
 * 已匹配
 * 匹配 eff, 無匹配 eff
 
-### 物件 mihhwqiannz/mnghhwqiannz/bukkwqiannz
+### 物件 mihwqiannz/mnghwqiannz/bukwqiannz
 
 * object
 
-### 物件朝向 mihhwqiannz diauzhiongw/mnghhwqiannz diauzhiongw/bukkwqiannz diauzhiongw
+### 物件朝向 mihwqiannz diauzhiongw/mnghwqiannz diauzhiongw/bukwqiannz diauzhiongw
 
 * object-orientation. [https://en.wikipedia.org/wiki/Object-orientation](https://en.wikipedia.org/wiki/Object-orientation)
 * object-oriented programming. [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -785,7 +785,7 @@
 * [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
 * [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
 
-### 目的語 bokkwdekkwgiy
+### 目的語 bokwdekwgiy
 
 * https://en.wikipedia.org/wiki/Object_(grammar)
 * [https://ja.wikipedia.org/wiki/目的語](https://ja.wikipedia.org/wiki/目的語)
@@ -857,7 +857,7 @@
 
 * group member
 
-### 組成一組 chofsengz chittwcho
+### 組成一組 chofsengz chitwcho
 
 * compose a group
 
