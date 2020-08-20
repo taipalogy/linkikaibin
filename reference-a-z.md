@@ -62,6 +62,19 @@
 * grammar: 文法；文法学［研究, 論］；（個人の）文法的知識, 語法, 言葉づかい. [https://kotobank.jp/ejword/grammar](https://kotobank.jp/ejword/grammar)
 * D Grammar: [https://dlang.org/spec/grammar.html](https://dlang.org/spec/grammar.html)
 
+### 物 butt
+
+* entity. thing. _Embree_
+* thing. _Maryknoll_
+
+### 物件取向 butwqiannz cufhiongw
+
+* object-orientation. [https://en.wikipedia.org/wiki/Object-orientation](https://en.wikipedia.org/wiki/Object-orientation)
+* object-oriented programming. [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* オブジェクト指向. [https://ja.wikipedia.org/wiki/オブジェクト指向](https://ja.wikipedia.org/wiki/オブジェクト指向)
+* オブジェクト指向プログラミング. [https://ja.wikipedia.org/wiki/オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/オブジェクト指向プログラミング)
+* 객체 지향 프로그래밍. [https://ko.wikipedia.org/wiki/객체_지향_프로그래밍](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍)
+
 ### character
 
 * 文字
@@ -459,17 +472,14 @@
 * 已匹配
 * 匹配 eff, 無匹配 eff
 
-### 物件 mihwqiannz/mnghwqiannz/bukwqiannz
+### 物 mihh/mnghh
 
-* object
+* thing. article. object. _Maryknoll_
 
-### 物件朝向 mihwqiannz diauzhiongw/mnghwqiannz diauzhiongw/bukwqiannz diauzhiongw
+### 物件 mihwqiannz/mnghwqiannz
 
-* object-orientation. [https://en.wikipedia.org/wiki/Object-orientation](https://en.wikipedia.org/wiki/Object-orientation)
-* object-oriented programming. [https://en.wikipedia.org/wiki/Object-oriented\_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* オブジェクト指向. [https://ja.wikipedia.org/wiki/オブジェクト指向](https://ja.wikipedia.org/wiki/オブジェクト指向)
-* オブジェクト指向プログラミング. [https://ja.wikipedia.org/wiki/オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/オブジェクト指向プログラミング)
-* 객체 지향 프로그래밍. [https://ko.wikipedia.org/wiki/객체_지향_프로그래밍](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍)
+* thing. object. goods. stuff. _Embree_
+* thing. article. _Maryknoll_
 
 ### morphology
 

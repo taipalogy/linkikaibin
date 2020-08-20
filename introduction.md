@@ -16,7 +16,7 @@ Suizjienz qong uw 自然語言 qahf 電腦語言 chitf 種 ew 區別存在, danw
 
 ## 台語文 qahf 電腦語言
 
-電腦語言 siw uw 百百種, dakwchiong 電腦語言 long uw 伊 qazqiz ew 特性. uw siongw 低階 kahf oa 機器 ew assembly 語言, maw uw siongw 高階 kahf oa 程式員 ew 物件朝向語言, simwchiy siw oanzchoanz iong 英文寫作 ew, iongw laiz congychokf 互動式小說 ew 語言. 其他 e qurhf uw dietwvietw sekfhapw chury 數學運算 ew 語言, choanzmngz iongw laiz chury data mining ew 語言等等, 出頭真 choez.
+電腦語言 siw uw 百百種, dakwchiong 電腦語言 long uw 伊 qazqiz ew 特性. uw siongw 低階 kahf oa 機器 ew assembly 語言, maw uw siongw 高階 kahf oa 程式員 ew 物件取向語言, simwchiy siw oanzchoanz iong 英文寫作 ew, iongw laiz congychokf 互動式小說 ew 語言. 其他 e qurhf uw dietwvietw sekfhapw chury 數學運算 ew 語言, choanzmngz iongw laiz chury data mining ew 語言等等, 出頭真 choez.
 
 Daiwvowhunw 電腦語言 ew 設計者 diw 設計 ew 時拵 diurhw ifqengz 大概 chaiziann iz so behf 解決 ew 問題 siw siannw, maw 大概 chaiziann iz 設計 ew 方向 aiy duiy durhf 位去. Sofi chiahh ewdangy diw 設計 ew 時拵 diurhw qaw che 語言 so 需要 ew 元素, keyword, 構文, 語義 long sietfqey 好勢.
 

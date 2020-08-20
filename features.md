@@ -2,7 +2,7 @@
 
 ## Mw Siw 多型
 
-多型 ew 英文 siw polymorphism. Polymorphism siw 物件朝向 ew 三大特性之一. 物件朝向 diurhw siw object-oriented ew 台語翻譯. Maw ewdangy hoanz churhy 物件中心, 物件為主, simwchiy siw hoanz churhy 物件取向. 多型 ewdangy qaw 衍生類別 ew 物件傳送 how 一 ez chiapfsiuw 基本類別 reference ew 多型函數. 物件朝向 ew is-a hekwchiafsiw kind-of 關係 siw duiy 類別 ew 繼承 ditfdiurhw 保證. Sofi lan qong 衍生類別 ewdangy teyoannw 基本類別.
+多型 ew 英文 siw polymorphism. Polymorphism siw 物件取向 ew 三大特性之一. 物件取向 diurhw siw object-oriented ew 台語翻譯. Iz ew 意思 siw chiapfqinw 物件中心, i 物件 uiz 主, danwsiw iuwqurhf burz 仝. 多型 ewdangy qaw 衍生類別 ew 物件傳送 how 一 ez chiapfsiuw 基本類別 reference ew 多型函數. 物件取向 ew is-a hekwchiafsiw kind-of 關係 siw duiy 類別 ew 繼承 ditfdiurhw 保證. Sofi lan qong 衍生類別 ewdangy teyoannw 基本類別.
 
 台語文程式設計 ew 方法 qahf 多型 vengw burz 關係. Chitflez 方法 dongzjienz siw ewdangy sia 多型 ew 程式碼, danwsiw iz vengw burz kanzsiapf diurhw dynamic binding. Dngz le 寫程式 ew 時拵, maw siw lehf sia 自然語言 ew 文句, che 二 hangw daiwchiw siw 並行 ez. Lan maw ewdangy iongw is-a hekwchiafsiw kind-of laiz hengziongz 一个多義語 qahf iz 逐个意義之間 ew 關係. Danwsiw chitfchiong is-a hekwchiafsiw kind-of 關係 siw duiy polysemy hekwchiafsiw monosemy ditt diurhw , vengw mw siw duiy inheritance 得 diurh ew.
 
@@ -249,9 +249,9 @@ Tehw function-block laiz chury 例, function ew 名 qahf iz ez return type siw q
 
 Chitflez 方法 mw siw 一 ez 新 ez programming paradigm. Diurhw siw qong, 一 ez 寫程式 ew method mw siw 一个 paradigm. Chitflez 方法 maw ewdangy engyiongw qauy jimwhurz 新發明 ez paradigm.
 
-### 物件朝向
+### 物件取向
 
-Che siw 物件朝向 paradigm ew 表格:
+Che siw 物件取向 paradigm ew 表格:
 
 | | 設 | |
 | :--- | :--- | :--- |
@@ -264,7 +264,7 @@ Che siw 物件朝向 paradigm ew 表格:
 | 1 | inw | prnObj.printToPdf\(\); |
 | 2 | | prnObj.printToPaper\(\); |
 
-Che siw `siet dizinw` ew 物件朝向 code snippet:
+Che siw `siet dizinw` ew 物件取向 code snippet:
 
 ```cpp
 //
