@@ -1,57 +1,57 @@
 # Iongw 台語文 Sia 程式 ew 方法
 
-電腦語言 ew 分類方式 uw chinz chew 欵, uw iongw 世代 laiz 分 e, uw iongw paradigm laiz 分 e, uw iongw qoanzqez laiz 分 e, qahf 其他 qokfchiong 分類. Sofuiw ew 程式語言, siw 電腦語言 ew 其中一種. Diw chia so qongy ew iongw 台語文 sia 程式 vengw burz qiokwhanw diw 程式語言內底. Inzuiw 所有 ew 電腦語言, vauzkoatf 程式語言, script 語言, markup 語言等等, long uw 一 ez 共同 ez 特性, 一 ez 共同抽象化 ew 方式. Chitf ez 共同抽象化 ew 方式 dufoafhury ewdangy camz 台語 ew 造語機制結合. Sofi 下脚 ew qi chitwqoa 無仝欵 ew 電腦語言 laiz chury 例, laiz koanny inz uw siannfmihf 共同 ew 特性.
+電腦語言 ew 分類方式 uw chinz chew 欵, uw iongw 世代 laiz 分 e, uw iongw paradigm laiz 分 e, uw iongw koanzkez laiz 分 e, kahf 其他 kokfchiong 分類. Sofuiw ew 程式語言, siw 電腦語言 ew 其中一種. Tiw chia so kongy ew iongw 台語文 sia 程式 pengw burz kiokwhanw tiw 程式語言內底. Inzuiw 所有 ew 電腦語言, pauzkhoatf 程式語言, script 語言, markup 語言等等, long uw 一 ez 共同 ez 特性, 一 ez 共同抽象化 ew 方式. Chitf ez 共同抽象化 ew 方式 tufoafhury ewtangy camz 台語 ew 造語機制結合. Sofi 下脚 ew ki chitwkoa 無仝欵 ew 電腦語言 laiz chury 例, laiz khoanny inz uw siannfmihf 共同 ew 特性.
 
-Diw 語言學內底 uw sofuiw ew 同形異音語, 英語 hurw churhy heteronym. Vi 同形異音語 qurhf kahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 qongy, 英語 bow naw takw churhy `/boʊ/` diurhw siw chi `弓`, naw takw churhy `/baʊ/` siw chi `船頭`. 仝一 ez bow uw 二 ez 無仝欵 ew 發音, 二 ez 無仝欵 ew 發音 qurhf viaufsiw 二 ez 無仝欵 ew 意思:
+Tiw 語言學內底 uw sofuiw ew 同形異音語, 英語 hurw churhy heteronym. Pi 同形異音語 kurhf khahf 幼路 ew 分類 siw 同形異音異義語. 譬喻 kongy, 英語 bow naw thakw churhy `/boʊ/` tiurhw siw chi `弓`, naw thakw churhy `/baʊ/` siw chi `船頭`. 仝一 ez bow uw 二 ez 無仝欵 ew 發音, 二 ez 無仝欵 ew 發音 kurhf piaufsiw 二 ez 無仝欵 ew 意思:
 
 | | bow | |
 | :--- | :--- | :--- |
 | 1 | /boʊ/ | 弓 |
 | 2 | /baʊ/ | 船頭, 鞠躬 |
 
-英語內底 ew 同形異音異義語 qurhf 有 lead 若讀做`/liːd/`siw`引𤆬` ew 意思, naw takw churhy`/lɛd/`siw chi`鉛`; Row 若讀做`/roʊ/`qahf 讀做`/raʊ/`maw 是無仝欵 ew 意思.
+英語內底 ew 同形異音異義語 kurhf 有 lead 若讀做`/liːd/`siw`引𤆬` ew 意思, naw thakw churhy`/lɛd/`siw chi`鉛`; Row 若讀做`/roʊ/`kahf 讀做`/raʊ/`maw 是無仝欵 ew 意思.
 
-台語 qanwkoan maw uw 同形異音語, 譬喻 qong 加 naw siw takw churhy `qa`, diurhw siw `時間增加` ew 加, chitf 句 qa diw 英語內底 ew 意思 siw `increase`. 加 naw takw churhy `qe`, diurhw siw `加一點鐘` ew qe, chitf 句 qe diw 英語內底 ew 意思是 `add`:
+台語 kanwkhoan maw uw 同形異音語, 譬喻 kong 加 naw siw thakw churhy `ka`, tiurhw siw `時間增加` ew 加, chitf 句 ka tiw 英語內底 ew 意思 siw `increase`. 加 naw thakw churhy `ke`, tiurhw siw `加一點鐘` ew ke, chitf 句 ke tiw 英語內底 ew 意思是 `add`:
 
 | | 加 | |
 | :--- | :--- | :--- |
-| 1 | qa | increase |
-| 2 | qe | add |
+| 1 | ka | increase |
+| 2 | ke | add |
 
-Diw chia aiy dietwvietw 注意 ew siw, qa mw siw kienyvaiy long hoanzekw churhy increase, qe maw mw siw engfoan long hoanzekw churhy add. 翻譯 siw lengwgoaw 一門學問, mw siw chitf vun 冊 ew 主題. 我 diw dengfqoanz 表格內底 so 舉 ew 例, diurhw siw hanwdengw diw 時間增加 qahf 加一點鐘 chitf 二句內底 chiahf 成立. 時間增加 qahf 加一點鐘 diurhw siw siw goa behf 使用 ew context.
+Tiw chia aiy tietwpietw 注意 ew siw, ka mw siw khienypaiy long hoanzekw churhy increase, ke maw mw siw engfoan long hoanzekw churhy add. 翻譯 siw lengwgoaw 一門學問, mw siw chitf pun 冊 ew 主題. 我 tiw tengfkoanz 表格內底 so 舉 ew 例, tiurhw siw hanwtengw tiw 時間增加 kahf 加一點鐘 chitf 二句內底 chiahf 成立. 時間增加 kahf 加一點鐘 tiurhw siw siw goa behf 使用 ew context.
 
-Ciunnw bow chitf 字 uw 二个意思 - 一个 siw 弓, 一个 siw 船頭, diurhw siw uw 二个定義, diurhw siw uw 二 ez definition. Diurhw cinzciunnw 一 lipw soanw 石 ew 二 ez facet ew 意思仝欵.
+Ciunnw bow chitf 字 uw 二个意思 - 一个 siw 弓, 一个 siw 船頭, tiurhw siw uw 二个定義, tiurhw siw uw 二 ez definition. Tiurhw cinzciunnw 一 lipw soanw 石 ew 二 ez facet ew 意思仝欵.
 
-Naw anfne lan qaw 程式語言內底 ew 文 dongy churhy siw 加 ew 一个定義, `increase()` chitf ez 文 diurhw ewdangy kngy jipwki 表格內底頭一行, qahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewdangy kngy jipwki 表格內底第二行 chury 加 ew 第二个定義:
+Naw anfne lan kaw 程式語言內底 ew 文 tongy churhy siw 加 ew 一个定義, `increase()` chitf ez 文 tiurhw ewtangy khngy jipwkhi 表格內底頭一行, kahf `increase` 仝欵做加 ew 一个定義. `add()` maw siw ewtangy khngy jipwkhi 表格內底第二行 chury 加 ew 第二个定義:
 
 | | 加 | | |
 | :--- | :--- | :--- | :--- |
-| 1 | qa | increase | def increase end |
-| 2 | qe | add | add |
+| 1 | ka | increase | def increase end |
+| 2 | ke | add | add |
 
-Lan naw siw qurhf qaw 文 hunz churhy function-block qahf function-call che 二種 laiz 看, `increase();` diurhw siw function-call, `increase(){}` diurhw siw function-block:
+Lan naw siw kurhf kaw 文 hunz churhy function-block kahf function-call che 二種 laiz 看, `increase();` tiurhw siw function-call, `increase(){}` tiurhw siw function-block:
 
 | | 加 | |
 | :--- | :--- | :--- |
-| 1 | qa | increase |
+| 1 | ka | increase |
 | 2 | | def increase end |
 
 ## 有用台語文寫程式
 
-Lan qurhf laiz koanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意思, lan tehw 告示 ew 示 chitf 字 laiz 用. Ahf print siw 印 ew 意思. Lan qaw `def notify end` 文 sietfdengw churhy 示 ew 頭一个定義:
+Lan kurhf laiz khoanny 下脚 ew 表格. 單語 notify siw 告示, 通知 ew 意思, lan thehw 告示 ew 示 chitf 字 laiz 用. Ahf print siw 印 ew 意思. Lan kaw `def notify end` 文 sietftengw churhy 示 ew 頭一个定義:
 
 | | 示 | |
 | :--- | :--- | :--- |
 | 1 | siz | def notify end |
 
-Qaw `printToPdf` 文 sietfdengw churhy 印 ew 頭一个定義, `printToPaper` sietfdengw churhy 第二个定義. Sofi 印 uw 二个定義:
+Kaw `printToPdf` 文 sietftengw churhy 印 ew 頭一个定義, `printToPaper` sietftengw churhy 第二个定義. Sofi 印 uw 二个定義:
 
 | | 印 | |
 | :--- | :--- | :--- |
 | 1 | inw | printToPdf |
 | 2 | | printToPaper |
 
-紲 lurhwlaih lan ewdangy qaw 示 camz 印 dauhy churhy 一字, diurhw siw `siwinw`:
+紲 lurhwlaih lan ewtangy kaw 示 camz 印 tauhy churhy 一字, tiurhw siw `siwinw`:
 
 ```ruby
 #
@@ -62,15 +62,15 @@ def notify
 end
 ```
 
-為啥乜 `def notify end` siw qaw 印 ew 頭一个定義 `printToPdf` 嵌 lipwkih, mw siw qaw 第二个 neh? Inzuiw lan ewdangy diw context 內底設定 behf cufiongw durhf 一个定義 laiz how `def notify end` 嵌 leh:
+為啥乜 `def notify end` siw kaw 印 ew 頭一个定義 `printToPdf` 嵌 lipwkhih, mw siw kaw 第二个 neh? Inzuiw lan ewtangy tiw context 內底設定 behf cufiongw turhf 一个定義 laiz how `def notify end` 嵌 leh:
 
 ```ruby
 context.add([_si, _in, 1])
 ```
 
-Dengfqoanx ez 函數 viaufsiw 示 behf tehw 印 ew 頭一个定義 laiz qaz 嵌 leh. `context.add` viaufsiw diw context 內底 chengzqaz 一項, hekwchiafsiw chengzqaz 一 hangw 選用規則 ew 意思.
+Tengfkoanx ez 函數 piaufsiw 示 behf thehw 印 ew 頭一个定義 laiz kaz 嵌 leh. `context.add` piaufsiw tiw context 內底 chengzkaz 一項, hekwchiafsiw chengzkaz 一 hangw 選用規則 ew 意思.
 
-為啥乜 `def notify end` ewdangy qaw `printToPdf` 嵌 lipwkih? Inzuiw 示印 naw sia churhy `siwinw`, viaufsiw siz qahf inw siw iongw 變調造語 lienzqietf churhy 一个單語. 示印 naw sia churhy `siz inw`, viaufsiw siz qahf inw siw 二 ez 分別 ew 單語. Sofi sia churhy `siz inw` ew 示印, viaufsiw `def notify end` qahf `printToPdf` siw 並列 ew 關係:
+為啥乜 `def notify end` ewtangy kaw `printToPdf` 嵌 lipwkhih? Inzuiw 示印 naw sia churhy `siwinw`, piaufsiw siz kahf inw siw iongw 變調造語 lienzkietf churhy 一个單語. 示印 naw sia churhy `siz inw`, piaufsiw siz kahf inw siw 二 ez 分別 ew 單語. Sofi sia churhy `siz inw` ew 示印, piaufsiw `def notify end` kahf `printToPdf` siw 並列 ew 關係:
 
 ```ruby
 #
@@ -82,4 +82,4 @@ end
 printToPdf
 ```
 
-Diw 台語文程式設計內底, jimwhurz 二个文 ew 組合 naw mw siw 嵌入 diurhw siw 並列.
+Tiw 台語文程式設計內底, jimwhurz 二个文 ew 組合 naw mw siw 嵌入 tiurhw siw 並列.

@@ -1,8 +1,8 @@
-# Duiy 英語 Laiz 看
+# Tuiy 英語 Laiz 看
 
 ## 英語語形變化組成
 
-Diw 下脚 ew 表格內底, lan qaw 語幹 `big` kngy diw slot 0. 了後 lan ewdangy qaw 語幹 `big` qahf 接尾語 `-er` 接 kih laih vieny churhy `bigger`, kngy diw slot 1. 紲 lurhwlaih qaw `big` qahf `-est`, `-ish`, `-ness` 接 kih laih, kngy diw 其他 ew slot 內底. 大 jih 表格 ewdangy qaz populate churhy anfne:
+Tiw 下脚 ew 表格內底, lan kaw 語幹 `big` khngy tiw slot 0. 了後 lan ewtangy kaw 語幹 `big` kahf 接尾語 `-er` 接 khih laih pieny churhy `bigger`, khngy tiw slot 1. 紲 lurhwlaih kaw `big` kahf `-est`, `-ish`, `-ness` 接 khih laih, khngy tiw 其他 ew slot 內底. 大 jih 表格 ewtangy kaz populate churhy anfne:
 
 | | 大 |
 | :--- | :--- |
@@ -12,7 +12,7 @@ Diw 下脚 ew 表格內底, lan qaw 語幹 `big` kngy diw slot 0. 了後 lan ewd
 | slot 3 | biggish |
 | slot 4 | bigness |
 
-Lan ewdangy iongw 表達 `big`, `bigger`, qahf `biggest` pitfpoey 序列 `大`, ciunnw anfne:
+Lan ewtangy iongw 表達 `big`, `bigger`, kahf `biggest` phitfphoey 序列 `大`, ciunnw anfne:
 
 ```ruby
 Matcher.new("big").match([_big])
@@ -20,7 +20,7 @@ Matcher.new("bigger").match([_big])
 Matcher.new("biggest").match([_big])
 ```
 
-Lan maw ewdangy iongw `small`, `smaller`, qahf `smallest` laiz populate 細 jih 表格:
+Lan maw ewtangy iongw `small`, `smaller`, kahf `smallest` laiz populate 細 jih 表格:
 
 | | 細 |
 | :--- | :--- |
@@ -30,7 +30,7 @@ Lan maw ewdangy iongw `small`, `smaller`, qahf `smallest` laiz populate 細 jih 
 | slot 3 | smallish |
 | slot 4 | smallness |
 
-Lan ewdangy iongw 表達 `small`, `smaller`, qahf `smallest` pitfpoey 序列 `細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `small`, `smaller`, kahf `smallest` phitfphoey 序列 `細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("small").match([_small])
@@ -38,7 +38,7 @@ Matcher.new("smaller").match([_small])
 Matcher.new("smallest").match([_small])
 ```
 
-Chimfmay lan ewdangy iongw `big` qahf `small` laiz 製組:
+Chimfmay lan ewtangy iongw `big` kahf `small` laiz 製組:
 
 | | 大 | 細 |
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ Chimfmay lan ewdangy iongw `big` qahf `small` laiz 製組:
 | slot 3 | biggish | smallist |
 | slot 4 | bigness | smallness |
 
-Lan ewdangy iongw 表達 `bigger small` pitfpoey 序列 `大細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `bigger small` phitfphoey 序列 `大細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("bigger & small").match([_big, _small])
@@ -62,7 +62,7 @@ Matcher.new("bigger & small").match([_big, _small])
 | slot 3 | smallish | biggish |
 | slot 4 | smallness | bigness |
 
-Lan ewdangy iongw 表達 `smaller big` pitfpoey 序列 `細大`, ciunnw anfne:
+Lan ewtangy iongw 表達 `smaller big` phitfphoey 序列 `細大`, ciunnw anfne:
 
 ```ruby
 Matcher.new("smaller & big").match([_small, _big])
@@ -76,10 +76,10 @@ Matcher.new("smaller & big").match([_small, _big])
 | slot 3 | drawn | biggish | smallish |
 | slot 4 | drawing | bigness | smallness |
 
-Lan ewdangy iongw 表達 `draws | bigger & small` pitfpoey 序列 `畫大細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `draws | bigger & small` phitfphoey 序列 `畫大細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("draws | bigger & small").match([_draw, _big, _small])
 ```
 
-英語 uw qazqiz 固有 ew 製組機制. Lan ewdangy iongw 英語 validator laiz validate 漢字組.
+英語 uw kazkiz 固有 ew 製組機制. Lan ewtangy iongw 英語 validator laiz validate 漢字組.
