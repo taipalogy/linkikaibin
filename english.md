@@ -12,7 +12,7 @@ Tiw 下脚 ew 表格內底, lan kaw 語幹 `big` khngy tiw slot 0. 了後 lan ew
 | slot 3 | biggish |
 | slot 4 | bigness |
 
-Lan ewtangy iongw 表達 `big`, `bigger`, kahf `biggest` phitfphoey 序列 `大`, ciunnw anfne:
+Lan ewtangy iongw 表達 `big`, `bigger`, kahf `biggest` phitfphuey 序列 `大`, ciunnw anfne:
 
 ```ruby
 Matcher.new("big").match([_big])
@@ -30,7 +30,7 @@ Lan maw ewtangy iongw `small`, `smaller`, kahf `smallest` laiz populate 細 jih 
 | slot 3 | smallish |
 | slot 4 | smallness |
 
-Lan ewtangy iongw 表達 `small`, `smaller`, kahf `smallest` phitfphoey 序列 `細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `small`, `smaller`, kahf `smallest` phitfphuey 序列 `細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("small").match([_small])
@@ -48,7 +48,7 @@ Chimfmay lan ewtangy iongw `big` kahf `small` laiz 製組:
 | slot 3 | biggish | smallist |
 | slot 4 | bigness | smallness |
 
-Lan ewtangy iongw 表達 `bigger small` phitfphoey 序列 `大細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `bigger small` phitfphuey 序列 `大細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("bigger & small").match([_big, _small])
@@ -62,7 +62,7 @@ Matcher.new("bigger & small").match([_big, _small])
 | slot 3 | smallish | biggish |
 | slot 4 | smallness | bigness |
 
-Lan ewtangy iongw 表達 `smaller big` phitfphoey 序列 `細大`, ciunnw anfne:
+Lan ewtangy iongw 表達 `smaller big` phitfphuey 序列 `細大`, ciunnw anfne:
 
 ```ruby
 Matcher.new("smaller & big").match([_small, _big])
@@ -76,7 +76,7 @@ Matcher.new("smaller & big").match([_small, _big])
 | slot 3 | drawn | biggish | smallish |
 | slot 4 | drawing | bigness | smallness |
 
-Lan ewtangy iongw 表達 `draws | bigger & small` phitfphoey 序列 `畫大細`, ciunnw anfne:
+Lan ewtangy iongw 表達 `draws | bigger & small` phitfphuey 序列 `畫大細`, ciunnw anfne:
 
 ```ruby
 Matcher.new("draws | bigger & small").match([_draw, _big, _small])

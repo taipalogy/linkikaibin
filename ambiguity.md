@@ -1,14 +1,14 @@
 # 多義性
 
-多義性 ew 英文 siw ambiguity. Lengwgoaw uw 一个單語 hurw churhy polysemy siw choanzmngz chi 語言上 uw 多義性. Lengwgoaw ambiguity kurhf uw 曖昧, 含糊 ew 意思, che siw ambiguity kahf polysemy siongw 大 ez 差別.
+多義性 ew 英文 siw ambiguity. Lingwguaw uw 一个單語 hurw churhy polysemy siw chuanzmngz chi 語言上 uw 多義性. Lingwguaw ambiguity kurhf uw 曖昧, 含糊 ew 意思, che siw ambiguity kahf polysemy siongw 大 ez 差別.
 
-譬喻 kong table chitf 字, iz ewtangy chi 桌仔, maw ewtangy chi 表格. Che siw table ew 多義性. Kurhf khoanny book chitf 字, naw churhy 名詞用 tiurhw siw 冊 ew 意思. Naw churhy 動詞 tiurhw uw 預訂 ew 意思. Che siw book ew 多義性.
+譬喻 kong table chitf 字, iz ewtangy chi 桌仔, maw ewtangy chi 表格. Che siw table ew 多義性. Kurhf khuanny book chitf 字, naw churhy 名詞用 tiurhw siw 冊 ew 意思. Naw churhy 動詞 tiurhw uw 預訂 ew 意思. Che siw book ew 多義性.
 
 下脚 siw 一 ez uw 曖昧性, uw ambiguity ew 文:
 
 `Open the chest with a key or a hammer.`
 
-Chitf 句話 ew 意思 siw iongw 鎖匙 hekwchiafsiw 摃槌仔 kaw 箱仔拍 hoz 開. Sofi kaw 箱仔拍開 uw 二種方法, 一種 siw iongw 鎖匙 kaw 鎖拍開, lengwgoaw 一種 siw iongw 摃槌仔 kaz 摃 hoz 破. 下脚 siw 單語 kahf 文 ew 對應:
+Chitf 句話 ew 意思 siw iongw 鎖匙 hekwchiafsiw 摃槌仔 kaw 箱仔拍 hoz 開. Sofi kaw 箱仔拍開 uw 二種方法, 一種 siw iongw 鎖匙 kaw 鎖拍開, lingwguaw 一種 siw iongw 摃槌仔 kaz 摃 hoz 破. 下脚 siw 單語 kahf 文 ew 對應:
 
 | 單語 | 意思 | 文 |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ Chitf 句話 ew 意思 siw iongw 鎖匙 hekwchiafsiw 摃槌仔 kaw 箱仔拍 hoz
 | unlock | unlock it | unlockIt |
 | break | break it into pieces | breakIt |
 
-Tuiy tengfkoanx ez 表格 ewtangy 看 cut laih, 單語 open uw 二 ez 隱含 ew 意思, 一个 siw unlock, lengwgoaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Che 二 ez 隱含 ew 意思 tiurhw siw chitflez 文 ew 曖昧性.
+Tuiy tingfkuanx ez 表格 ewtangy 看 cut laih, 單語 open uw 二 ez 隱含 ew 意思, 一个 siw unlock, lingwguaw 一个 siw break. Naw behf unlock siw aiy iongw 鎖匙, naw behf break siw aiy iongw 摃槌仔. Che 二 ez 隱含 ew 意思 tiurhw siw chitflez 文 ew 曖昧性.
 
 Chimfmay tiw che 表格每一行頭前 kez 二欄 thienzsia 對應 ew 台語:
 

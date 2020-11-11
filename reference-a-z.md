@@ -2,8 +2,8 @@
 
 ### abstract
 
-* dekfiauw. _Maryknoll_
-* choatfiauw. _Embree_
+* tekfiauw. _Maryknoll_
+* chuatfiauw. _Embree_
 
 ### array
 
@@ -55,7 +55,7 @@
 
 * collection of statements
 
-### 文法 bunzhoat
+### 文法 bunzhuat
 
 * grammar. _A Chinese-English Dictionary Taiwan Dialect_
 * grammar: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology \(including inflections\) and sometimes also phonology and semantics. [http://www.oxforddictionaries.com/definition/english/grammar](http://www.oxforddictionaries.com/definition/english/grammar)
@@ -156,19 +156,19 @@
 
 * long word
 
-### 同形異音語 tongzhengx iwimzgiy
+### 同形異音語 tongzhingx iwimzgiy
 
 * heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
 * heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
 * 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
 * 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
 
-### 斷 toanz/toanw
+### 斷 tuanz/tuanw
 
-* doanz: 斷する. きめる
-* doanw: 絕つ
+* tuanz: 斷する. きめる
+* tuanw: 絕つ
 
-### 多義性 turzgiwsengw
+### 多義性 turzgiwsingw
 
 * 曖昧
 * ambiguity. [https://kotobank.jp/ejword/ambiguity](https://kotobank.jp/ejword/ambiguity)
@@ -182,7 +182,7 @@
 * 多義語. [https://ko.wikipedia.org/wiki/다의어](https://ko.wikipedia.org/wiki/다의어)
 * polysemy. [https://en.wikipedia.org/wiki/Polysemy](https://en.wikipedia.org/wiki/Polysemy)
 
-### 斷語 toanwgiy/toanygiy
+### 斷語 tuanwgiy/tuanygiy
 
 * [http://ejje.weblio.jp/content/日本語単語分割](http://ejje.weblio.jp/content/日本語単語分割)
 * [http://ejje.weblio.jp/content/単語の分割点](http://ejje.weblio.jp/content/単語の分割点)
@@ -216,9 +216,9 @@
 * [http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word](http://dic.daum.net/word/view.do?wordid=ekw000187384&q=word)
 * [http://www.oxforddictionaries.com/definition/english/word](http://www.oxforddictionaries.com/definition/english/word)
 
-### 語法 gifhoat
+### 語法 gifhuat
 
-### 語形變化 gifhengx pienyhoaw
+### 語形變化 gifhingx pienyhuaw
 
 * 語形変化: [https://ja.wikipedia.org/wiki/語形変化](https://ja.wikipedia.org/wiki/語形変化)
 * infelction vs. derivation: [https://en.wikipedia.org/wiki/Inflection\#Inflection\_vs.\_derivation](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
@@ -226,7 +226,7 @@
 * inflection: 《文法》屈折, 語形変化. [https://kotobank.jp/ejword/inflection](https://kotobank.jp/ejword/inflection)
 * inflection: a change in the form of a word \(typically the ending\) to express a grammatical function or attribute such as tense, mood, person, number, case, and gender [http://www.oxforddictionaries.com/definition/english/inflection](http://www.oxforddictionaries.com/definition/english/inflection)
 
-### 語形成 gifhengzsengx
+### 語形成 gifhingzsingx
 
 * word formation: 語形成, 造語法. [https://ejje.weblio.jp/content/word%E2%80%90formation](https://ejje.weblio.jp/content/word%E2%80%90formation)
 * 語形成. [https://ko.wikipedia.org/wiki/어형성](https://ko.wikipedia.org/wiki/어형성)
@@ -259,13 +259,13 @@
 
 ### glyph
 
-### 元 goanx
+### 元 guanx
 
 * 元素
 
-### 原 goanx
+### 原 guanx
 
-### 源 goanx
+### 源 guanx
 
 ### 漢字 hanyjiz
 
@@ -292,30 +292,30 @@
 
 * series
 
-### 系列成員 hewliett sengzoanx
+### 系列成員 hewliett singzuanx
 
 * series member
 
-### 形 hengx
+### 形 hingx
 
 * form, shape. _Maryknoll Taiwanese English Dictionary_
 
-### 型 hengx
+### 型 hingx
 
-### 形成 hengzsengx
+### 形成 hingzsingx
 
 * n. formation. vt. to form shape. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 形態 hengzthaiw
+### 形態 hingzthaiw
 
 * n. form; shape.
 
-### 形態學 hengzthaiyhakk
+### 形態學 hingzthaiyhakk
 
 * morphology. _Maryknoll Taiwanese English Dicitonary_
 * a. (形態學) morphological. _A Chinese-English Dictionary Taiwan Dialect_
 
-### 型鑄 hengzchuw
+### 型鑄 hingzchuw
 
 * typecasting
 * [https://en.wikipedia.org/wiki/Type\_conversion](https://en.wikipedia.org/wiki/Type_conversion)
@@ -333,7 +333,7 @@
 
 ### 分組 hunzcho
 
-### 衍生 ienfseng
+### 衍生 ienfsing
 
 * derivation. derive.
 * [日]派生
@@ -385,11 +385,11 @@
 
 ### 字頭 jiwthaux
 
-### 字尾 jiwboey
+### 字尾 jiwbuey
 
 ### 字字對 jiwjiwtuiw
 
-### 字爿 jiwpengx
+### 字爿 jiwpingx
 
 * 字部
 * radical
@@ -517,13 +517,13 @@
 
 * part of speech
 
-### 匹配 phitfphoew
+### 匹配 phitfphuew
 
 * match
 
 ### populate
 
-### 剖 phow/phoaw
+### 剖 phow/phuaw
 
 * analyche. _The Maryknoll Taiwanese English Dictionary_
 * analysis. analyse.
@@ -553,7 +553,7 @@
 
 * 結連
 
-### 繼承 keysengx
+### 繼承 keysingx
 
 * inherit, inheritance
 
@@ -618,15 +618,15 @@
 
 * pattern. _Maryknoll Taiwanese English Dictionary_
 
-### 成員 sengzoanx
+### 成員 singzuanx
 
 * member
 
-### 成員文 sengzoanzbunx
+### 成員文 singzuanzbunx
 
 * member statement
 
-### 成員組 sengzoanzcho
+### 成員組 singzuanzcho
 
 * member group
 
@@ -671,7 +671,7 @@
 
 ### 素 sow
 
-### 宣告文 soanzkurybunx
+### 宣告文 suanzkurybunx
 
 * declaration statement
 
@@ -679,11 +679,11 @@
 
 * sequence
 
-### 序列成員 suwliett sengzoanx
+### 序列成員 suwliett singzuanx
 
 * sequence member
 
-### 書寫法 suzsiafhoat
+### 書寫法 suzsiafhuat
 
 * [https://en.wikipedia.org/wiki/Orthography](https://en.wikipedia.org/wiki/Orthography)
 * [https://ja.wikipedia.org/wiki/正書法](https://ja.wikipedia.org/wiki/正書法)
@@ -706,13 +706,13 @@
 
 ### 拆開 thiahykhui
 
-### 程 thengx
+### 程 thingx
 
 * pattern. _Maryknoll Taiwanese English Dictionary_
 * 議程: program. _Maryknoll Taiwanese English Dictionary_
 * 法式「程式, 章程」. _明解漢和辭典_
 
-### 程式 thengzsek
+### 程式 thingzsek
 
 * standard form or pattern, standard procedures, formula _Maryknoll Taiwanese English Dictionary_
 * 由一定的方法所規定的法式. _台語四用漢字字源_
@@ -720,11 +720,11 @@
 * 固定的格式. _台華雙語辭典_
 * 方式. 格式, 書式. _角川新字源_
 
-### 程式語言 thengzsek gifgienx
+### 程式語言 thingzsek gifgienx
 
 * programming language
 
-### 程式設計 thengzsek sietfqew
+### 程式設計 thingzsek sietfqew
 
 * programming
 * Programming. \[[https://ja.wikipedia.org/wiki/プログラミング\_\(コンピュータ\]\(https://ja.wikipedia.org/wiki/プログラミング\_\(コンピュータ\)\](https://ja.wikipedia.org/wiki/プログラミング_%28コンピュータ]%28https://ja.wikipedia.org/wiki/プログラミング_%28コンピュータ%29%29\)
@@ -734,7 +734,7 @@
 
 * stack
 
-### 抽象化 thiuzsiongwhoaw
+### 抽象化 thiuzsiongwhuaw
 
 * abstraction. 抽象. _Embree_
 
@@ -797,11 +797,11 @@
 
 * component
 
-### 半語 poannygiy
+### 半語 puannygiy
 
 * half word
 
-### 倍語 poewgiy
+### 倍語 puewgiy
 
 * double word
 
@@ -812,7 +812,7 @@
 * https://ja.wikipedia.org/wiki/節_(文法)
 * https://ko.wikipedia.org/wiki/절_(언어학)
 
-### 齊頭並列 chezthaux pengyliett
+### 齊頭並列 chezthaux pingyliett
 
 * align, alignment
 
@@ -829,7 +829,7 @@
 * 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
 * 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-### 接尾辭 chiapfboefsux
+### 接尾辭 chiapfbuefsux
 
 * 接尾語. _台日大辭典_
 * suffix. _Maryknoll Taiwanese English Dictionary_
@@ -855,11 +855,11 @@
 
 * sum
 
-### 組成員 chofsengzoanx
+### 組成員 chofsingzuanx
 
 * group member
 
-### 組成一組 chofsengz chitwcho
+### 組成一組 chofsingz chitwcho
 
 * compose a group
 
@@ -877,7 +877,7 @@
 
 ### 組邊界 chofpienzkaiw
 
-### 組成 chofsengx
+### 組成 chofsingx
 
 * compose. composition
 * [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
@@ -887,7 +887,7 @@
 
 * group-group pair
 
-### 轉寫 choanfsiay
+### 轉寫 chuanfsiay
 
 * transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
 * 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
@@ -915,7 +915,7 @@
 * [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
 * [https://ko.wikipedia.org/wiki/주어](https://ko.wikipedia.org/wiki/주어)
 
-### 鑄型 chuyhengx
+### 鑄型 chuyhingx
 
 * cast a type
 
