@@ -18,28 +18,6 @@
 
 * 長澤 規矩也
 
-### 臺日大辭典
-
-* 小川尚義
-* 台灣總督府
-
-### 台語四用漢字字源
-
-* 吳國安
-* 三民
-
-### 台華雙語辭典
-
-* 楊青矗
-* 敦理
-
-### 台湾語仮名
-
-* Taiwanese Kana.
-* [https://en.wikipedia.org/wiki/Taiwanese\\_kana](https://en.wikipedia.org/wiki/Taiwanese_kana)
-* [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
-* [https://ko.wikipedia.org/wiki/타이완어\\_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
-
 ### Daum
 
 * [http://dic.daum.net/](http://dic.daum.net/)
@@ -60,9 +38,17 @@
 
 * [http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method](http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method)
 
+### 角川新字源
+
+* 角川書店
+
 ### Kotobank
 
 * [https://kotobank.jp/](https://kotobank.jp/)
+
+### The Maryknoll Taiwanese English Dictionary
+
+* [http://www.taiwanesedictionary.org](http://www.taiwanesedictionary.org)
 
 ### Natural language user interface:
 
@@ -85,13 +71,27 @@
 * 小川尚義
 * 台灣總督府
 
-### 角川新字源
+### 臺日大辭典
 
-* 角川書店
+* 小川尚義
+* 台灣總督府
 
-### The Maryknoll Taiwanese English Dictionary
+### 台語四用漢字字源
 
-* [http://www.taiwanesedictionary.org](http://www.taiwanesedictionary.org)
+* 吳國安
+* 三民
+
+### 台華雙語辭典
+
+* 楊青矗
+* 敦理
+
+### 台湾語假名
+
+* Taiwanese Kana.
+* [https://en.wikipedia.org/wiki/Taiwanese\\_kana](https://en.wikipedia.org/wiki/Taiwanese_kana)
+* [https://ja.wikipedia.org/wiki/台湾語仮名](https://ja.wikipedia.org/wiki/台湾語仮名)
+* [https://ko.wikipedia.org/wiki/타이완어\\_가나](https://ko.wikipedia.org/wiki/타이완어_가나)
 
 ### 通用台語字典
 

@@ -3,7 +3,6 @@
 ### abstract
 
 * tekfiauw. _Maryknoll_
-* chuatfiauw. _Embree_
 
 ### array
 
@@ -27,14 +26,15 @@
 
 * 縛
 
+### 目的語 bokwtekwgiy
+
+* https://en.wikipedia.org/wiki/Object_(grammar)
+* [https://ja.wikipedia.org/wiki/目的語](https://ja.wikipedia.org/wiki/目的語)
+* [https://ko.wikipedia.org/wiki/목적어](https://ko.wikipedia.org/wiki/목적어)
+
 ### bow
 
 * [https://en.oxforddictionaries.com/definition/bow](https://en.oxforddictionaries.com/definition/bow)
-
-### 母 bury/buy
-
-* 元. 基金. _台日大辭典_
-* 源頭. 基金
 
 ### 文 bunx
 
@@ -62,6 +62,11 @@
 * grammar: 文法；文法学［研究, 論］；（個人の）文法的知識, 語法, 言葉づかい. [https://kotobank.jp/ejword/grammar](https://kotobank.jp/ejword/grammar)
 * D Grammar: [https://dlang.org/spec/grammar.html](https://dlang.org/spec/grammar.html)
 
+### 母 bury/buy
+
+* 元. 基金. _台日大辭典_
+* 源頭. 基金
+
 ### 物 butt
 
 * entity. thing. _Embree_
@@ -84,10 +89,6 @@
 * [http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=%EA%B8%80%EC%9E%90](http://endic.naver.com/search.nhn?sLn=en&searchOption=all&query=글자)
 * [http://dic.daum.net/word/view.do?wordid=kew000010678](http://dic.daum.net/word/view.do?wordid=kew000010678)
 
-### 棧 cieny
-
-* 拾棧, 糕仔棧. 三棧. _台日大辭典_
-
 ### code
 
 * 碼
@@ -106,93 +107,121 @@
 
 * make a group
 
-### 代 taiz
+### 節 chat
 
-* 替代. _台日大辭典_
-* 改換, 替換. 替. _甘為霖台語字典_
-* 交替也. _台語四用漢字字源_
+* clause
+* [https://kotobank.jp/ejword/clause](https://kotobank.jp/ejword/clause)
+* https://ja.wikipedia.org/wiki/節_(文法)
+* https://ko.wikipedia.org/wiki/절_(언어학)
 
-### 單語 tanzgiy/tanzguy
+### 齊頭並列 chezthaux pingyliett
 
-* word
-* a word. [https://kotobank.jp/jeword/単語](https://kotobank.jp/jeword/単語)
+* align, alignment
 
-### 單語系列 tanzgiy hewliett
+### 成組 chiannzcho
 
-* series of words, a series of words.
+### 接辭 chiapfsux
 
-### 單語序列 tanzgiy suwliett
+* affix
 
-* sequence of words, a sequence of words.
+### 接頭辭 chiapfthauzsux
 
-### tauh
+* 接頭語. _台日大辭典_
+* 接頭語. [https://kotobank.jp/jeword/接頭語](https://kotobank.jp/jeword/接頭語)
+* 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
+* 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
 
-* 連結 lienzkiet
-* concate, concatenation
-* 組合 chofhapp
-* combine, combination
+### 接尾辭 chiapfbuefsux
+
+* 接尾語. _台日大辭典_
+* suffix. _Maryknoll Taiwanese English Dictionary_
+* 接尾語: [https://kotobank.jp/jeword/接尾語](https://kotobank.jp/jeword/接尾語)
+* 接尾辭: [https://ko.wikipedia.org/wiki/접미사](https://ko.wikipedia.org/wiki/접미사)
+* 接尾辭: [https://ja.wikipedia.org/wiki/接尾辞](https://ja.wikipedia.org/wiki/接尾辞)
+
+### 積 chek
+
+* heap
+
+### 組 cho
+
+* 漢字組
+* 部件組
+* group. _Maryknoll Taiwanese English Dictionary_
+
+### 組文字 chofbunzjiz
+
+* [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
+
+### 總合 chongfhapp
+
+* sum
+
+### 組成員 chofsingzuanx
+
+* group member
+
+### 組成一組 chofsingz chitwcho
+
+* compose a group
+
+### 組合 chofhapp
+
+* combination
 * group
 
+### 組合 operator
+
+### 組字 chofliz
+
+* compose a series of components
+* compose a series of ideograms
+
+### 組邊界 chofpienzkaiw
+
+### 組成 chofsingx
+
+* compose. composition
+* [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
+* [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
+
+### 組組對 chofchoftuiw
+
+* group-group pair
+
+### 轉寫 chuanfsiay
+
+* transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
+* 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
+* 轉寫: https://ko.wikipedia.org/wiki/전사_(언어학)
+* transliteration: [https://en.wikipedia.org/wiki/Transliteration](https://en.wikipedia.org/wiki/Transliteration)
+* 翻字: [https://ja.wikipedia.org/wiki/翻字](https://ja.wikipedia.org/wiki/翻字)
+* 轉字: https://ko.wikipedia.org/wiki/전자_(언어학)
+
+### 主語 chufgiy
+
+* https://en.wikipedia.org/wiki/Subject_(grammar)
+* [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
+* [https://ko.wikipedia.org/wiki/주어](https://ko.wikipedia.org/wiki/주어)
+
+### 鑄型 chuyhingx
+
+* cast a type
+
+### 造語 churwgiy
+
+* coinage
+* coined word
+* [https://ja.wikipedia.org/wiki/造語](https://ja.wikipedia.org/wiki/造語)
+* [https://kotobank.jp/jeword/造語](https://kotobank.jp/jeword/造語)
+* [https://en.wikipedia.org/wiki/Neologism](https://en.wikipedia.org/wiki/Neologism)
+* [https://ja.wikipedia.org/wiki/新語](https://ja.wikipedia.org/wiki/新語)
+* [https://ko.wikipedia.org/wiki/신조어](https://ko.wikipedia.org/wiki/신조어)
+* [https://en.wikipedia.org/wiki/Blend\_word](https://en.wikipedia.org/wiki/Blend_word)
+
+### 造句 churwkuw
+
 ### design pattern
-
-### 電腦語言 tienwnauy gifgienx
-
-* computer language
-
-### 迭 tiett
-
-* 相替換, 變換, 輪流, 車轉. _甘為霖台語字典_
-* 迭用
-  * the alternate use of.
-  * 三代迭用之. _A Chinese-English Dictionary Taiwan Dialect_
-  * the 3 dynasties used them alternately.
-
-### 朝 tiaux
-
-* orient, orientate ・verb 3 magazines oriented to the business community AIM, direct, pitch, design, intend. _Oxford Dictionary, Thesaurus, and Wordpower Guide_
-* oriented adj. 1. interested in, aimed at, or believing in. _Random House Webster's Dictionary of American English_
-
-### 長語 tngzgiy
-
-* long word
-
-### 同形異音語 tongzhingx iwimzgiy
-
-* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
-* heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
-* 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
-* 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
-
-### 斷 tuanz/tuanw
-
-* tuanz: 斷する. きめる
-* tuanw: 絕つ
-
-### 多義性 turzgiwsingw
-
-* 曖昧
-* ambiguity. [https://kotobank.jp/ejword/ambiguity](https://kotobank.jp/ejword/ambiguity)
-* ambiguity. [https://en.wikipedia.org/wiki/Ambiguity](https://en.wikipedia.org/wiki/Ambiguity)
-
-### 多義語 turzgiwgiy
-
-* polysemy. 多義性, 意味の多様性. [https://kotobank.jp/ejword/polysemy](https://kotobank.jp/ejword/polysemy)
-* polysemy. [http://www.oxforddictionaries.com/definition/english/polysemy](http://www.oxforddictionaries.com/definition/english/polysemy)
-* 多義語. [https://ja.wikipedia.org/wiki/多義語](https://ja.wikipedia.org/wiki/多義語)
-* 多義語. [https://ko.wikipedia.org/wiki/다의어](https://ko.wikipedia.org/wiki/다의어)
-* polysemy. [https://en.wikipedia.org/wiki/Polysemy](https://en.wikipedia.org/wiki/Polysemy)
-
-### 斷語 tuanwgiy/tuanygiy
-
-* [http://ejje.weblio.jp/content/日本語単語分割](http://ejje.weblio.jp/content/日本語単語分割)
-* [http://ejje.weblio.jp/content/単語の分割点](http://ejje.weblio.jp/content/単語の分割点)
-* [http://ejje.weblio.jp/content/word+segmentation+method](http://ejje.weblio.jp/content/word+segmentation+method)
-* [https://ja.wikipedia.org/wiki/わかち書き](https://ja.wikipedia.org/wiki/わかち書き)
-* [https://ko.wikipedia.org/wiki/띄어쓰기](https://ko.wikipedia.org/wiki/띄어쓰기)
-* [https://en.wikipedia.org/wiki/Word\_divider](https://en.wikipedia.org/wiki/Word_divider)
-* [https://en.wikipedia.org/wiki/Text\_segmentation](https://en.wikipedia.org/wiki/Text_segmentation)
-* [https://ja.wikipedia.org/wiki/形態素解析](https://ja.wikipedia.org/wiki/形態素解析)
-* [https://en.wikipedia.org/wiki/Word\#Word\_boundaries](https://en.wikipedia.org/wiki/Word#Word_boundaries)
 
 ### dynamic binding
 
@@ -278,15 +307,15 @@
 * 無匹配 ew
 * 序列成員
 
+### 合集 hahwchipp
+
+* collection
+
 ### 合字 hapwjiz
 
 * [https://en.wikipedia.org/wiki/Typographic\_ligature](https://en.wikipedia.org/wiki/Typographic_ligature)
 * [https://ja.wikipedia.org/wiki/合字](https://ja.wikipedia.org/wiki/合字)
 * [https://ko.wikipedia.org/wiki/합자](https://ko.wikipedia.org/wiki/합자)
-
-### 合集 hahwchipp
-
-* collection
 
 ### 系列 hewliett
 
@@ -332,6 +361,11 @@
 * breakdown
 
 ### 分組 hunzcho
+
+### ideogram
+
+* [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
+* [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
 
 ### 衍生 ienfsing
 
@@ -399,13 +433,38 @@
 
 ### 字組對 jiwchoftuiw
 
-### 嵌 khamw
+### kap
+
+### kat
+
+* 結連
+
+### 繼承 keysingx
+
+* inherit, inheritance
+
+### 機器碼
+
+* machine code
+
+### 構文
+
+* syntax. [https://kotobank.jp/ejword/syntax](https://kotobank.jp/ejword/syntax)
+* syntax: The arrangement of words and phrases to create well-formed sentences in a language. [http://www.oxforddictionaries.com/definition/english/syntax](http://www.oxforddictionaries.com/definition/english/syntax)
 
 ### Korean mixed script
 
 * [https://en.wikipedia.org/wiki/Korean\_mixed\_script](https://en.wikipedia.org/wiki/Korean_mixed_script)
 * [https://ko.wikipedia.org/wiki/한글전용과\_국한문혼용](https://ko.wikipedia.org/wiki/한글전용과_국한문혼용)
 * [https://ja.wikipedia.org/wiki/ハングル専用文と漢字ハングル混じり文](https://ja.wikipedia.org/wiki/ハングル専用文と漢字ハングル混じり文)
+
+### 句 kuw
+
+* verse; phrase. _A Chinese-English Dictionary Taiwan Dialect_
+* phrase. [https://kotobank.jp/ejword/phrase](https://kotobank.jp/ejword/phrase)
+* phrase. [http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase](http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase)
+
+### 嵌 khamw
 
 ### 屈折 khutfchiet
 
@@ -511,6 +570,41 @@
 
 * Parameter. https://en.wikipedia.org/wiki/Parameter_(computer_programming)
 
+### 表現 piaufhienz
+
+* 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
+* 表達 viaufdatt
+* expression: A word or phrase, especially an idiomatic one, used to convey an idea. [http://www.oxforddictionaries.com/definition/english/expression](http://www.oxforddictionaries.com/definition/english/expression)
+
+### 變調組 pienytiauwcho
+
+### 變調 pienytiauz
+
+* Tone Sandhi. [https://en.wikipedia.org/wiki/Tone\_sandhi](https://en.wikipedia.org/wiki/Tone_sandhi)
+* 連續變調. [https://ja.wikipedia.org/wiki/連続変調](https://ja.wikipedia.org/wiki/連続変調)
+* [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
+
+### 變調造語 pienytiauz churwgiy
+
+### populate
+
+### 部件 powkiannz
+
+* component
+
+### program code
+
+* source code
+* machine code
+
+### 半語 puannygiy
+
+* half word
+
+### 倍語 puewgiy
+
+* double word
+
 ### 片語 phinnygiy
 
 ### 品詞 phinfsux
@@ -520,8 +614,6 @@
 ### 匹配 phitfphuew
 
 * match
-
-### populate
 
 ### 剖 phow/phuaw
 
@@ -541,36 +633,6 @@
 * 語彙分析. [http://ejje.weblio.jp/content/lexical+analysis](http://ejje.weblio.jp/content/lexical+analysis)
 * 字句解析. [https://ja.wikipedia.org/wiki/字句解析](https://ja.wikipedia.org/wiki/字句解析)
 * 單語分析. [https://ko.wikipedia.org/wiki/낱말\_분석](https://ko.wikipedia.org/wiki/낱말_분석)
-
-### program code
-
-* source code
-* machine code
-
-### kap
-
-### kat
-
-* 結連
-
-### 繼承 keysingx
-
-* inherit, inheritance
-
-### 機器碼
-
-* machine code
-
-### 構文
-
-* syntax. [https://kotobank.jp/ejword/syntax](https://kotobank.jp/ejword/syntax)
-* syntax: The arrangement of words and phrases to create well-formed sentences in a language. [http://www.oxforddictionaries.com/definition/english/syntax](http://www.oxforddictionaries.com/definition/english/syntax)
-
-### 句 kuw
-
-* verse; phrase. _A Chinese-English Dictionary Taiwan Dialect_
-* phrase. [https://kotobank.jp/ejword/phrase](https://kotobank.jp/ejword/phrase)
-* phrase. [http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase](http://endic.naver.com/enkrEntry.nhn?sLn=en&entryId=8704843687be455eb5ec06990da899bc&query=phrase)
 
 ### recursion
 
@@ -700,9 +762,103 @@
 * [https://ja.wikipedia.org/wiki/音節](https://ja.wikipedia.org/wiki/音節)
 * https://ja.wikipedia.org/wiki/ブロック_(曖昧さ回避)
 
+### 代 taiz
+
+* 替代. _台日大辭典_
+* 改換, 替換. 替. _甘為霖台語字典_
+* 交替也. _台語四用漢字字源_
+
+### 單語 tanzgiy/tanzguy
+
+* word
+* a word. [https://kotobank.jp/jeword/単語](https://kotobank.jp/jeword/単語)
+
+### 單語系列 tanzgiy hewliett
+
+* series of words, a series of words.
+
+### 單語序列 tanzgiy suwliett
+
+* sequence of words, a sequence of words.
+
 ### target language
 
 * 目標語言
+
+### tauh
+
+* 連結 lienzkiet
+* concate, concatenation
+* 組合 chofhapp
+* combine, combination
+* group
+
+### 電腦語言 tienwnauy gifgienx
+
+* computer language
+
+### 迭 tiett
+
+* 相替換, 變換, 輪流, 車轉. _甘為霖台語字典_
+* 迭用
+  * the alternate use of.
+  * 三代迭用之. _A Chinese-English Dictionary Taiwan Dialect_
+  * the 3 dynasties used them alternately.
+
+### 朝 tiaux
+
+* orient, orientate ・verb 3 magazines oriented to the business community AIM, direct, pitch, design, intend. _Oxford Dictionary, Thesaurus, and Wordpower Guide_
+* oriented adj. 1. interested in, aimed at, or believing in. _Random House Webster's Dictionary of American English_
+
+### 長語 tngzgiy
+
+* long word
+
+### 同形異音語 tongzhingx iwimzgiy
+
+* heteronym. https://en.wikipedia.org/wiki/Heteronym_(linguistics)
+* heteronym. [https://kotobank.jp/ejword/heteronym](https://kotobank.jp/ejword/heteronym)
+* 同形異音語. [https://ja.wikipedia.org/wiki/同形異音語](https://ja.wikipedia.org/wiki/同形異音語)
+* 同綴異音異義語. [https://ko.wikipedia.org/wiki/동철이음이의어](https://ko.wikipedia.org/wiki/동철이음이의어)
+
+### 斷語 tuanwgiy/tuanygiy
+
+* [http://ejje.weblio.jp/content/日本語単語分割](http://ejje.weblio.jp/content/日本語単語分割)
+* [http://ejje.weblio.jp/content/単語の分割点](http://ejje.weblio.jp/content/単語の分割点)
+* [http://ejje.weblio.jp/content/word+segmentation+method](http://ejje.weblio.jp/content/word+segmentation+method)
+* [https://ja.wikipedia.org/wiki/わかち書き](https://ja.wikipedia.org/wiki/わかち書き)
+* [https://ko.wikipedia.org/wiki/띄어쓰기](https://ko.wikipedia.org/wiki/띄어쓰기)
+* [https://en.wikipedia.org/wiki/Word\_divider](https://en.wikipedia.org/wiki/Word_divider)
+* [https://en.wikipedia.org/wiki/Text\_segmentation](https://en.wikipedia.org/wiki/Text_segmentation)
+* [https://ja.wikipedia.org/wiki/形態素解析](https://ja.wikipedia.org/wiki/形態素解析)
+* [https://en.wikipedia.org/wiki/Word\#Word\_boundaries](https://en.wikipedia.org/wiki/Word#Word_boundaries)
+
+### transcribe
+
+* 抄. _Maryknoll_
+
+### transcription
+
+* 譯音. sound transcription. _Maryknoll_
+
+### 斷 tuanz/tuanw
+
+* tuanz: 斷する. きめる
+* tuanw: 絕つ
+
+### 多義性 turzgiwsingw
+
+* 曖昧
+* ambiguity. [https://kotobank.jp/ejword/ambiguity](https://kotobank.jp/ejword/ambiguity)
+* ambiguity. [https://en.wikipedia.org/wiki/Ambiguity](https://en.wikipedia.org/wiki/Ambiguity)
+
+### 多義語 turzgiwgiy
+
+* polysemy. 多義性, 意味の多様性. [https://kotobank.jp/ejword/polysemy](https://kotobank.jp/ejword/polysemy)
+* polysemy. [http://www.oxforddictionaries.com/definition/english/polysemy](http://www.oxforddictionaries.com/definition/english/polysemy)
+* 多義語. [https://ja.wikipedia.org/wiki/多義語](https://ja.wikipedia.org/wiki/多義語)
+* 多義語. [https://ko.wikipedia.org/wiki/다의어](https://ko.wikipedia.org/wiki/다의어)
+* polysemy. [https://en.wikipedia.org/wiki/Polysemy](https://en.wikipedia.org/wiki/Polysemy)
 
 ### 拆開 thiahykhui
 
@@ -734,6 +890,8 @@
 
 * stack
 
+### 鐵馬 thihybey
+
 ### 抽象化 thiuzsiongwhuaw
 
 * abstraction. 抽象. _Embree_
@@ -743,16 +901,6 @@
 * abstract syntax tree
 * 抽象構文木. [https://ja.wikipedia.org/wiki/抽象構文木](https://ja.wikipedia.org/wiki/抽象構文木)
 * 抽象構文 tree. [https://ko.wikipedia.org/wiki/추상_구문_트리](https://ko.wikipedia.org/wiki/추상_구문_트리)
-
-### 鐵馬 thihybey
-
-### transcribe
-
-* 抄. _Maryknoll_
-
-### transcription
-
-* 譯音. sound transcription. _Maryknoll_
 
 ### validation
 
@@ -765,159 +913,6 @@
 ### variable
 
 * 變數. _Maryknoll_
-
-### 變調組 pienytiauwcho
-
-### 變調 pienytiauz
-
-* Tone Sandhi. [https://en.wikipedia.org/wiki/Tone\_sandhi](https://en.wikipedia.org/wiki/Tone_sandhi)
-* 連續變調. [https://ja.wikipedia.org/wiki/連続変調](https://ja.wikipedia.org/wiki/連続変調)
-* [http://www.oxforddictionaries.com/definition/english/sandhi](http://www.oxforddictionaries.com/definition/english/sandhi)
-
-### 變調造語 pienytiauz churwgiy
-
-### 表現 piaufhienz
-
-* 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
-* 表達 viaufdatt
-* expression: A word or phrase, especially an idiomatic one, used to convey an idea. [http://www.oxforddictionaries.com/definition/english/expression](http://www.oxforddictionaries.com/definition/english/expression)
-
-### 表意文字 piaufiw bunzjiz
-
-* [https://kotobank.jp/ejword/ideogram](https://kotobank.jp/ejword/ideogram)
-* [http://ejje.weblio.jp/content/ideogram](http://ejje.weblio.jp/content/ideogram)
-
-### 目的語 bokwtekwgiy
-
-* https://en.wikipedia.org/wiki/Object_(grammar)
-* [https://ja.wikipedia.org/wiki/目的語](https://ja.wikipedia.org/wiki/目的語)
-* [https://ko.wikipedia.org/wiki/목적어](https://ko.wikipedia.org/wiki/목적어)
-
-### 部件 powkiannz
-
-* component
-
-### 半語 puannygiy
-
-* half word
-
-### 倍語 puewgiy
-
-* double word
-
-### 節 chat
-
-* clause
-* [https://kotobank.jp/ejword/clause](https://kotobank.jp/ejword/clause)
-* https://ja.wikipedia.org/wiki/節_(文法)
-* https://ko.wikipedia.org/wiki/절_(언어학)
-
-### 齊頭並列 chezthaux pingyliett
-
-* align, alignment
-
-### 成組 chiannzcho
-
-### 接辭 chiapfsux
-
-* affix
-
-### 接頭辭 chiapfthauzsux
-
-* 接頭語. _台日大辭典_
-* 接頭語. [https://kotobank.jp/jeword/接頭語](https://kotobank.jp/jeword/接頭語)
-* 接頭辭. [https://ko.wikipedia.org/wiki/접두사](https://ko.wikipedia.org/wiki/접두사)
-* 接頭辭. [https://ja.wikipedia.org/wiki/接頭辞](https://ja.wikipedia.org/wiki/接頭辞)
-
-### 接尾辭 chiapfbuefsux
-
-* 接尾語. _台日大辭典_
-* suffix. _Maryknoll Taiwanese English Dictionary_
-* 接尾語: [https://kotobank.jp/jeword/接尾語](https://kotobank.jp/jeword/接尾語)
-* 接尾辭: [https://ko.wikipedia.org/wiki/접미사](https://ko.wikipedia.org/wiki/접미사)
-* 接尾辭: [https://ja.wikipedia.org/wiki/接尾辞](https://ja.wikipedia.org/wiki/接尾辞)
-
-### 積 chek
-
-* heap
-
-### 組 cho
-
-* 漢字組
-* 部件組
-* group. _Maryknoll Taiwanese English Dictionary_
-
-### 組文字 chofbunzjiz
-
-* [https://ja.wikipedia.org/wiki/組文字](https://ja.wikipedia.org/wiki/組文字)
-
-### 總合 chongfhapp
-
-* sum
-
-### 組成員 chofsingzuanx
-
-* group member
-
-### 組成一組 chofsingz chitwcho
-
-* compose a group
-
-### 組合 chofhapp
-
-* combination
-* group
-
-### 組合 operator
-
-### 組字 chofliz
-
-* compose a series of components
-* compose a series of ideograms
-
-### 組邊界 chofpienzkaiw
-
-### 組成 chofsingx
-
-* compose. composition
-* [https://kotobank.jp/ejword/composition](https://kotobank.jp/ejword/composition)
-* [http://ejje.weblio.jp/content/composition](http://ejje.weblio.jp/content/composition)
-
-### 組組對 chofchoftuiw
-
-* group-group pair
-
-### 轉寫 chuanfsiay
-
-* transcribe: [https://kotobank.jp/ejword/transcribe](https://kotobank.jp/ejword/transcribe)
-* 轉寫: https://ja.wikipedia.org/wiki/転写_(言語学)
-* 轉寫: https://ko.wikipedia.org/wiki/전사_(언어학)
-* transliteration: [https://en.wikipedia.org/wiki/Transliteration](https://en.wikipedia.org/wiki/Transliteration)
-* 翻字: [https://ja.wikipedia.org/wiki/翻字](https://ja.wikipedia.org/wiki/翻字)
-* 轉字: https://ko.wikipedia.org/wiki/전자_(언어학)
-
-### 造語 churwgiy
-
-* coinage
-* coined word
-* [https://ja.wikipedia.org/wiki/造語](https://ja.wikipedia.org/wiki/造語)
-* [https://kotobank.jp/jeword/造語](https://kotobank.jp/jeword/造語)
-* [https://en.wikipedia.org/wiki/Neologism](https://en.wikipedia.org/wiki/Neologism)
-* [https://ja.wikipedia.org/wiki/新語](https://ja.wikipedia.org/wiki/新語)
-* [https://ko.wikipedia.org/wiki/신조어](https://ko.wikipedia.org/wiki/신조어)
-* [https://en.wikipedia.org/wiki/Blend\_word](https://en.wikipedia.org/wiki/Blend_word)
-
-### 造句 churwkuw
-
-### 主語 chufgiy
-
-* https://en.wikipedia.org/wiki/Subject_(grammar)
-* [https://ja.wikipedia.org/wiki/主語](https://ja.wikipedia.org/wiki/主語)
-* [https://ko.wikipedia.org/wiki/주어](https://ko.wikipedia.org/wiki/주어)
-
-### 鑄型 chuyhingx
-
-* cast a type
 
 ## 日語/日本話/日本語
 
