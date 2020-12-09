@@ -107,6 +107,10 @@
 
 * make a group
 
+### 取向 cufhiongw
+
+* [https://dict.naver.com/linedict/zhendict/#/cnen/entry/b6b5a6a3322349688de1dec9d3084aec](https://dict.naver.com/linedict/zhendict/#/cnen/entry/b6b5a6a3322349688de1dec9d3084aec)
+
 ### 節 chat
 
 * clause
