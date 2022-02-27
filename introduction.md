@@ -8,11 +8,7 @@ Suizjienz kong uw 自然語言 kahf 電腦語言 chitf 種 ew 區別存在, tanw
 
 台語 kahf 電腦語言 ew 結合 tiurhw siw liwiongw 台語 ew 造語機制 laiz 運作. 台語造語 siw liwiongw 變調 laiz 造語. 譬喻 kong, naw siw kaw 二个單音節單語 tauw khih laih pieny churhy chitwlez 雙音節單語, 頭前 hitfle 音節 tiurhw aiy 變調. 變調 ew 意思 gua kaz hurw churhy enabling, tiurhw siw 作動.Naw siw 二个單語 long siw 本調 burz 變調, tiurhw piaufsiw disabling, tiurhw siw 無作動. Naw siw 多音節單語, 原理 maw 是仝欵.
 
-長老教會 ew 巴克禮牧師 tiw 1885 年 congypanw 臺灣府城教會報. Tiw 教會報創辦進前, 一般 ew 台灣人 siw mw batf 字 ez. Sofi hitf 當拵 tiw 一般人 mw batf 字 ew 情形下, 台語 siw i 口頭語 ew 方式 laiz 傳承. Naw siw 讀冊 batf 字 ew 人, inz 手 so 寫 ew siw 文言文. Sofi 巴克禮 taiw 先 congypanw 教會報 tuiy 台語文 ew 發展 siw uw 真大 ew 意義, suizjienz kong 伊 siw uw 傳教 ew 目的.
-
-台語 suizjienz mw siw 屈折語, maw mw siw 膠着語, tanwsiw tehf 設計輸入法, 書寫系統, hekwchiafsiw 拼音系統 ew 時拵, maw siw ewtangy chiurhy 屈折語 kahf 膠着語 ew 概念 laiz chury 設計. 新港文 kapf Favorlang 字典 maw siw 真好 ew 書寫範例, thingyhur 參考.
-
-台語文 kahf 電腦語言 katf churhy 伙 laiz 用, mw chaiziann kong 英語 ew 巴克禮 tongzcuez 時 kam uw 想 tiurh neh.
+台語 suizjienz mw siw 傳統意義上 ew 屈折語 ahw siw 膠着語, tanwsiw te sietfkey 輸入法, 書寫系統, hekwchiafsiw 拼音系統 ew 時拵, maw siw ewtangy chiurhy 屈折語 kahf 膠着語 ew 概念 laiz churhy 設計. Simychiy siw huatfbingz 新欵 ew 屈折語 ahw siw 膠着語. 新港文 kapf Favorlang 字典 maw siw 真好 ew 書寫範例, thingyhur 參考.
 
 ## 台語文 kahf 電腦語言
 
