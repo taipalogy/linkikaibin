@@ -18,4 +18,33 @@ Liwiongw UI laiz how AI ew 操作 kurhf khahf 利便。台語人機界面 siw ch
 
 ## 例
 
-Uw kahy chitwez example.json
+{
+  "cia": {
+    "inflectedForm": ["ciaz"],
+    "hanji": ["車"],
+    "prompt": "List 10 kinds of car",
+    "conditions": [""],
+    "actions": [""]
+  },
+  "hue": {
+    "inflectedForm": ["huez"],
+    "hanji": ["花"],
+    "prompt": "List 10 adjectives which can describe the beauty of flower",
+    "conditions": [""],
+    "actions": [""]
+  },
+  "huey": {
+    "inflectedForm": ["huef", "hue"],
+    "hanji": ["火"],
+    "prompt": "List 10 adjectives for fire",
+    "conditions": [""],
+    "actions": [""]
+  },
+  "huew": {
+    "inflectedForm": ["huey"],
+    "hanji": ["貨"],
+    "prompt": "List any 10 electric products",
+    "conditions": [""],
+    "actions": [""]
+  }
+}
