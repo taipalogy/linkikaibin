@@ -576,7 +576,11 @@
 
 ### parameter
 
-* Parameter. https://en.wikipedia.org/wiki/Parameter_(computer_programming)
+* [Parameter](https://en.wikipedia.org/wiki/Parameter_(computer_programming)
+
+### permutation prompts
+
+* [Permutation Prompts](https://docs.midjourney.com/docs/permutations)
 
 ### 表現 piaufhienz
 

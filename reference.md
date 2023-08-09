@@ -1,10 +1,5 @@
 # 參考
 
-### A Chinese-English dictionary : Taiwan Dialect
-
-* K.T. Tân
-* 南天書局
-
 ### A Natural Programming Method - Programming with Natural Language
 
 * [http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu](http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu)
