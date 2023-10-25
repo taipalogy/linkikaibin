@@ -1,4 +1,4 @@
-# 參考 A~G
+# 參考 A~Z
 
 ### abstract
 
@@ -92,10 +92,6 @@
 ### code
 
 * 碼
-
-### Code Atlas
-
-* [Code Atlas](https://githubnext.com/projects/code-atlas)
 
 ### component
 
@@ -578,10 +574,6 @@
 
 * [Parameter](https://en.wikipedia.org/wiki/Parameter_(computer_programming)
 
-### permutation prompts
-
-* [Permutation Prompts](https://docs.midjourney.com/docs/permutations)
-
 ### 表現 piaufhienz
 
 * 字眼 a phrase; an expression. _A Chinese-English Dictionary Taiwan Dialect_
@@ -925,30 +917,3 @@
 ### variable
 
 * 變數. _Maryknoll_
-
-## 日語/日本話/日本語
-
-### 大きい
-
-* [https://ja.wiktionary.org/wiki/おおきい](https://ja.wiktionary.org/wiki/おおきい)
-
-### 小さい
-
-* [https://ja.wiktionary.org/wiki/ちいさい](https://ja.wiktionary.org/wiki/ちいさい)
-
-## 韓語/韓國語
-
-### 작다
-
-* [https://zh.wiktionary.org/zh-hant/작다](https://zh.wiktionary.org/zh-hant/작다)
-
-### 크다
-
-* [https://zh.wiktionary.org/zh-hant/크다](https://zh.wiktionary.org/zh-hant/크다)
-
-## 日韓
-
-### 色
-
-* color. colour.
-* [http://www.kpedia.jp/p/127-2](http://www.kpedia.jp/p/127-2)

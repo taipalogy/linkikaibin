@@ -1,4 +1,9 @@
-# 參考
+# 參考 辭典 網站
+
+### A Chinese-English dictionary : Taiwan Dialect
+
+* K.T. Tân
+* 南天書局
 
 ### A Natural Programming Method - Programming with Natural Language
 
@@ -45,10 +50,6 @@
 
 * [http://www.taiwanesedictionary.org](http://www.taiwanesedictionary.org)
 
-### Natural language user interface:
-
-* [https://en.wikipedia.org/wiki/Natural\_language\_user\_interface](https://en.wikipedia.org/wiki/Natural_language_user_interface)
-
 ### Naver
 
 * [http://dic.naver.com/](http://dic.naver.com/)
@@ -59,7 +60,7 @@
 
 ### Oxford Dictionary, Thesaurus, and Wordpower Guide
 
-### **Random House Webster's Dictionary of American English**
+### Random House Webster's Dictionary of American English
 
 ### 新訂日臺大辭典
 
@@ -98,3 +99,30 @@
 * [http://ejje.weblio.jp/](http://ejje.weblio.jp/)
 
 ### Wikipedia
+
+## 日語/日本話/日本語
+
+### 大きい
+
+* [https://ja.wiktionary.org/wiki/おおきい](https://ja.wiktionary.org/wiki/おおきい)
+
+### 小さい
+
+* [https://ja.wiktionary.org/wiki/ちいさい](https://ja.wiktionary.org/wiki/ちいさい)
+
+## 韓語/韓國語
+
+### 작다
+
+* [https://zh.wiktionary.org/zh-hant/작다](https://zh.wiktionary.org/zh-hant/작다)
+
+### 크다
+
+* [https://zh.wiktionary.org/zh-hant/크다](https://zh.wiktionary.org/zh-hant/크다)
+
+## 日韓
+
+### 色
+
+* color. colour.
+* [http://www.kpedia.jp/p/127-2](http://www.kpedia.jp/p/127-2)
