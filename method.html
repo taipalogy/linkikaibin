@@ -1,0 +1,466 @@
+<h2>Contents</h2>
+
+<ul>
+	<li><a href="#Introduction1">Introduction</a></li>
+	<li><a href="#ProgrammingwithNaturalLanguage2">Programming with Natural Language</a></li>
+	<li><a href="#TheAmbiguity3">The Ambiguity</a></li>
+	<li><a href="#NotPolymorphic4">Not Polymorphic</a></li>
+	<li><a href="#AnotherPerspectiveofCode5">Another Perspective of Code</a></li>
+	<li><a href="#NotaMereTranslation6">Not a Mere Translation</a></li>
+	<li><a href="#ReducingBarrierstoEntry7">Reducing Barriers to Entry</a></li>
+	<li><a href="#AdaptiveDesign8">Adaptive Design</a></li>
+	<li><a href="#Co-workingwithExistingComputerLanguages9">Co-working with Existing Computer Languages</a></li>
+	<li><a href="#NotaProgrammingParadigm10">Not a Programming Paradigm</a></li>
+</ul>
+
+<h2><a name="Introduction1">Introduction</a></h2>
+
+<p>Are English and C different languages? Yes, the former is a natural language, and the latter is a computer language. Do they share something in common? Yes, they do, they are both logical languages. Since they are both logical languages, why don&rsquo;t we just write English text to run a computer? Why do we program a computer with a computer language rather than a natural language? In the following text, we will be using natural language to program. When we refer to characters, we mean Hanji, aka Kanji in Japanese or Hanja in Korean, and Kana, Hangul. Characters are romanized when present in following text. One cell of a lookup table holds a definition for the table key. A definition is a language element such as a statement, a declaration, and so on.</p>
+
+<p>Below is a dictionary for terms we use in the following paragraphs.</p>
+
+<table class="ArticleTable">
+	<thead>
+		<tr>
+			<td>Term</td>
+			<td>Meaning</td>
+		</tr>
+		<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Hangul</td>
+			<td>Syllabic blocks of letters as Korean characters</td>
+		</tr>
+		<tr>
+			<td>Hanja</td>
+			<td>Chinese characters</td>
+		</tr>
+		<tr>
+			<td>Hanji</td>
+			<td>Chinese characters</td>
+		</tr>
+		<tr>
+			<td>Japanese language</td>
+			<td>A language using Kanji, Hirakana, and Katakana</td>
+		</tr>
+		<tr>
+			<td>Kana</td>
+			<td>Syllabic Japanese characters known as Hirakana and Katakana</td>
+		</tr>
+		<tr>
+			<td>Kanji</td>
+			<td>Chinese characters</td>
+		</tr>
+		<tr>
+			<td>Korean language</td>
+			<td>A language using Hangul and Hanja</td>
+		</tr>
+		<tr>
+			<td>Taiwanese language</td>
+			<td>A language using Hanji and Latin alphabet</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Below is another dictionary for the characters we use in the following paragraphs.</p>
+
+<table class="ArticleTable">
+	<thead>
+		<tr>
+			<td>Character</td>
+			<td>Meaning</td>
+		</tr>
+		<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>INw</td>
+			<td>v. to print</td>
+		</tr>
+		<tr>
+			<td>LOKK</td>
+			<td>v. to record</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>n. records</td>
+		</tr>
+		<tr>
+			<td>LOKw INw</td>
+			<td>v. to record the voice and then print it out</td>
+		</tr>
+		<tr>
+			<td>SOK</td>
+			<td>v. to speed up the printer</td>
+		</tr>
+		<tr>
+			<td>SOKf LOKw INw</td>
+			<td>v. to speed up the printer, record the text, and print it out</td>
+		</tr>
+		<tr>
+			<td>SOKf CHUANf INw</td>
+			<td>v. to speed up the printer, transfer the text, and print it out</td>
+		</tr>
+		<tr>
+			<td>CHUANy</td>
+			<td>v. to transfer</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>n. transfers</td>
+		</tr>
+		<tr>
+			<td>CHUANf INw</td>
+			<td>v. to transfer the text and print it out</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2><a name="ProgrammingwithNaturalLanguage2">Programming with Natural Language</a></h2>
+
+<p>Let&rsquo;s have a look at the example code before diving into the details. Below is a lookup table:</p>
+
+<pre lang="text">
+LOKK: def record end
+  INw: puts &quot;a short example&quot;; puts &quot;This is a longer example.&quot;
+</pre>
+
+<p>The table has two Hanji table keys. For one of the table keys LOKK, which means &quot;to record&quot;, it has one definition &quot;def exemplify end.&quot; For the other table key INw, which means &quot;to print&quot;, it has two definitions. One is puts &quot;a short example,&quot; the other is puts &quot;This is a longer example.&quot; They are separated by a semicolon. We can then compose LOKK and INw to form a phrase &quot;LOKw INw.&quot; Any two given characters can be combined together and remain syntactically correct. No declension or conjugation is required. The pronunciation does change but we don&rsquo;t cover this topic here. Below is the combined phrase and its correspondent code snippet:</p>
+
+<pre lang="text">
+//
+// LOKw INw
+//
+def record
+  puts &quot;This is a longer example&quot;
+end</pre>
+
+<p>Why is only one definition of INw is combined with LOKK&rsquo;s definition? The selection of one of the definitions is regulated by a lookup rule as shown below:</p>
+
+<pre lang="text">
+LOKK.INw:0.2</pre>
+
+<p>The rule says, when INw is appended after LOKK, the 2nd definition of INw is selected and 0 means &quot;don&rsquo;t care&quot; for LOKK. And why is INw nested in LOKK? Because the combination rule for LOKK and INw is as following:</p>
+
+<pre lang="text">
+LOKK &gt; INw</pre>
+
+<p>A Greater Than symbol can mean the 1<sup>st</sup> character nest the 2<sup>nd</sup> one.</p>
+
+<p>The English phrase &quot;wise up&quot; means &quot;become aware of or informed about something,&quot; according to Oxford Dictionaries. It doesn&#39;t mean &quot;become wise and go up.&quot; It changes the original meaning of &quot;wise&quot; and &quot;up&quot; to some extend and comes out with a new meaning. When any two characters form a phrase, the latter also somewhat changes the original meaning of the former. We would otherwise use a series of C macros to program the code if the meaning of a phrase is just a simple accumulation of the meaning of the individual word or character.</p>
+
+<h2><a name="TheAmbiguity3">The Ambiguity</a></h2>
+
+<p>A character can have more than one definition when it is composed in a sentence. The same rule holds true for an English word. The above code snippets are an unambiguous example. Here is an ambiguous English example:</p>
+
+<pre lang="text">
+The house can be bought for 10 dollars or 1 million dollars.
+</pre>
+
+<p>The subject &quot;the house&quot; has 2 meanings. For 10 dollars, it means a toy house. For 1 million dollars, it means a concrete house. The lookup table for this English sentence is shown as below:</p>
+
+<pre lang="text">
+        The house: acquire(theToyHouse); acquire(theConcreteHouse);
+       10 dollars: pay(10);
+1 million dollars: pay(1000000);
+can be bought for: void buy() {}</pre>
+
+<p>The lookup rule is as following:</p>
+
+<pre lang="text">
+       The house.10 dollars:1.0
+The house.1 million dollars:2.0</pre>
+
+<p>The first definition of &quot;The house&quot; will be selected for 10 dollars. The second definition of &quot;The house&quot; will be selected for 1 million dollars. We would then have 2 meanings for this sentence. One is &quot;The toy house can be bought for 10 dollars.&quot; The other is &quot;The concrete house can be bought for 1 million dollars.&quot; The combination rules is as following:</p>
+
+<pre lang="text">
+can be bought for &gt;</pre>
+
+<p>&quot;can be bought for&quot; will nest all other statements, which is presented by a Greater-Than symbol. There are no combination rules set for others words in the sentence, so sequential combination is assumed for the other 4 statements:</p>
+
+<pre lang="text">
+void buy() {
+  acquire(theToyHouse);
+  pay(10);
+  acquire(theConcreteHouse);
+  pay(1000000);
+}</pre>
+
+<h2><a name="NotPolymorphic4">Not Polymorphic</a></h2>
+
+<p>Polymorphism is a feature of object-oriented programming. Polymorphism allows an object of a derived class to be passed to a polymorphic function which accepts a reference to its base class. The is-a or kind-of relationship is guaranteed through inheritance of class. Thus we say the derived class is substitutable for base class.</p>
+
+<p>The method has nothing to do with polymorphism. It does compose polymorphic code, but it is not involved in dynamic binding. When program code is composed, we are also composing a natural phrase or sentence in parallel. We may as well use the literal meaning of is-a or kind-of relationship to refer to the polysemy or monosemy of a word or character. The relationship is then obviously not guaranteed through inheritance of class, but through polysemy or monosemy of a word or character.</p>
+
+<h2><a name="AnotherPerspectiveofCode5">Another Perspective of Code</a></h2>
+
+<p>The method is not intended to replace computer language. In fact, it provides a new perspective of source code.</p>
+
+<p>When we write program in a traditional way, firstly a thought or idea is formed in our brain. We then break down the thought or idea into logical units. The process of breaking down the thought or idea is mostly conducted by induction and deduction. The logical units, such as function calls, variables, or class declarations, are constructed and organized into a working program. Then this well composed program code is ready to be parsed, interpreted or compiled, and then executed.</p>
+
+<p>From another perspective of source code, we can break it up into statements. Each statement in a program code is composed in such a way that it forms a nested or sequential combination with previous or next statement. Given that, each statement can be represented by a word or character. We try to make it easier to understand by assigning only one word or character to each statement, a statement could be represented by a couple of words or characters though. We can then have a sequence of words or characters, which should be in itself a phrase or sentence of natural language.</p>
+
+<h2><a name="NotaMereTranslation6">Not a Mere Translation</a></h2>
+
+<p>A computer language is made of a fixed set of keywords and punctuations. Furthermore, the keywords of main stream computer languages are all English words. There have been efforts made to develop non-English-based computer languages. They are, however, not widely used all over the world. The non-English-based computer languages have non-English keywords. They are suitable for those programmers whose mother tongues are not English.</p>
+
+<p>Do English-based and non-English-based computer languages have something in common? Yes, they are all logical languages. A few of them are mere translations from existing computer languages. By translation, I mean the keywords are translated from English- based computer languages.</p>
+
+<p>The method is not a mere translation from any computer languages. As the title suggests, a programming method has to be operable. We can operate the method to write computer programs. In other words, we write computer programs via this method.</p>
+
+<p>The method is also not a Text Entry Method/Input Method. A text entry method is just a software tool we use to generate a sequence of words or characters by typing on keyboard. The generated sequence of words or characters will then be used by the method. The method can sure co-work with non-English-based computer languages.</p>
+
+<h2><a name="ReducingBarrierstoEntry7">Reducing Barriers to Entry</a></h2>
+
+<p>The method is a step further from computer language to human beings. It intermediates between computer language and programmers. Since it intermediates, there has to be a mechanism for it. The words or phrases we type in natural language will be mapped to certain statements in computer language via this mechanism. Since we type in natural language, we understand the source code through natural lexicon and sentences. Since we can understand computer language through natural language, we definitely reduce the entry barriers to computer languages.</p>
+
+<p>When we assign a word or character to a statement, the word or character itself can be regarded as a comment to the statement. It may not be an elaborate one, but it could just co-exist with source code comments. They can refer to each other.</p>
+
+<h2><a name="AdaptiveDesign8">Adaptive Design</a></h2>
+
+<p>When we assign a set of statements to a word or character, what we are actually doing is providing options to it. One of the provided options will be selected according to the context of a natural language phrase or sentence. In other words, the action of selecting means adapting to the context. If the context changes, the selection changes. When code can be adaptive to the context, it can be more flexible and responsive to the context.</p>
+
+<p>We can view source code as 2 parts in terms of adaptation, one part is adaptive and the other is unadaptive. Where does adaptation come from? A software program may be fitted into a variety of hardware. A software program may be even used by different users under different conditions. An adaptive software program can be responsive to the context with the support of its unadaptive program core. The adaptive part of software program makes the unadaptive part flexible and responsive, and the unadaptive part of software program provides core functionality to the adaptive part and support it. Let&rsquo;s add a new entry CHUANy to the lookup table:</p>
+
+<pre lang="text">
+ LOKK: def record end
+CHUANy: def transfer end
+   INw: puts &quot;a short example&quot;; puts &quot;This is a longer example.&quot;</pre>
+
+<p>Add a lookup rule like this:</p>
+
+<pre lang="text">
+CHUANy.INw:0.1</pre>
+
+<p>And add a combination rule like this:</p>
+
+<pre lang="text">
+CHUANy &gt; INw</pre>
+
+<p>We can hence get the code snippet by writing a phrase CHUANf INw:</p>
+
+<pre lang="text">
+//
+// CHUANf INw
+//
+def transfer
+  puts &quot;a short example&quot;
+end</pre>
+
+<p>It is obvious that we switch the meaning of INw by replacing LOKK with CHUANy, so that INw is adaptive and responsive to the changing context of INw. We can also add unadaptive code to the snippet. Provided the character SOK means to speed up a virtual printer for printing text, we can add a new entry SOK to the lookup table:</p>
+
+<pre lang="text">
+  SOK: def speedUpPrinter end
+ LOKK: def record end
+CHUANy: def transfer end
+   INw: puts &quot;a short example&quot;; puts &quot;This is a longer example.&quot;</pre>
+
+<p>And add 2 entries of combination rules:</p>
+
+<pre lang="text">
+SOK &lt;&gt; LOKK
+SOK &lt;&gt; CHUANy</pre>
+
+<p>The notation Less-Than followed by a Greater-Than means that SOK and LOKK forms a sequential combination. In other words, SOK does not nest LOKK and SOK is not nested by LOKK. The same rule applies to SOK and CHUANy. In practice, we can usually assume sequential combination for any two adjacent characters and omit the combination rules for them.</p>
+
+<p>Hence for the 2 phrases SOK LOKw INw and SOK CHUANf INw, we have their relative code snippets:</p>
+
+<pre lang="text">
+//
+// SOK LOKw INw
+//
+def speedUpPrinter
+end
+
+def record
+  puts &quot;This is a longer example.&quot;
+end</pre>
+
+<p>and:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+def speedUpPrinter
+end
+
+def transfer
+  puts &quot;a short example&quot;
+end</pre>
+
+<p>SOK is therefore the unadaptive part of the code.</p>
+
+<h2><a name="Co-workingwithExistingComputerLanguages9">Co-working with Existing Computer Languages</a></h2>
+
+<p>The method doesn&rsquo;t replace existing computer language. Natural language will be co- working with computer language. The operations applied on natural languages will be reflected on the combinations of statements of computer languages. The following are examples for the method to co-work with different programming languages, such as the lookup table for Python:</p>
+
+<pre lang="text">
+  SOK: def speedUpPrinter():
+ LOKK: def record():
+CHUANy: def transfer():
+   INw: print &#39;python code&#39;; print &#39;longer python code&#39;</pre>
+
+<p>The Python code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+def speedUpPrinter():
+
+def transfer():
+  print &#39;python code&#39;</pre>
+
+<p>The lookup table for C:</p>
+
+<pre lang="text">
+  SOK: void speedUpPrinter(){}
+ LOKK: void record(){}
+CHUANy: void transfer(){}
+   INw: printf(&quot;c code\n&quot;); printf(&quot;longer c code\n&quot;);</pre>
+
+<p>The C code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+void speedUpPrinter(){
+}
+
+void transfer(){
+  printf(&quot;c code&quot;);
+}</pre>
+
+<p>The lookup table for Swift:</p>
+
+<pre lang="text">
+  SOK: func speedUpPrinter() {}
+ LOKK: func record() {}
+CHUANy: func transfer() {}
+   INw: println(&quot;swift code&quot;); println(&quot;longer swift code&quot;)</pre>
+
+<p>The Swift code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+func speedUpPrinter(){
+}
+
+func transfer(){
+  println(&quot;swift code&quot;)
+}</pre>
+
+<p>The lookup table for XML Markup languages:</p>
+
+<pre lang="text">
+  SOK: &lt;printer&gt;speeding up&lt;/printer&gt;
+ LOKK: &lt;records&gt; &lt;/records&gt;
+CHUANy: &lt;transfers&gt; &lt;/transfers&gt;
+   INw: print xml text; print longer xml text</pre>
+
+<p>The XML code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+&lt;printer&gt;
+  speeding up
+&lt;/printer&gt;
+&lt;transfer&gt;
+  print xml text
+&lt;/transfer&gt;</pre>
+
+<h2><a name="NotaProgrammingParadigm10">Not a Programming Paradigm</a></h2>
+
+<p>The method can be applied to existing programming paradigms, being it functional, procedural, or object-oriented. Given a code snippet, it can be parsed into 2 types of combination. One type is nested combination, and the other type is sequential combination. In the example of C language, a for-loop can enclose a couple of statements. We can say for-loop is the nesting statement and the enclosed statements are the nested statements. In the example of a function definition, the function name and its return type are the nesting statement and the function body is the nested statement. The next one is sequential combination. When 2 statements are aligned with the same indentation, we say they form a sequential combination. For example, when 2 function calls are aligned, we say they are sequential.</p>
+
+<p>The method is not a new programming paradigm. In other words, a programming method is not a programming paradigm. The method can also be applied to any newly invented paradigms. The lookup table for Object-oriented paradigm:</p>
+
+<pre lang="text">
+  SOK: void speedUpPrinter() {}
+ LOKK: void record (PrintingObject prnObj) {}
+CHUANy: void transfer (PrintingObject prnObj) {}
+   INw: prnObj.Print(); prnObj.PrintLonger();</pre>
+
+<p>The Object-Oriented code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+void speedUpPrinter(){
+}
+
+void transfer(PrintingObject prnObj){
+  prnObj.Print();
+}</pre>
+
+<p>The lookup table for Scripting paradigm:</p>
+
+<pre lang="text">
+  SOK: function speedUpPrinter(){}
+ LOKK: function record(){}
+CHUANy: function transfer(){}
+   INw: alert(&#39;javascript code&#39;); alert(&#39;longer javascript code&#39;)</pre>
+
+<p>The Scripting code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+void speedUpPrinter(){
+}
+
+void transfer(){
+  alert(&lsquo;javascript code);
+}</pre>
+
+<p>The lookup table for Functional paradigm:</p>
+
+<pre lang="text">
+  SOK: (defun speedupPrinter)
+ LOKK: (defun record ())
+CHUANy: (defun transfer())
+   INw: (format t &quot;lisp code&quot;); (format t &quot;longer lisp code&quot;)</pre>
+
+<p>The Functional code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+(defun speedupprinter)
+(defun transfer()
+  (format t &quot;lisp code&quot;)
+)</pre>
+
+<p>The lookup table for Declarative paradigm:</p>
+
+<pre lang="text">
+  SOK: #speedingUpThePrinter {transition-duration: 1s;}
+ LOKK: #records {}
+CHUANy: #transfers {}
+   INw: background-color: #ffffff; background-color: #000000</pre>
+
+<p>The Declarative code snippet for the phrase SOK CHUANf INw:</p>
+
+<pre lang="text">
+//
+// SOK CHUANf INw
+//
+#speedingUpThePrinter {
+  transition-duration: 1s;
+}
+
+#transfers {
+  background-color: #ffffff
+}</pre>

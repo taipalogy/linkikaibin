@@ -5,10 +5,6 @@
 * K.T. Tân
 * 南天書局
 
-### A Natural Programming Method - Programming with Natural Language
-
-* [http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu](http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu)
-
 ### 愛說台語五千年
 
 * 王華南
@@ -33,10 +29,6 @@
 ### ジーニアス英和大辞典
 
 * Taishukan's Unabridged Genius English–Japanese Dictionary
-
-### Implementation of Natural Programming Method
-
-* [http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method](http://www.codeproject.com/Articles/862071/Implementation-of-Natural-Programming-Method)
 
 ### 角川新字源
 

@@ -1,0 +1,479 @@
+<ul class="download">
+	<li><a href="862071/xmas-tree.zip">Download source code - 7.3 KB</a></li></ul>
+
+<h2>Introduction</h2>
+
+<p>This is an implementation of natural programming method. The background knowledge in my previous article is required for this article. In the following ordered list, the first one is the previous article. The second one is the article you are now reading and is the sequel to the first one.</p>
+
+<h3>Natural Programming Method</h3>
+
+<ol>
+	<li><a href="method.html">A Natural Programming Method - Programming with Natural Language</a></li>	<li>Implementation of Natural Programming Method</li></ol>
+
+<p>In this article, the method is realized through English, Japanese, Korean, and Taiwanese language. The method can be coded in various computer languages. Target language code is of a variety of choices. All of the romanizations of hanja/hanji/kanji is in uppercase and all of the spellings of English words, Japanese and Korean forms, and Taiwanese tones is either alphabetic or alphanumeric in lowercase.</p>
+
+<p>In the following code snippet:</p>
+
+<pre lang="jscript">
+Parser.new(Matcher.new("writes | eighteen & red").match([_WRITE, _EIGHT, _RED])).\
+to_ast.to_javascript(ctx)
+</pre>
+
+<p>Wherein <code>"writes | eighteen &amp; red"</code> is source language. <code>[_WRITE, _EIGHT, _RED]</code> is source text. <code>to_javascript()</code> is target language.</p>
+
+<p>Below is the legend for forms, tones, and words. Each form/tone/word represents an element of a member array of forms/tones/words of a Hanja/Hanji/Ideogram/Kanji object:</p>
+
+
+
+	<table class="ArticleTable"><caption>Legend form/tone/word</caption><thead>		<tr>			<td>&nbsp;</td>			<th>HANJA</th>			<th>HANJI</th>			<th>IDEOGRAM</th>			<th>KANJI</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot n</th>			<td>form</td>			<td>tone</td>			<td>word</td>			<td>form</td>		</tr>	</tbody></table>
+
+<p>Below is a legend for statements. Each statement represents an element of an array of statements of a Hanja/Hanji/Ideogram/Kanji object:</p>
+
+
+
+	<table class="ArticleTable"><caption>Legend statement</caption><thead>		<tr>			<td>&nbsp;</td>			<th>HANJA/HANJI/IDEOGRAM/KANJI</th>		</tr>	</thead>	<tbody>		<tr>			<th>statement n</th>			<td>statement</td>		</tr>	</tbody></table>
+
+<p>Below is a dictionary for all the romanizations of Hanja/Hanji/Kanji:</p>
+
+
+
+	<table class="ArticleTable"><caption>Dictionary － Theme of Xmas Tree</caption><thead>		<tr>			<th>English</th>			<th>Hanja</th>			<th>Hanji</th>			<th>Kanji</th>		</tr>	</thead>	<tbody>		<tr>			<td>gold</td>			<td>&nbsp;</td>			<td>KIM</td>			<td>&nbsp;</td>		</tr>		<tr>			<td>red</td>			<td>PPALGANG</td>			<td>ANG</td>			<td>AKA</td>		</tr>		<tr>			<td>silver</td>			<td>&nbsp;</td>			<td>GIN</td>			<td>&nbsp;</td>		</tr>		<tr>			<td>eight</td>			<td>&nbsp;</td>			<td>PEH</td>			<td>&nbsp;</td>		</tr>		<tr>			<td>write</td>			<td>SSEUDA</td>			<td>SIA</td>			<td>KAKU</td>		</tr>		<tr>			<td>green</td>			<td>PUREUN</td>			<td>CINN</td>			<td>AO</td>		</tr>	</tbody></table>
+
+<h2>Background</h2>
+
+<p>In this article, we use the terms lookup or select for the basic operations on arrays or sets.</p>
+
+<h2>Hanja, Hanji, and Kanji Are Ideograms</h2>
+
+<p>The method is all about how we compose and&nbsp;decompose and group a sequence of ideograms.</p>
+
+<p>Japanese, Korean, and Taiwanese languages all use ideograms. The intrinsic mechanism of Japanese and Korean is able to inflect to compose and decompose a series of ideograms. Taiwanese language use tone sandhi instead of inflection.</p>
+
+<p>The romanization in uppercase is used to denote the ideogram of a hanja or kanji, while the romanization in lowercase is used to denote the inflectional forms of the ideogram of a hanja or kanji.</p>
+
+<p>The romanization in uppercase without tone mark (diacritic) is used to denote the ideogram of a hanji, while the romanization in lowercase with tone mark is used to denote the tones of the ideogram of a hanji.</p>
+
+<p>Since there are no ideograms in English language, we just translate them to corresponding english words instead of romanization.</p>
+
+<h2>Series and Sequence</h2>
+
+<p>A sequence of hanjas/hanjis/ideograms/kanjis is a series of hanjas/hanjis/ideograms/kanjis without combination operators. A series returns a sum of its members.</p>
+
+<ul>
+	<li>This is a sequence of numbers: <b>1, 2, 3, 4, 5</b></li>	<li>This is a series of numbers: <b>1 + 2 + 3 + 4 + 5</b></li>	<li>This is a sequence of ideograms: <b>WRITE GREEN RED</b> or <b>WRITE-GREEN-RED</b></li>	<li>This is a series of ideograms: <b>WRITE|GREEN&amp;RED</b></li></ul>
+
+<h2>Expression and Match Data</h2>
+
+<p>An expression is used to match a sequence of Hanjas/Hanjis/Ideograms/Kanjis. A matched sequence is a series. A series is an array of expression nodes returned by matcher as match data. A series can then be shunted by parser to build an abstract syntax tree.</p>
+
+<ul>
+	<li>This is an expression: <code>writes greener-red</code></li>	<li>This is an expression: <code>writes|greener&amp;red</code></li>	<li>This is a matched sequence: <code>WRITE|GREEN&amp;RED</code></li>	<li>A matched sequence is a series: <code>WRITE|GREEN&amp;RED</code></li></ul>
+
+<h2>Sequence, Group, and Hanja/Hanji/Ideogram/Kanji</h2>
+
+<p>Below is the shortest sequence with only one hanji:</p>
+
+
+
+	<table class="ArticleTable"><caption>The shortest sequence and group.</caption><tbody>		<tr>			<td>HANJI</td>		</tr>		<tr>			<td>GROUP</td>		</tr>	</tbody></table>
+
+<p>The shortest group is equal to the shortest sequence in length. Below is the second shortest sequence with a group of 2 hanjis or just 2 individual hanjis:</p>
+
+
+
+	<table class="ArticleTable"><caption>The second shortest sequence and group.</caption><tbody>		<tr>			<td>HANJI</td>			<td>HANJI</td>		</tr>		<tr>			<td colspan="2">GROUP</td>		</tr>	</tbody></table>
+
+<p>Below is a sequence of hanjis wrapped to 4 lines to show how many hanjis a group has. The 1<sup>st</sup>, 2<sup>nd</sup>, and 3<sup>rd</sup> group is 2-hanji in length. The 4<sup>th</sup> group is 3-hanji in length. The 5<sup>th</sup> group is 4-hanji in length. There is a total of 25 hanjis in the below table:</p>
+
+
+
+	<table class="ArticleTable"><caption>A folded view of a sequence of hanjis</caption><tbody>		<tr>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>		</tr>		<tr>			<td>HANJI</td>			<td colspan="2">GROUP</td>			<td colspan="2">GROUP</td>		</tr>		<tr>			<td colspan="2">GROUP</td>			<td colspan="3">GROUP</td>		</tr>		<tr>			<td colspan="4">GROUP</td>			<td colspan="1">HANJI</td>		</tr>	</tbody></table>
+
+<p>Below is a linear view of the above table:</p>
+
+
+
+	<table class="ArticleTable"><caption>A linear view of a sequence of hanjis</caption><tbody>		<tr>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>			<td>&nbsp;</td>		</tr>		<tr>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td>HANJI</td>			<td colspan="2">GROUP</td>			<td colspan="2">GROUP</td>			<td colspan="2">GROUP</td>			<td colspan="3">GROUP</td>			<td colspan="4">GROUP</td>			<td colspan="1">HANJI</td>		</tr>	</tbody></table>
+
+<p>The intrinsic mechanism of English, Japanese, Korean, and Taiwanese language are already able to make groups.</p>
+
+<h2>A Group is a Lengthened Hanja/Hanji/Ideogram/Kanji</h2>
+
+<p>When a hanji is in a group, it is a grouped hanji. The same applies to hanja and kanji. If not, it is an ungrouped hanji. Lookup or selection can be done bidirectionally in a group. It is from a left-hand hanji to a right-hand hanji or vice versa. Lookup or selection across group boundaries is masked.</p>
+
+<p>When we look at a group from a series' perspective, a group is just a lengthened hanji. What a series would do to its member hanjis could also be applied to its member groups.</p>
+
+<p>When evaluating a group, the default statement is returned by each group member and combined accordingly if no lookup or selection rule is assigned for that member. The collective statements are returned by a group to the series.</p>
+
+<p>A group is not a phrase. A group is composed of Hanjas/Hanjis/Ideograms/Kanjis, while a phrase is composed of English/Japanese/Korean/Taiwanese words.</p>
+
+<h2>Coherence of a Group</h2>
+
+<p>There is no such thing as setting up a combination type for 2 member hanjis across group boundaries. A tone of a hanji is determined for that hanji to become a member of a group. All of the hanjis together in that group thus form a coherent unit. A single hanji is also coherent in itself. Just use a group as a whole for any combinations.</p>
+
+<p>A similar mechanism could be applied to Japanese and Korean. An inflectional form of a hanja or kanji is determined for that hanja or kanji to become a member of a group. All of the hanjas or kanjis together in that group thus form a coherent unit.</p>
+
+<p>There are no ideograms in English. A similar inflectional mechanism can also be used to make groups.</p>
+
+<h2>The Purpose of a Series</h2>
+
+<p>A member in a series is either a hanja/hanji/ideogram/kanji or a group. The first statement, which is stored at index 0 of an array in a Hanji object, is the default statement for that hanji. The statements of a group are the collective returned values of its members. When evaluating a <code>Series</code> object, the default statement is returned by each series member and combined accordingly if no lookup or selection rule is assigned for that member.</p>
+
+<p>The collective statements returned by the evaluated series is the target language code.</p>
+
+<h2>The Mechanism of Grouping: Inflection and Tone Sandhi</h2>
+
+<p>Sandhi is the process whereby the form of a word changes as a result of its position in an utterance, according to Oxforddictionaries.</p>
+
+<p>Any given hanji can have more than 1 tone. The original tone of a hanji can be stored at index 0 of an array. The non-original tones can be stored at index 1, 2, and 3 of an array. Original tone is the tone we use to look up a hanji in dictionary. If a hanji is in original tone, it must be either in a series or at the end of a group. A hanji otherwise in non-original tone must be in a group except at the end of it.</p>
+
+<p>Linguistic inflection exhibits the same functionality as tone sandhi. It can hence be used by an expression to match a series of ideograms. English inflection can make use of the change in the stem, prefix, and suffix of a word. Japanese and Korean inflection can make use of the change in the suffix based on a dictionary/plain form or a stem. No matter how the inflectional mechanism may differ, there is always an original form and many non-original forms which we can make use of to make a group. What we can do with tone sandhi can also be done with inflection, since they both come with an original form from which many non-original forms derive.</p>
+
+<h2>Grouping and Inflection of English Language</h2>
+
+<p>In the following table, we put green, which is a stem, in the first slot of the GREEN table. We can then put greener, which is green suffixed with -er, in the second slot. Finally we can put green suffixed with -est in the third slot. The GREEN's words array is then populated as below:</p>
+
+
+
+	<table class="ArticleTable"><caption>青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>GREEN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>green</td>		</tr>		<tr>			<th>slot 1</th>			<td>greener</td>		</tr>		<tr>			<th>slot 2</th>			<td>greenest</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"green"</b>, <b>"greener"</b>, or <b>"greenest"</b> expression to match GREEN sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("green").match([_GREEN])
+Matcher.new("greener").match([_GREEN])
+Matcher.new("greenest").match([_GREEN])
+</pre>
+
+<p>We can also populate RED's words array with red, redder, and reddest:</p>
+
+
+
+	<table class="ArticleTable"><caption>紅</caption><thead>		<tr>			<td>&nbsp;</td>			<th>RED</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>red</td>		</tr>		<tr>			<th>slot 1</th>			<td>redder</td>		</tr>		<tr>			<th>slot 2</th>			<td>reddest</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"red"</b>, <b>"redder"</b>, or <b>"reddest"</b> expression to match RED sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("red").match([_RED])
+Matcher.new("redder").match([_RED])
+Matcher.new("reddest").match([_RED])</pre>
+
+<p>We can now use green and red to make groups:</p>
+
+
+
+	<table class="ArticleTable"><caption>青紅</caption><thead>		<tr>			<td>&nbsp;</td>			<th>GREEN</th>			<th>&nbsp;</th>			<th>RED</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>green</td>			<td rowspan="3">&amp;</td>			<td>red</td>		</tr>		<tr>			<th>slot 1</th>			<td>greener</td>			<td>redder</td>		</tr>		<tr>			<th>slot 2</th>			<td>greenest</td>			<td>reddest</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"greener &amp; red"</b> expression to match GREEN-RED sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("greener &amp; red").match([_GREEN, _RED])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>紅青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>RED</th>			<th>&nbsp;</th>			<th>GREEN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>red</td>			<td rowspan="3">&amp;</td>			<td>green</td>		</tr>		<tr>			<th>slot 1</th>			<td>redder</td>			<td>greener</td>		</tr>		<tr>			<th>slot 2</th>			<td>reddest</td>			<td>greenest</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"redder &amp; green"</b> expression to match RED-GREEN sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("redder &amp; green").match([_RED, _GREEN])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>寫青紅</caption><thead>		<tr>			<td>&nbsp;</td>			<th>WRITE</th>			<th>&nbsp;</th>			<th>GREEN</th>			<th>&nbsp;</th>			<th>RED</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>write</td>			<td rowspan="2">|</td>			<td>green</td>			<td rowspan="2">&amp;</td>			<td>red</td>		</tr>		<tr>			<th>slot 1</th>			<td>writes</td>			<td>greener</td>			<td>redder</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"writes | greener &amp; red"</b> expression to match WRITE-GREEN-RED sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("writes | greener &amp; red").match([_WRITE, _GREEN, _RED])
+</pre>
+
+<p>The English language has its own grouping mechanism. A group validator can be incorporated to validate a group.</p>
+
+<h2>Grouping and Inflection of Japanese Language</h2>
+
+<p>The same can be applied to Japanese as follows:</p>
+
+
+
+	<table class="ArticleTable"><caption>青赤</caption><thead>		<tr>			<td>&nbsp;</td>			<th>AO</th>			<th>&nbsp;</th>			<th>AKA</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>ao</td>			<td rowspan="2">&amp;</td>			<td>aka</td>		</tr>		<tr>			<th>slot 1</th>			<td>aoi</td>			<td>akai</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"aoi &amp; aka"</b> expression to match AO-AKA sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("aoi &amp; aka").match([_AO, _AKA])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>赤青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>AKA</th>			<th>&nbsp;</th>			<th>AO</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>aka</td>			<td rowspan="2">&amp;</td>			<td>ao</td>		</tr>		<tr>			<th>slot 1</th>			<td>akai</td>			<td>aoi</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"akai &amp; ao"</b> expression to match AKA-AO sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("akai &amp; ao").match([_AKA, _AO])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>書青赤</caption><thead>		<tr>			<td>&nbsp;</td>			<th>KAKU</th>			<th>&nbsp;</th>			<th>AO</th>			<th>&nbsp;</th>			<th>AKA</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>kaku</td>			<td rowspan="2">|</td>			<td>ao</td>			<td rowspan="2">&amp;</td>			<td>aka</td>		</tr>		<tr>			<th>slot 1</th>			<td>kaki</td>			<td>aoi</td>			<td>akai</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"kaki | aoi &amp; aka"</b> expression to match KAKI-AO-AKA sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("kaki | aoi &amp; aka").match([_KAKU, _AO, _AKA])
+</pre>
+
+<p>The Japanese language has its own grouping mechanism. A group validator can be incorporated to validate a group.</p>
+
+<h2>Grouping and Inflection of Korean Language</h2>
+
+<p>The same can be applied to Korean as follows:</p>
+
+
+
+	<table class="ArticleTable"><caption>青赤</caption><thead>		<tr>			<td>&nbsp;</td>			<th>PUREUN</th>			<th>&nbsp;</th>			<th>PPALGANG</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>pureun</td>			<td rowspan="2">&amp;</td>			<td>ppalgang</td>		</tr>		<tr>			<th>slot 1</th>			<td>pureuda</td>			<td>ppalgan</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"pureuda &amp; ppalgang"</b> expression to match PUREUN-PPALGANG sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("pureuda &amp; ppalgang").match([_PUREUN, _PPALGANG])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>赤青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>PPALGANG</th>			<th>&nbsp;</th>			<th>PUREUN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>ppalgang</td>			<td rowspan="2">&amp;</td>			<td>pureun</td>		</tr>		<tr>			<th>slot 1</th>			<td>ppalgan</td>			<td>pureuda</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"ppalgan &amp; pureun"</b> expression to match PPALGANG-PUREUN sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("ppalgan &amp; pureun").match([_PPALGANG, _PUREUN])
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>書青赤</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SSEUDA</th>			<th>&nbsp;</th>			<th>PUREUN</th>			<th>&nbsp;</th>			<th>PPALGANG</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>sseuda</td>			<td rowspan="3">|</td>			<td>pureun</td>			<td rowspan="3">&amp;</td>			<td>ppalgang</td>		</tr>		<tr>			<th>slot 1</th>			<td>sseugi</td>			<td>pureuda</td>			<td>ppalgan</td>		</tr>		<tr>			<th>slot 2</th>			<td>sseugo</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"sseugo | pureuda &amp; ppalgang"</b> expression to match SSEUGO-PUREUN-PPALGANG sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("sseugo | pureuda &amp; ppalgang").match([_SSEUDA, _PUREUN, _PPALGANG])
+</pre>
+
+<p>The Korean language has its own grouping mechanism. A group validator can be incorporated to validate a group.</p>
+
+<h2>Grouping and Tone Sandhi of Taiwanese Language</h2>
+
+<p>Below is a table for CINN populated with original tone "cinn" and non-original tone "cinnz".</p>
+
+
+
+	<table class="ArticleTable"><caption>青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>The tones can also be transcribed to alphanumeric, which makes cinn act as a stem and numbers 1 and 7 act as suffixes to the stem:</p>
+
+
+
+	<table class="ArticleTable"><caption>青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>cinn1</td>		</tr>		<tr>			<th>slot 1</th>			<td>cinn7</td>		</tr>	</tbody></table>
+
+<p>A matched hanji is either in a series or in a group. When it is in a series, it is a series member. When it is in a group, it is a group member. When a hanji in a series or at the end of a group, it is determined with its original tone which is stored at index 0 of tones array:</p>
+
+
+
+	<table class="ArticleTable"><caption>青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>Any 2 given hanjis can be grouped together. When 2 or more hanjis are grouped together, each group member is determined with one of its tones. A group of hanjis can be viewed as a lengthened hanji. A specific tone of each member hanji is determined. When you group at least 2 hanjis together, you also determine a specific pronunciation for this group. In other words, when you determine a specific tone for at least 2 hanjis, you group them together. The pronunciation of a group is the concatenation of the tone of each of its member hanjis.</p>
+
+<p>The kimz at slot 1 is concatenated with the ginx at slot 0. KIM must be in a group since its non-original tone is determined as below:</p>
+
+
+
+	<table class="ArticleTable"><caption>金銀</caption><thead>		<tr>			<td>&nbsp;</td>			<th>KIM</th>			<th>&nbsp;</th>			<th>GIN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>kim</td>			<td rowspan="2">&amp;</td>			<td>ginx</td>		</tr>		<tr>			<th>slot 1</th>			<td>kimz</td>			<td>ginz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"kimz &amp; ginx"</b> expression to match KIM-GIN sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("kimz &amp; ginx").match([_KIM, _GIN])
+</pre>
+
+<p>KIM-GIN-CINN sequence is a group of 3 hanjis:</p>
+
+
+
+	<table class="ArticleTable"><caption>金銀青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>KIM</th>			<th>&nbsp;</th>			<th>GIN</th>			<th>&nbsp;</th>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>kim</td>			<td rowspan="2">&amp;</td>			<td>ginx</td>			<td rowspan="2">&amp;</td>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>kimz</td>			<td>ginz</td>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"kimz &amp; ginz &amp; cinn"</b> expression to match KIM-GIN-CINN sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("kimz &amp; ginz &amp; cinn").match([_KIM, _GIN, _CINN])
+</pre>
+
+<p>KIM-GIN-CINN-ANG sequence is a group of 4 hanjis:</p>
+
+
+
+	<table class="ArticleTable"><caption>金銀青紅</caption><thead>		<tr>			<td>&nbsp;</td>			<th>KIM</th>			<th>&nbsp;</th>			<th>GIN</th>			<th>&nbsp;</th>			<th>CINN</th>			<th>&nbsp;</th>			<th>ANG</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>kim</td>			<td rowspan="2">&amp;</td>			<td>ginx</td>			<td rowspan="2">&amp;</td>			<td>cinn</td>			<td rowspan="2">&amp;</td>			<td>angx</td>		</tr>		<tr>			<th>slot 1</th>			<td>kimz</td>			<td>ginz</td>			<td>cinnz</td>			<td>angz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"kimz &amp; ginz &amp; cinnz &amp; angx"</b> expression to match KIM-GIN-CINN-ANG sequence as below:</p>
+
+<pre lang="jscript">
+Matcher.new("kimz &amp; ginz &amp; cinnz &amp; angx").match([_KIM, _GIN, _CINN, _ANG])
+</pre>
+
+<p>We can incorporate a Taiwanese group validator to validate the groups.</p>
+
+<h2>Grouping and Combination</h2>
+
+<p>Combination takes place between any hanji-hanji pair, hanji-group pair, and group-group pair. You can combine any hanjis or groups with combination operators and they can form either a sequential or nesting combination. The same applies to hanja and kanji.</p>
+
+<p>In the below example, SIA, PEH, and CINN are 3 individual Hanji objects and not in a group. PEH is combined with CINN via an Or operator. SIA is combined with PEH-CINN via an And operator. A series <b>SIA|PEH&amp;CINN</b> is thus generated by Matcher. The tones table is as below:</p>
+
+
+
+	<table class="ArticleTable"><caption>寫[]八[]青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SIA</th>			<th>[]</th>			<th>PEH</th>			<th>[]</th>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>siay</td>			<td rowspan="2">|</td>			<td>peh</td>			<td rowspan="2">&amp;</td>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>sia</td>			<td>pehy</td>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"siay | peh &amp; cinn"</b> expression to match SIA-PEH-CINN sequence as below:</p>
+
+<pre lang="jscript">
+m = Matcher.new("siay | peh &amp; cinn").match([_SIA, _PEH, _CINN])
+</pre>
+
+<p>In the below example, SIA is a hanji and PEH-CINN is a group of 2 hanji.</p>
+
+
+
+	<table class="ArticleTable"><caption>寫[]八青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SIA</th>			<th>[]</th>			<th>PEH</th>			<td>&nbsp;</td>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>siay</td>			<td rowspan="2">|</td>			<td>peh</td>			<td rowspan="2">&amp;</td>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>sia</td>			<td>pehy</td>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"siay | pehy &amp; cinn"</b> expression to match SIA-PEH-CINN sequence as below:</p>
+
+<pre lang="jscript">
+m = Matcher.new("siay | pehy &amp; cinn").match([_SIA, _PEH, _CINN])</pre>
+
+<p>When SIA is grouped with PEH-CINN sequence:</p>
+
+
+
+	<table class="ArticleTable"><caption>寫八青</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SIA</th>			<th>&nbsp;</th>			<th>PEH</th>			<th>&nbsp;</th>			<th>CINN</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>siay</td>			<td rowspan="2">|</td>			<td>peh</td>			<td rowspan="2">&amp;</td>			<td>cinn</td>		</tr>		<tr>			<th>slot 1</th>			<td>sia</td>			<td>pehy</td>			<td>cinnz</td>		</tr>	</tbody></table>
+
+<p>We can use <b>"sia | pehy &amp; cinn"</b> expression to match SIA-PEH-CINN sequence as below:</p>
+
+<pre lang="jscript">
+m = Matcher.new("sia | pehy &amp; cinn").match([_SIA, _PEH, _CINN])
+</pre>
+
+<p>When you don't group or select, the hanji is just like printed on paper or screen as a symbol or an ideogram.</p>
+
+
+
+	<table class="ArticleTable"><caption>寫</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SIA</th>		</tr>	</thead>	<tbody>		<tr>			<th>slot 0</th>			<td>siay</td>		</tr>		<tr>			<th>slot 1</th>			<td>sia</td>		</tr>	</tbody></table>
+
+<pre lang="jscript">
+sia = HanjiExpression.new("寫")
+sia.tones = %w[siay sia]
+</pre>
+
+
+
+	<table class="ArticleTable"><caption>寫</caption><thead>		<tr>			<td>&nbsp;</td>			<th>SIA</th>		</tr>	</thead>	<tbody>		<tr>			<th>statement 0</th>			<td><code>function write() {}</code></td>		</tr>	</tbody></table>
+
+<pre lang="jscript">
+sia.statements = ["function write() {}"]
+</pre>
+
+<h2>Associativity</h2>
+
+<p>Associtivity of evaluation of a <code>Series</code> object is assumed from right to left, being it in groups or parentheses.</p>
+
+<h2>Context</h2>
+
+<p>Lookup or selection rules are stored in context. A rule is an array stored as an item in a <code>Set</code>. The convention of a rule is:</p>
+
+<pre lang="jscript">
+rule[_SELF, _OTHER, index]
+</pre>
+
+<p>The above rule means: <b>rule[0]</b> wants <b>statements[index]</b> from <b>rule[1]</b>. That can be then translated to: <code>_SELF</code> wants the statements[index] from <code>_OTHER</code>.</p>
+
+<p>For example, PEH wants the element at statements[2] from ANG:</p>
+
+<pre lang="jscript">
+cxt.add([_PEH, _ANG, 2])
+</pre>
+
+<p>A local copy of context for a group can be extracted from the global one when evaluating a Group object.</p>
+
+<h2>Combination Operators</h2>
+
+<p>Combinations take place between any two adjacent series members and adjacent group members. The two basic combination types are nesting and sequential. Sequential combination is easier to be implemented than nesting combination in that we just display the statements one by one in sequential order. For nesting combination, we can split up the collective statements from the left-hand node and enclose the collective statements from the right-hand node.</p>
+
+<h2>Breakdown of the Source Code</h2>
+
+<ul>
+	<li>Expressions
+	<ul>
+		<li>And expression</li>		<li>Or expression</li>		<li>Ideogram expression
+		<ul>
+			<li>Hanja expression</li>			<li>Hanji expression</li>			<li>Kanji expression</li>		</ul>
+		</li>		<li>AST wrapper
+		<ul>
+			<li>Series</li>			<li>Group</li>		</ul>
+		</li>	</ul>
+	</li>	<li>Context</li>	<li>Matching
+	<ul>
+		<li>scanning</li>		<li>lexing</li>		<li>casting</li>		<li>creating node objects</li>		<li>returning expression nodes</li>	</ul>
+	</li>	<li>Parsing
+	<ul>
+		<li>building AST</li>		<li>shunting</li>		<li>evaluating/compiling/interpreting to target language code</li>	</ul>
+	</li></ul>
+
+<h4>Expressions</h4>
+
+<p>Expressions are implemented as Interpreter design pattern. Hanja/Hanji/Ideogram/Kanji class is a terminal expression. <code>And</code> class and <code>Or</code> class are non-terminal expressions. <code>ASTWrapper</code> class is implemented as Wrapper design patter. <code>Series</code> class and <code>Group</code> class are implemented as wrappers of abstract syntax tree.</p>
+
+<p><code>Series</code> object and <code>Group</code> object both have a member variable representing the abstract syntax tree. A <code>Series</code> object also has Hanja/Hanji/Ideogram/Kanji objects and <code>Group</code> objects from the abstract syntax tree as its series members. A <code>Group</code> object also has <code>Hanji</code> objects from the abstract syntax tree as its group members.</p>
+
+<h4>Context</h4>
+
+<p><code>Context</code> is a Ruby Set object.</p>
+
+<h4>Matching</h4>
+
+<p>The implementation of <code>Matcher</code> class places emphasis on matching. Scanning and Lexing are extremely minimized to only one line of code in this implementation:</p>
+
+<pre lang="text">
+@lexer = expression.scan(/[[:alnum:]]+|\&amp;|\|/)
+</pre>
+
+<p>and:</p>
+
+<pre lang="text">
+@lexer.shift
+</pre>
+
+<p>We always have to match a form with a hanja or kanji, a tone with a hanji, and a word with an ideogram. The matcher is responsible for matching an expression with a sequence of Hanja/Hanji/Ideogram/Kanji objects. When a match is found, the matcher casts the form to the Hanja or Kanji object, the tone to the Hanji object, and the word to the <code>Ideogram</code> object. A form/tone/word of a Hanja/Hanji/Ideogram/Kanji object is then determined by casting.</p>
+
+<p>Each token will be matched with a Hanja/Hanji/Ideogram/Kanji object or used to create an And or Or expression object. An array of expression nodes is consist of Hanja/Hanji/Ideogram/Kanji objects as operands, And objects as operators, and Or objects as operators. The array of expression nodes is then returned as match data by matcher.</p>
+
+<h4>Parsing</h4>
+
+<p>A parser constructor takes match data as its argument. Match data have to be shunted by parser to build an abstract syntax tree. If you want to add ability of handling parentheses to the shunting yard algorithm, you can also do it in the shunt method.</p>
+
+<p>Method <code>to_ast</code> calls method shunt to shunt the match data:</p>
+
+<pre lang="text">
+def to_ast
+  return shunt
+end</pre>
+
+<p>The shunted match data is actually an abstract syntax tree. An abstract syntax tree is ready to be evaluated/compiled/interpreted to target language code. A visitor pattern can be incorporated to perform various operations on an abstract syntax tree.</p>
+
+<h2>Conclusion</h2>
+
+<p>This article is a basic realization for the method. There is still more to be done. Every language has its own limitations and abilities and we will try to make the best out of them.</p>
+
+<h2>History</h2>
+
+<ul>
+	<li>Jan 8, 2015: Add a link to my previous article at the beginning of the Introduction section</li>	<li>Jan 9, 2015: Add a tiny list to give readers an overview of the 2 articles in series. Correct the definition of series and sequence. A series should be a matched sequence. Add some examples of sequence and series. Rephrase the list of 2 articles in the Introduction section.</li></ul>
