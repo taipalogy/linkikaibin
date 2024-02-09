@@ -1,4 +1,4 @@
-# 參考 Interface
+# 參考 相關
 
 * [Code Atlas](https://githubnext.com/projects/code-atlas)
 * [Permutation Prompts](https://docs.midjourney.com/docs/permutations)
